@@ -1,0 +1,9 @@
+title: "Auto Welt Demo"
+description: "Simple car listings with Jekyll + Decap CMS"
+
+collections:
+  cars:
+    output: true   # each car gets its own page under /cars/...
+
+# Optional: set a baseurl if this is a project site (not username.github.io)
+# baseurl: "/carsales-jekyll-website"

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; margin: 1.5rem; background:#f5f5f5; }
+    h1 { margin-bottom: 1rem; }
+    .controls { display:flex; flex-wrap:wrap; gap:0.75rem; margin-bottom:1.5rem; }
+    .controls label { font-size: 0.9rem; }
+    .controls input, .controls select {
+      padding:0.35rem 0.5rem; font-size:0.9rem; min-width: 6rem;
+    }
+    #cars-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1rem;
+    }
+    .car-card {
+      background:white;
+      border-radius: 8px;
+      padding: 0.75rem;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      display:flex;
+      flex-direction:column;
+      gap:0.5rem;
+    }
+    .car-card img {
+      max-width: 100%;
+      border-radius: 4px;
+      object-fit: cover;
+      max-height: 160px;
+    }
+    .car-main {
+      display:flex;
+      justify-content:space-between;
+      align-items:flex-start;
+      gap:0.5rem;
+    }
+    .car-title { font-weight:600; margin:0; }
+    .car-price { font-weight:700; }
+    .car-meta { font-size:0.85rem; color:#555; }
+    .car-desc { font-size:0.9rem; color:#333; }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>

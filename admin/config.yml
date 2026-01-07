@@ -1,0 +1,26 @@
+backend:
+  name: github
+  repo: OlehLazurkevych/autowelt-demo.github.io
+  branch: main
+  base_url: https://netlifyfunctionsoauthforgithub.netlify.app
+  auth_endpoint: /.netlify/functions/oauth-start
+  site_domain: autowelt-demo.github.io # optional but recommended
+
+media_folder: "assets/uploads"   # where images are stored in repo
+public_folder: "/assets/uploads" # how the site references them
+
+collections:
+  - name: "cars"
+    label: "Cars"
+    folder: "_cars"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Price", name: "price", widget: "number" }
+      - { label: "Year", name: "year", widget: "number" }
+      - { label: "Mileage (km)", name: "mileage", widget: "number", required: false }
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: "Description", name: "body", widget: "markdown", required: false }

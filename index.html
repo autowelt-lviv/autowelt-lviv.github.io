@@ -1,0 +1,109 @@
+---
+layout: default
+title: autowelt demo
+---
+
+<h1>Cars for Sale</h1>
+
+<div class="controls">
+  <label>
+    Sort by:
+    <select id="sort-select">
+      <option value="price-asc">Price ↑</option>
+      <option value="price-desc">Price ↓</option>
+      <option value="year-desc">Year (newest)</option>
+      <option value="year-asc">Year (oldest)</option>
+    </select>
+  </label>
+
+  <label>
+    Min year:
+    <input type="number" id="filter-year-min" placeholder="e.g. 2015">
+  </label>
+
+  <label>
+    Max price:
+    <input type="number" id="filter-price-max" placeholder="e.g. 20000">
+  </label>
+</div>
+
+<div id="cars-grid">
+  {% assign cars = site.cars %}
+  {% for car in cars %}
+    <article class="car-card"
+             data-price="{{ car.price | default: 0 }}"
+             data-year="{{ car.year | default: 0 }}">
+      {% if car.image %}
+        <img src="{{ car.image }}" alt="{{ car.title }}">
+      {% endif %}
+
+      <div class="car-main">
+        <div>
+          <h2 class="car-title">{{ car.title }}</h2>
+          <div class="car-meta">
+            Year: {{ car.year }}<br>
+            Mileage: {{ car.mileage }} km
+          </div>
+        </div>
+        <div class="car-price">
+          {{ car.price }} €
+        </div>
+      </div>
+
+      {% if car.content %}
+        <p class="car-desc">{{ car.content | strip_html | truncate: 160 }}</p>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>
+
+<script>
+  (function() {
+    const grid = document.getElementById('cars-grid');
+    const cards = Array.from(grid.querySelectorAll('.car-card'));
+    const sortSelect = document.getElementById('sort-select');
+    const yearMinInput = document.getElementById('filter-year-min');
+    const priceMaxInput = document.getElementById('filter-price-max');
+
+    function applyFiltersAndSort() {
+      const minYear = parseInt(yearMinInput.value, 10) || 0;
+      const maxPrice = parseInt(priceMaxInput.value, 10) || Infinity;
+      const sortValue = sortSelect.value;
+
+      let visible = cards.filter(card => {
+        const year = parseInt(card.dataset.year || '0', 10);
+        const price = parseInt(card.dataset.price || '0', 10);
+        if (year && year < minYear) return false;
+        if (price && price > maxPrice) return false;
+        return true;
+      });
+
+      visible.sort((a, b) => {
+        const ay = parseInt(a.dataset.year || '0', 10);
+        const by = parseInt(b.dataset.year || '0', 10);
+        const ap = parseInt(a.dataset.price || '0', 10);
+        const bp = parseInt(b.dataset.price || '0', 10);
+
+        switch (sortValue) {
+          case 'price-asc':  return ap - bp;
+          case 'price-desc': return bp - ap;
+          case 'year-asc':   return ay - by;
+          case 'year-desc':  return by - ay;
+          default:           return 0;
+        }
+      });
+
+      // Clear and re-append
+      grid.innerHTML = '';
+      visible.forEach(card => grid.appendChild(card));
+    }
+
+    [sortSelect, yearMinInput, priceMaxInput].forEach(el => {
+      el.addEventListener('input', applyFiltersAndSort);
+      el.addEventListener('change', applyFiltersAndSort);
+    });
+
+    // Initial sort
+    applyFiltersAndSort();
+  })();
+</script>
