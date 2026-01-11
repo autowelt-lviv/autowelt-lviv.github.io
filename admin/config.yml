@@ -13,8 +13,9 @@ logo:
   src: /assets/img/logo.png
   show_in_header: true
 
-media_folder: "assets/uploads"   # where images are stored in repo
-public_folder: "/assets/uploads" # how the site references them
+media_folder: "assets/uploads/cars"   # where images are stored in repo
+public_folder: "/assets/uploads/cars" # how the site references them
+publish_mode: editorial_workflow
 
 collections:
   - name: "cars"
@@ -22,8 +23,8 @@ collections:
     folder: "_cars"
     create: true
     slug: "{{slug}}-{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}"
-    media_folder: "assets/uploads/cars/{{slug}}"
-    public_folder: "/assets/uploads/cars/{{slug}}"
+    media_folder: "assets/uploads/cars/{{slug}}-{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}"
+    public_folder: "/assets/uploads/cars/{{slug}}-{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}"
     extension: "md"
     format: "frontmatter"
     fields:
