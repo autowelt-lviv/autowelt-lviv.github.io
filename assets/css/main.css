@@ -1,56 +1,147 @@
-body { font-family: system-ui, -apple-system, sans-serif; margin: 1.5rem; background:#f5f5f5; }
-
-h1 { margin-bottom: 1rem; }
-
-.controls { display:flex; flex-wrap:wrap; gap:0.75rem; margin-bottom:1.5rem; }
-
-.controls label { font-size: 0.9rem; }
-
-.controls input, .controls select {
-  padding:0.35rem 0.5rem; font-size:0.9rem; min-width: 6rem;
+:root{
+  --bg: #0b0b0c;
+  --card: #121216;
+  --muted: rgba(255,255,255,.68);
+  --text: rgba(255,255,255,.92);
+  --border: rgba(255,255,255,.10);
+  --shadow: 0 10px 30px rgba(0,0,0,.35);
 }
 
-#cars-grid {
+*{ box-sizing: border-box; }
+html,body{ height:100%; }
+body{
+  margin:0;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  background: radial-gradient(1200px 600px at 50% -10%, rgba(255,255,255,.08), transparent 60%), var(--bg);
+  color: var(--text);
+}
+
+a{ color: inherit; }
+
+.page{
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 18px 14px 28px;
+}
+
+.container{
+  width: 100%;
+  max-width: 820px; /* slim centered */
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+/* fixed-height sections */
+.section--hero{ height: 150px; }
+.section--sort{ height: 64px; }
+.section--footer{ height: 120px; }
+
+.section{
+  background: rgba(255,255,255,.02);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+  padding: 14px;
+}
+
+/* 1) hero */
+.hero{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.hero__logo{
+  width: 86px;
+  height: 86px;
+  object-fit: contain;
+  border-radius: 14px;
+  background: rgba(255,255,255,.04);
+  border: 1px solid var(--border);
+  padding: 10px;
+}
+.hero__desc{
+  margin: 0 0 8px;
+  color: var(--muted);
+  line-height: 1.35;
+  font-size: 14px;
+}
+.hero__phone{
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 800;
+  letter-spacing: .2px;
+  font-size: 18px;
+}
+
+/* 2) sort */
+.sortbar{
+  height: 100%;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.btn{
+  appearance: none;
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,.04);
+  color: var(--text);
+  border-radius: 12px;
+  padding: 10px 12px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.btn:active{ transform: translateY(1px); }
+.btn--ghost:hover{ background: rgba(255,255,255,.07); }
+
+/* 3) cars */
+.section--cars{
+  padding: 14px;
+}
+
+.cars-grid{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1rem;
+  grid-template-columns: 1fr;
+  gap: 12px;
 }
 
-.car-card {
-  background:white;
-  border-radius: 8px;
-  padding: 0.75rem;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-  display:flex;
-  flex-direction:column;
-  gap:0.5rem;
+/* 2 columns on “laptop”, 1 on small mobile */
+@media (min-width: 520px){
+  .cars-grid{ grid-template-columns: 1fr 1fr; }
 }
 
-.car-card img {
-  max-width: 100%;
-  border-radius: 4px;
-  object-fit: cover;
-  max-height: 160px;
+/* fixed card size */
+.car-card{
+  text-decoration: none;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 6px 18px rgba(0,0,0,.25);
+  display: flex;
+  flex-direction: column;
+  height: 260px; /* fixed H */
 }
-
-.car-main {
-  display:flex;
-  justify-content:space-between;
-  align-items:flex-start;
-  gap:0.5rem;
+.car-card:hover{
+  border-color: rgba(255,255,255,.18);
+  transform: translateY(-1px);
+  transition: 140ms ease;
 }
-
-.car-title { font-weight:600; margin:0; }
-.car-price { font-weight:700; }
-.car-meta { font-size:0.85rem; color:#555; }
-.car-desc { font-size:0.9rem; color:#333; }
 
 .car-card__imgwrap{
-  position: relative;
-  overflow: hidden;
-  border-radius: 12px; /* optional */
+  height: 150px; /* fixed image area */
+  background: rgba(255,255,255,.04);
+}
+.car-card__img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
+/* Deposit badge */
 .car-badge{
   position: absolute;
   top: 10px;
@@ -64,9 +155,115 @@ h1 { margin-bottom: 1rem; }
   background: #111;
   box-shadow: 0 6px 18px rgba(0,0,0,0.25);
 }
-
 .car-badge--deposit{ background: #ff8f00; }   /* orange */
-
 .is-dimmed{
   filter: grayscale(0.2) brightness(0.7);
+}
+
+.car-card__body{
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.car-card__top{
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.car-card__bottom{
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.car-card__title{
+  font-weight: 900;
+  font-size: 15px;
+  line-height: 1.15;
+  letter-spacing: .2px;
+  max-width: 70%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.car-card__price{
+  font-weight: 900;
+  font-size: 16px;
+  letter-spacing: .2px;
+}
+
+.car-card__meta{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 12px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.meta-item{
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.meta-ico{
+  width: 14px;
+  height: 14px;
+  display: inline-flex;
+}
+.meta-ico svg{
+  width: 14px;
+  height: 14px;
+}
+
+/* 4) footer actions */
+.actions{
+  height: 70px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.action-btn{
+  background: rgba(255,255,255,.04);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-weight: 800;
+  cursor: pointer;
+  user-select: none;
+}
+.action-btn:hover{ background: rgba(255,255,255,.07); }
+.action-ico{
+  width: 18px;
+  height: 18px;
+  display: inline-flex;
+}
+.action-ico svg{
+  width: 18px;
+  height: 18px;
+}
+
+.copyright{
+  margin-top: 10px;
+  color: rgba(255,255,255,.55);
+  font-size: 12px;
+  text-align: center;
+}
+
+/* Mobile tuning */
+@media (max-width: 420px){
+  .section--hero{ height: 170px; }
+  .hero{ align-items: flex-start; }
+  .hero__logo{ width: 74px; height: 74px; }
+  .actions{ grid-template-columns: 1fr; height: auto; }
+  .section--footer{ height: auto; }
 }

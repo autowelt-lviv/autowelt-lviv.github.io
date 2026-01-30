@@ -3,6 +3,7 @@ title: Audi Q7 Premium Plus
 price_usd: 21300
 year: 2017
 engine: 2.0 бензин
+drive: Передній привід
 under_deposit: false
 photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769805846/2026-01-30_21.49.01_knq3au.jpg

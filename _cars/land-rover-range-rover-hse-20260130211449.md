@@ -3,6 +3,7 @@ title: Land Rover Range Rover HSE
 price_usd: 22500
 year: 2015
 engine: 3.0 бензин
+drive: Передній привід
 under_deposit: false
 photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769805850/2026-01-30_22.42.26_tshwqh.jpg
