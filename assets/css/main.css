@@ -81,7 +81,7 @@ a{ color: inherit; }
   justify-content: center;   /* logo + text centered as a group */
 }
 .hero__text{
-  max-width: 520px;
+  max-width: 240px;
 }
 .hero__logo{
   width: 90px;
