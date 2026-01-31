@@ -13,14 +13,19 @@ body{
   font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
   background:
     radial-gradient(
-      900px 500px at 50% 0%,
-      rgba(180, 220, 255, 0.65),
+      1500px 600px at 50% -30%,
+      rgba(160, 210, 255, 0.75),
+      transparent 65%
+    ),
+    radial-gradient(
+      900px 600px at 50% 110%,
+      rgba(255, 200, 215, 0.55),
       transparent 70%
     ),
     linear-gradient(
       to bottom,
-      #f6fbff 0%,     /* very light sky */
-      #fbeef3 100%    /* Japanese rose tint */
+      #fbfdff 0%,
+      #fff4f7 100%
     );
 
   background-repeat: no-repeat;
@@ -60,8 +65,8 @@ a{ color: inherit; }
   padding: 10px 0;
 }
 
-.section + .section{
-  border-top: 1px solid rgba(147, 180, 192, 0.52);
+.section--cars + .section--footer{
+  border-top: 1px solid rgba(255, 180, 200, 0.25);
   padding-top: 14px;
 }
 
@@ -89,12 +94,13 @@ a{ color: inherit; }
 }
 .hero__desc{
   margin: 0 0 6px;
-  color: rgba(0,0,0,0.55);
+  color: rgba(20, 35, 60, 0.68); /* soft blue-gray */
   line-height: 1.35;
   font-size: 14px;
 }
 .hero__phone{
   display: inline-block;
+  color: rgba(15, 25, 45, 0.92); /* strong but not harsh */
   text-decoration: none;
   font-weight: 800;
   letter-spacing: .2px;
@@ -112,17 +118,18 @@ a{ color: inherit; }
 .btn{
   min-width: 170px;
   appearance: none;
-  border: 1px solid var(--border);
-  background: rgba(255,255,255,.04);
-  color: var(--text);
+  border: 1px solid rgba(120, 170, 220, 0.25);
+  background: rgba(180, 220, 255, 0.35);
+  color: rgba(20, 35, 60, 0.85);
   border-radius: 12px;
   padding: 12px 14px;
   text-align: center;
   font-weight: 700;
   cursor: pointer;
+  transition: 160ms ease;
 }
-.btn:active{ transform: translateY(1px); }
-.btn--ghost:hover{ background: rgba(255,255,255,.07); }
+.btn:active{ transform: scale(0.98); }
+.btn--ghost:hover{ background: rgba(180, 220, 255, 0.55); }
 
 /* 3) cars */
 .section--cars{
@@ -145,19 +152,22 @@ a{ color: inherit; }
 /* fixed card size */
 .car-card{
   text-decoration: none;
-  background: var(--card);
-  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.78); /* translucent white */
+  border: 1px solid rgba(0, 0, 0, 0.06);
   border-radius: 16px;
   overflow: hidden;
-  box-shadow: 0 6px 18px rgba(0,0,0,.25);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
   display: flex;
   flex-direction: column;
   height: 260px; /* fixed H */
+  transition: 180ms ease;
+  color: rgba(20, 30, 45, 0.92);
 }
 .car-card:hover{
-  border-color: rgba(255,255,255,.18);
-  transform: translateY(-1px);
+  border-color: rgba(255, 255, 255, 0.92); /* brighter glass */
+  transform: translateY(-2px);
   transition: 140ms ease;
+  box-shadow: 0 14px 30px rgba(0,0,0,0.12);
 }
 
 .car-card__imgwrap{
@@ -222,19 +232,21 @@ a{ color: inherit; }
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  color: rgba(15, 25, 40, 0.95);
 }
 
 .car-card__price{
   font-weight: 900;
   font-size: 16px;
   letter-spacing: .2px;
+  color: #2a5bd7; /* sky accent */
 }
 
 .car-card__meta{
   display: flex;
   flex-wrap: wrap;
   gap: 10px 12px;
-  color: rgba(0,0,0,0.55);
+  color: rgba(20, 35, 60, 0.55);
   font-size: 12px;
 }
 
@@ -262,18 +274,20 @@ a{ color: inherit; }
 }
 
 .action-btn{
-  background: rgba(255,255,255,.04);
-  border: 1px solid var(--border);
+  background: rgba(255, 240, 245, 0.55); /* soft rose */
+  border: 1px solid rgba(255, 180, 200, 0.25);
+  color: rgba(20, 35, 60, 0.85);
+  font-weight: 750;
   border-radius: 14px;
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 10px;
-  font-weight: 800;
   cursor: pointer;
   user-select: none;
+  transition: 160ms ease;
 }
-.action-btn:hover{ background: rgba(255,255,255,.07); }
+.action-btn:hover{ background: rgba(255, 210, 225, 0.75); /* stronger rose glow */ }
 .action-ico{
   width: 18px;
   height: 18px;
@@ -286,7 +300,7 @@ a{ color: inherit; }
 
 .copyright{
   margin-top: 10px;
-  color: rgba(0, 0, 0, 0.55);
+  color: rgba(20, 35, 60, 0.48); /* light muted gray-blue */
   font-size: 12px;
   text-align: center;
 }
