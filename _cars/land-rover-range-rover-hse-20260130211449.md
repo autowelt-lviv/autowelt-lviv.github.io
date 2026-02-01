@@ -5,6 +5,7 @@ year: 2015
 engine: 3.0 бензин
 drive: Передній привід
 under_deposit: false
+on_site: true
 photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769805850/2026-01-30_22.42.26_tshwqh.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769805850/2026-01-30_22.42.30_s8t48o.jpg

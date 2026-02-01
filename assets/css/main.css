@@ -108,6 +108,27 @@ a{ color: inherit; }
 }
 
 /* 2) sort */
+.btn--wide{
+  width: 100%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 10px; /* keeps it above sort buttons */
+}
+.btn--primary{
+  background: rgba(180, 220, 255, 0.55);
+  border: 1px solid rgba(120, 170, 220, 0.30);
+  color: rgba(20, 35, 60, 0.90);
+}
+.btn--primary:hover{
+  background: rgba(180, 220, 255, 0.75);
+}
+.btn__arrow{
+  font-weight: 900;
+  transform: translateY(-0.5px);
+}
+
 .sortbar{
   height: 100%;
   display: flex;
@@ -250,6 +271,18 @@ a{ color: inherit; }
   gap: 10px 12px;
   color: rgba(20, 35, 60, 0.55);
   font-size: 12px;
+}
+
+.car-card__status{
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.2px;
+  color: rgba(20, 35, 60, 0.70);
+  background: rgba(255, 210, 225, 0.35);
+  border: 1px solid rgba(255, 180, 200, 0.25);
+  border-radius: 999px;
+  padding: 6px 10px;
+  width: fit-content;
 }
 
 .meta-item{

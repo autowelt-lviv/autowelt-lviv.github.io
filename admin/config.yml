@@ -31,6 +31,7 @@ collections:
       - { label: "Engine", name: "engine", widget: "string", required: false }
       - { label: "Drive", name: "drive", widget: "string", required: false }
       - { label: "Under deposit", name: "under_deposit", widget: "boolean", default: false, required: false }
+      - { label: "On site", name: "on_site", widget: "boolean", default: true, required: true }
       # multi-photo list (any amount)
       - label: "Photos"
         name: "photos"

@@ -5,6 +5,7 @@ year: 2019
 engine: 3.0 бензин
 drive: Передній привід
 under_deposit: true
+on_site: true
 photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769805857/2026-01-30_22.42.57_o6bnuv.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769805858/2026-01-30_22.43.02_egfgce.jpg

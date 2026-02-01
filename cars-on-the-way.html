@@ -1,6 +1,7 @@
 ---
 layout: default
-title: AutoWelt
+title: AutoWelt Cars on the way
+permalink: /cars-on-the-way/
 ---
 
 <div class="page">
@@ -24,8 +25,9 @@ title: AutoWelt
 
     <!-- 2) Sort buttons (no logic yet) -->
     <section class="section section--sort">
-      <a class="btn btn--wide btn--primary" href="{{ '/cars-on-the-way/' | relative_url }}">
-        Take a look at cars on the way
+      <a class="btn btn--wide btn--primary" href="{{ '/' | relative_url }}">
+        <span class="btn__arrow" aria-hidden="true">←</span>
+        Go back to cars on site
       </a>
 
       <div class="sortbar">
@@ -39,7 +41,7 @@ title: AutoWelt
       <div class="cars-grid">
         {% assign cars_sorted = site.cars %}
         {% for car in cars_sorted %}
-          {% if car.on_site == true %}
+          {% if car.on_site == false %}
             {% assign cover = car.photos[0] | default: site.default_car_image %}
 
             <a class="car-card" href="{{ car.url | relative_url }}" aria-label="Open {{ car.title | escape }}">
@@ -53,6 +55,11 @@ title: AutoWelt
               <div class="car-card__body">
                 <div class="car-card__top">
                   <div class="car-card__title">{{ car.title }}</div>
+                </div>
+
+                <!-- 4) Explicitly mention status -->
+                <div class="car-card__status">
+                  The car is on the way
                 </div>
 
                 <div class="car-card__meta">

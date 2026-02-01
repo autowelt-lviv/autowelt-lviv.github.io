@@ -5,6 +5,7 @@ year: 2019
 engine: 1.6 бензин/hybrid
 drive: Передній привід
 under_deposit: false
+on_site: false
 photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769817553/2026-01-31_01.53.52_mq5lky.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769817554/2026-01-31_01.53.55_vmqcwk.jpg
