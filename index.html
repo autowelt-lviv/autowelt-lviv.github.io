@@ -24,25 +24,29 @@ title: AutoWelt
 
     <!-- 2) Sort buttons (no logic yet) -->
     <section class="section section--sort">
-      <a class="btn btn--wide btn--primary" href="{{ '/cars-on-the-way/' | relative_url }}">
-        Take a look at cars on the way
-      </a>
-
       <div class="sortbar">
-        <button class="btn btn--ghost" type="button">Sort by price</button>
-        <button class="btn btn--ghost" type="button">Sort by year</button>
+        <button class="btn btn--ghost" id="sortPrice" type="button">
+          Sort by price <span class="btn-arrow" aria-hidden="true"></span>
+        </button>
+        <button class="btn btn--ghost" id="sortYear" type="button">
+          Sort by year <span class="btn-arrow" aria-hidden="true"></span>
+        </button>
       </div>
     </section>
 
     <!-- 3) Cars grid (flexible height) -->
     <section class="section section--cars">
-      <div class="cars-grid">
+      <div class="cars-grid" id="carsGrid">
         {% assign cars_sorted = site.cars %}
         {% for car in cars_sorted %}
           {% if car.on_site == true %}
             {% assign cover = car.photos[0] | default: site.default_car_image %}
 
-            <a class="car-card" href="{{ car.url | relative_url }}" aria-label="Open {{ car.title | escape }}">
+            <a class="car-card"
+              href="{{ car.url | relative_url }}"
+              aria-label="Open {{ car.title | escape }}"
+              data-price="{{ car.price_usd | default: '' }}"
+              data-year="{{ car.year | default: '' }}">
               <div class="car-card__imgwrap">
                 <img class="car-card__img {% if car.under_deposit %}is-dimmed{% endif %}" src="{{ cover | relative_url }}" alt="{{ car.title | escape }}" loading="lazy">
                 {% if car.under_deposit %}

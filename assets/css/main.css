@@ -54,7 +54,7 @@ a{ color: inherit; }
 
 /* fixed-height sections */
 .section--hero{ height: 150px; }
-.section--sort{ height: 128px; }
+.section--sort{ height: 64px; }
 .section--footer{ height: 120px; }
 
 .section{
@@ -108,14 +108,6 @@ a{ color: inherit; }
 }
 
 /* 2) sort */
-.btn--wide{
-  width: 100%;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  margin-bottom: 10px; /* keeps it above sort buttons */
-}
 .btn--primary{
   background: rgba(180, 220, 255, 0.55);
   border: 1px solid rgba(120, 170, 220, 0.30);
@@ -148,6 +140,19 @@ a{ color: inherit; }
   font-weight: 700;
   cursor: pointer;
   transition: 160ms ease;
+  position: relative;
+}
+.btn-arrow{
+  margin-left: 6px;
+  font-weight: 900;
+  opacity: 0.85;
+}
+.btn.is-active{
+  background: rgba(180, 220, 255, 0.75);
+  border-color: rgba(120, 170, 220, 0.40);
+}
+.btn:not(.is-active) .btn-arrow{
+  opacity: 0;
 }
 .btn:active{ transform: scale(0.98); }
 .btn--ghost:hover{ background: rgba(180, 220, 255, 0.55); }
