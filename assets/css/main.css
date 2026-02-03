@@ -164,6 +164,18 @@ a{ color: inherit; }
 .sortbar .btn:first-child{
   border-right: 1px solid rgba(80,110,150,0.18);
 }
+.sortbar .btn.is-active{
+  background: radial-gradient(
+      circle at top,
+      rgba(180, 220, 255, 0.55),
+      rgba(255, 210, 225, 0.35)
+    );
+  border-color: rgba(80, 130, 200, 0.45);
+  color: rgba(20, 35, 60, 0.88);
+}
+.sortbar .btn:not(.is-active) .btn-arrow{
+  opacity: 0;
+}
 @media (max-width: 420px){
   .sortbar{
     width: 100%;
@@ -193,13 +205,6 @@ a{ color: inherit; }
   margin-left: 6px;
   font-weight: 900;
   opacity: 0.85;
-}
-.btn.is-active{
-  background: rgba(180, 220, 255, 0.75);
-  border-color: rgba(120, 170, 220, 0.40);
-}
-.btn:not(.is-active) .btn-arrow{
-  opacity: 0;
 }
 .btn:active{ transform: scale(0.98); }
 .btn--ghost:hover{ background: rgba(180, 220, 255, 0.55); }
