@@ -93,7 +93,7 @@ layout: default
                 <!-- simple $ icon -->
                 <svg viewBox="0 0 24 24" fill="none"><path d="M12 2v20M16 6.5c0-1.9-1.8-3.5-4-3.5s-4 1.2-4 3.1c0 4 8 2 8 6 0 1.9-1.8 3.4-4 3.4s-4-1.2-4-3.1" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
               </span>
-              <span class="price-inline">${% include price.html value=page.price_usd %}</span>
+              <span class="price-inline">${% include human-price.html value=page.price_usd %}</span>
             </div>
           {% endif %}
         </div>
