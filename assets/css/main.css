@@ -520,7 +520,7 @@ a{ color: inherit; }
 }
 
 /* Back link: underline is separate so it stays single-line */
-.backlink{
+.backLink{
   position: relative;
   display: inline-block;
   text-decoration: none;
@@ -528,7 +528,7 @@ a{ color: inherit; }
   font-weight: 650;
   padding: 6px 6px 10px;
 }
-.backlink__u{
+.backLink__u{
   position: absolute;
   left: 8%;
   right: 8%;
@@ -538,7 +538,7 @@ a{ color: inherit; }
   background: rgba(80, 130, 200, 0.35);
   transition: 180ms ease;
 }
-.backlink:hover .backlink__u{
+.backLink:hover .backLink__u{
   background: rgba(80, 130, 200, 0.90);
   box-shadow: 0 0 16px rgba(80, 130, 200, 0.40);
 }
