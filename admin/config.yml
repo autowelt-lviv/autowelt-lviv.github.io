@@ -56,11 +56,8 @@ collections:
       - { label: "Відео посилання", name: "video_url", widget: "string", equired: false, hint: "https://www.instagram.com..." }
     sortable_fields: ["created_at", "title", "price_usd", "release_year"]
     view_groups:
-      - label: "На площадці"
+      - label: "авто на площадці"
         field: "on_site"
-        values:
-          - { label: "Авто на площадці", value: true }
-          - { label: "Авто в дорозі", value: false }
     view_filters:
       - label: "Під завдатком"
         field: "under_deposit"
