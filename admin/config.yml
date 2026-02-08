@@ -18,7 +18,7 @@ public_folder: "/assets/uploads/cars" # how the site references them
 
 collections:
   - name: "cars"
-    label: "Cars"
+    label: "Автомобілі"
     folder: "_cars"
     create: true
     slug: "{{slug}}-{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}"

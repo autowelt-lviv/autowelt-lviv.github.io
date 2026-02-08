@@ -63,80 +63,78 @@ permalink: /cars-on-the-way/
     <!-- 3) Cars grid (flexible height) -->
     <section class="section section--cars">
       <div class="cars-grid" id="carsGrid">
-        {% assign cars_sorted = site.cars %}
+        {% assign cars_sorted = site.cars | where: "on_site", false | sort: "created_at" | reverse %}
         {% for car in cars_sorted %}
-          {% if car.on_site == false %}
-            {% assign cover = car.photos[0] | default: site.default_car_image %}
+          {% assign cover = car.photos[0] | default: site.default_car_image %}
 
-            <a class="car-card"
-              href="{{ car.url | relative_url }}"
-              aria-label="Open {{ car.title | escape }}"
-              data-price="{{ car.price_usd | default: '' }}"
-              data-year="{{ car.release_year | default: '' }}">
-              <div class="car-card__imgwrap">
-                <img class="car-card__img {% if car.under_deposit %}is-dimmed{% endif %}" src="{{ cover | relative_url }}" alt="{{ car.title | escape }}" loading="lazy">
-                {% if car.under_deposit %}
-                  <div class="car-badge car-badge--deposit">UNDER DEPOSIT</div>
+          <a class="car-card"
+            href="{{ car.url | relative_url }}"
+            aria-label="Open {{ car.title | escape }}"
+            data-price="{{ car.price_usd | default: '' }}"
+            data-year="{{ car.release_year | default: '' }}">
+            <div class="car-card__imgwrap">
+              <img class="car-card__img {% if car.under_deposit %}is-dimmed{% endif %}" src="{{ cover | relative_url }}" alt="{{ car.title | escape }}" loading="lazy">
+              {% if car.under_deposit %}
+                <div class="car-badge car-badge--deposit">UNDER DEPOSIT</div>
+              {% endif %}
+            </div>
+
+            <div class="car-card__body">
+              <div class="car-card__top">
+                <div class="car-card__title">{{ car.title }}</div>
+              </div>
+
+              <!-- Explicitly mention status -->
+              <div class="car-card__status">
+                Автомобіль в дорозі
+              </div>
+
+              <div class="car-card__meta">
+                {% if car.release_year %}
+                  <div class="meta-item">
+                    <span class="meta-ico" aria-hidden="true">
+                      <!-- calendar -->
+                      <svg viewBox="0 0 24 24" fill="none"><path d="M7 3v2M17 3v2M4 9h16M6 5h12a2 2 0 0 1 2 2v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+                    </span>
+                    <span>{{ car.release_year }}</span>
+                  </div>
+                {% endif %}
+
+                {% if car.engine %}
+                  <div class="meta-item">
+                    <span class="meta-ico" aria-hidden="true">
+                      <!-- engine-ish -->
+                      <svg viewBox="0 0 24 24" fill="none"><path d="M6 10V7a2 2 0 0 1 2-2h6l2 2h2a2 2 0 0 1 2 2v3M6 10H4v4h2m0-4v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-2h2v-6h-2" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </span>
+                    <span>{{ car.engine }}</span>
+                  </div>
+                {% endif %}
+
+                {% if car.drive %}
+                  <div class="meta-item">
+                    <span class="meta-ico" aria-hidden="true">
+                      <!-- drivetrain -->
+                      <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                        <path d=" M5 6 H7 V9 H5 Z M17 6 H19 V9 H17 Z M5 15 H7 V18 H5 Z M17 15 H19 V18 H17 Z M12 7.5 V16.5 M7 7.5 H17 M7 16.5 H17"
+                          stroke="currentColor"
+                          stroke-width="2"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                        />
+                      </svg>
+                    </span>
+                    <span>{{ car.drive }}</span>
+                  </div>
                 {% endif %}
               </div>
 
-              <div class="car-card__body">
-                <div class="car-card__top">
-                  <div class="car-card__title">{{ car.title }}</div>
-                </div>
-
-                <!-- Explicitly mention status -->
-                <div class="car-card__status">
-                  Автомобіль в дорозі
-                </div>
-
-                <div class="car-card__meta">
-                  {% if car.release_year %}
-                    <div class="meta-item">
-                      <span class="meta-ico" aria-hidden="true">
-                        <!-- calendar -->
-                        <svg viewBox="0 0 24 24" fill="none"><path d="M7 3v2M17 3v2M4 9h16M6 5h12a2 2 0 0 1 2 2v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
-                      </span>
-                      <span>{{ car.release_year }}</span>
-                    </div>
-                  {% endif %}
-
-                  {% if car.engine %}
-                    <div class="meta-item">
-                      <span class="meta-ico" aria-hidden="true">
-                        <!-- engine-ish -->
-                        <svg viewBox="0 0 24 24" fill="none"><path d="M6 10V7a2 2 0 0 1 2-2h6l2 2h2a2 2 0 0 1 2 2v3M6 10H4v4h2m0-4v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-2h2v-6h-2" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                      </span>
-                      <span>{{ car.engine }}</span>
-                    </div>
-                  {% endif %}
-
-                  {% if car.drive %}
-                    <div class="meta-item">
-                      <span class="meta-ico" aria-hidden="true">
-                        <!-- drivetrain -->
-                        <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
-                          <path d=" M5 6 H7 V9 H5 Z M17 6 H19 V9 H17 Z M5 15 H7 V18 H5 Z M17 15 H19 V18 H17 Z M12 7.5 V16.5 M7 7.5 H17 M7 16.5 H17"
-                            stroke="currentColor"
-                            stroke-width="2"
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                          />
-                        </svg>
-                      </span>
-                      <span>{{ car.drive }}</span>
-                    </div>
-                  {% endif %}
-                </div>
-
-                <div class="car-card__bottom">
-                {% if car.price_usd %}
-                  <div class="car-card__price">${% include human-price.html value=car.price_usd %}</div>
-                {% endif %}
-                </div>
+              <div class="car-card__bottom">
+              {% if car.price_usd %}
+                <div class="car-card__price">${% include human-price.html value=car.price_usd %}</div>
+              {% endif %}
               </div>
-            </a>
-          {% endif %}
+            </div>
+          </a>
         {% endfor %}
       </div>
     </section>
