@@ -72,7 +72,7 @@ permalink: /cars-on-the-way/
               href="{{ car.url | relative_url }}"
               aria-label="Open {{ car.title | escape }}"
               data-price="{{ car.price_usd | default: '' }}"
-              data-year="{{ car.year | default: '' }}">
+              data-year="{{ car.release_year | default: '' }}">
               <div class="car-card__imgwrap">
                 <img class="car-card__img {% if car.under_deposit %}is-dimmed{% endif %}" src="{{ cover | relative_url }}" alt="{{ car.title | escape }}" loading="lazy">
                 {% if car.under_deposit %}
@@ -91,13 +91,13 @@ permalink: /cars-on-the-way/
                 </div>
 
                 <div class="car-card__meta">
-                  {% if car.year %}
+                  {% if car.release_year %}
                     <div class="meta-item">
                       <span class="meta-ico" aria-hidden="true">
                         <!-- calendar -->
                         <svg viewBox="0 0 24 24" fill="none"><path d="M7 3v2M17 3v2M4 9h16M6 5h12a2 2 0 0 1 2 2v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
                       </span>
-                      <span>{{ car.year }}</span>
+                      <span>{{ car.release_year }}</span>
                     </div>
                   {% endif %}
 

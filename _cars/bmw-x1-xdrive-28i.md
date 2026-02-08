@@ -3,7 +3,7 @@ layout: car
 created_at: 2026-02-07T17:57:00.000+02:00
 title: "BMW X1 Xdrive 28i"
 price_usd: 14200
-year: 2017
+release_year: 2017
 engine: 2 бензин
 drive: Повний привід
 under_deposit: false

@@ -3,7 +3,7 @@ layout: car
 created_at: 2026-02-08T17:57:00.000+02:00
 title: Audi Q7 Premium Plus
 price_usd: 37500
-year: 2019
+release_year: 2019
 engine: 3.0 бензин
 drive: Передній привід
 under_deposit: true

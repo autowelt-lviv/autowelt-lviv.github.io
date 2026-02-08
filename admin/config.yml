@@ -29,8 +29,8 @@ collections:
       - { label: "Дата публікації", name: "created_at", widget: "datetime", default: "{{now}}" }
       - { label: "Заголовок", name: "title", widget: "string", hint: "Наприклад: Land Rover Range Rover HSE" }
       - { label: "Вартість (USD)", name: "price_usd", widget: "number", required: false, hint: "Вартість вказати як ціле число без символів" }
-      - { label: "Рік", name: "year", widget: "number", required: false }
-      - { label: "Рік/Місяць", name: "alt_year", widget: "string", required: false, hint: "Альтернатива до поля Рік. Рік також бажано вказати." }
+      - { label: "Рік", name: "release_year", widget: "number", required: false }
+      - { label: "Рік/Місяць", name: "alt_release_year", widget: "string", required: false, hint: "Альтернатива до поля Рік. Рік також бажано вказати." }
       - { label: "Двигун", name: "engine", widget: "string", required: false }
       - label: "Привід"
         name: "drive"
@@ -54,10 +54,13 @@ collections:
           public_folder: "/assets/uploads/cars"
       - { label: "Опис", name: "body", widget: "markdown", required: false }
       - { label: "Відео посилання", name: "video_url", widget: "string", equired: false, hint: "https://www.instagram.com..." }
-    sortable_fields: ["created_at", "title", "price_usd", "year"]
+    sortable_fields: ["created_at", "title", "price_usd", "release_year"]
     view_groups:
       - label: "На площадці"
         field: "on_site"
+        values:
+          - { label: "Авто на площадці", value: true }
+          - { label: "Авто в дорозі", value: false }
     view_filters:
       - label: "Під завдатком"
         field: "under_deposit"
@@ -71,4 +74,4 @@ collections:
       - label: "В дорозі"
         field: "on_site"
         pattern: false
-    summary: "{{under_deposit}} {{created_at | date('YYYY-MM-DD')}} {{title}} {{year}} ${{price_usd}}"
+    summary: "{{on_site | ternary('', '🚢')}}{{under_deposit | ternary('💸', '')}} • {{created_at | date('YYYY-MM-DD')}} • {{title}} {{release_year}} ${{price_usd | default('_')}}"

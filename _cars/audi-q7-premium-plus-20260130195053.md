@@ -3,8 +3,8 @@ layout: car
 created_at: 2026-02-08T17:57:00.000+02:00
 title: Audi Q7 Premium Plus
 price_usd: 21300
-year: 2017
-alt_year: 2017/12
+release_year: 2017
+alt_release_year: 2017/12
 engine: 2.0 бензин
 drive: Повний привід
 under_deposit: false
