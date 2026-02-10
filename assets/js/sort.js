@@ -14,6 +14,7 @@
   // State
   let activeField = null; // "price" | "releaseyear" | null
   let direction = null;   // "asc" | "desc" | null
+  let clickNo = 0;
 
   function toNumberOrNull(value) {
     if (value === undefined || value === null) return null;
@@ -77,27 +78,27 @@
   }
 
   function onSortClick(field) {
+    clickNo = clickNo + 1
     // Same button clicked
     if (activeField === field) {
-      if (direction === "asc") {
-        direction = "desc"; // 2nd click
-        setActiveButton(activeField, direction);
-        sortTiles(activeField, direction);
-        return;
-      }
-      if (direction === "desc") {
+      direction = (direction === "asc") ? "desc" : "asc";
+      if (clickNo == 3) {
         // 3rd click => reset to default
+        clickNo = 0;
         activeField = null;
         direction = null;
         clearActiveButton();
         resetTiles();
+        btnPrice.blur();
+        btnYear.blur();
         return;
       }
+    } else {
+      activeField = field;
+      direction = (field === "price") ? "asc" : "desc";
+      clickNo = 1;
     }
 
-    // Different button clicked => start fresh with default direction
-    activeField = field;
-    direction = "desc";
     setActiveButton(activeField, direction);
     sortTiles(activeField, direction);
   }

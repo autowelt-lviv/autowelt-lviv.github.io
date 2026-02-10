@@ -17,13 +17,10 @@ photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769805874/2026-01-30_22.43.45_u8lxeg.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769805875/2026-01-30_22.43.49_use4rj.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769805878/2026-01-30_22.43.54_he5yfm.jpg
+video_url: https://www.instagram.com/reel/DTpmk2hjKcJ/?igsh=MXJjcmZvemoxYm03bA==
 ---
 Автомобіль пригнаний з США цілий
 
 В рідному окрасі
 
 Комплектація: диски R20, підігрів сидінь передніх, камери 360ʼ(кругового огляду), музика Bose, контроль сліпих зон, система старт стоп, клімат контроль 3-х зонний, без ключовий доступ, панорама, темна стеля.
-
-Відео огляд авто:
-
-https://www.instagram.com/reel/DTpmk2hjKcJ/?igsh=MXJjcmZvemoxYm03bA==

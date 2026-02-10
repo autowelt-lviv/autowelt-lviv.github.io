@@ -13,10 +13,8 @@ photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769817553/2026-01-31_01.53.39_kab26g.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769817553/2026-01-31_01.53.42_mwx7uk.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1769817553/2026-01-31_01.53.45_u0buq8.jpg
+video_url: https://www.instagram.com/reel/DTgPTC_jKka/?igsh=MWNnbXVoZnUwNGZmbQ==
 ---
 Автомобіль пригнаний з США. 
 В рідному окрасі
 Комплектація: підігрів сидінь, камера заднього виду, диски 19, без ключовий доступ, панорама, електро багажник,
-
-Відео огляд авто:
-https://www.instagram.com/reel/DTgPTC_jKka/?igsh=MWNnbXVoZnUwNGZmbQ==

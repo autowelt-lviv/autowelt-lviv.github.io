@@ -736,7 +736,7 @@ a {
 }
 
 /* Video button */
-
+/*
 .video-pill{
   display: inline-flex;
   align-items: center;
@@ -761,6 +761,33 @@ a {
 .video-pill:hover{
   background: linear-gradient(180deg, #3a3a42, #24242a);
   border-color: rgba(255,255,255,0.35);
+  transform: translateY(-1px);
+}
+*/
+.video-pill{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 10px 16px;
+  border-radius: 999px;
+
+  background: linear-gradient(180deg, #d2d2e479, #82829b76);
+  color: #1a1a1f;
+  text-decoration: none;
+
+  font-weight: 500;
+  font-size: 14px;
+
+  border: 1px solid #2c2c32;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.111);
+
+  transition: all .18s ease;
+}
+
+.video-pill:hover{
+  background: linear-gradient(180deg, #babacc79, #67677c76);
+  border-color: #1a1a1f;
   transform: translateY(-1px);
 }
 
