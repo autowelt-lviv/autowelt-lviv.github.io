@@ -772,22 +772,22 @@ a {
   padding: 10px 16px;
   border-radius: 999px;
 
-  background: linear-gradient(180deg, #d2d2e479, #82829b76);
-  color: #1a1a1f;
+  background: linear-gradient(180deg, rgba(20, 35, 60, 0.06), rgba(20, 35, 60, 0.124));
+  color: rgba(20, 35, 60, 0.90);
   text-decoration: none;
 
   font-weight: 500;
   font-size: 14px;
 
-  border: 1px solid #2c2c32;
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.111);
+  border: 1px solid rgba(20, 35, 60, 0.90);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.055);
 
   transition: all .18s ease;
 }
 
 .video-pill:hover{
-  background: linear-gradient(180deg, #babacc79, #67677c76);
-  border-color: #1a1a1f;
+  background: linear-gradient(180deg, rgba(20, 35, 60, 0.09), rgba(20, 35, 60, 0.154));
+  border-color: rgba(20, 35, 60, 0.90);
   transform: translateY(-1px);
 }
 
