@@ -233,12 +233,14 @@ a {
 }
 
 /* Hover effect: dreamy glow + stronger border */
-.sortbar .btn:hover {
-  background: radial-gradient(circle at top,
-      rgba(180, 220, 255, 0.55),
-      rgba(255, 210, 225, 0.35));
-  border-color: rgba(80, 130, 200, 0.45);
-  color: rgba(20, 35, 60, 0.88);
+@media (hover: hover) and (pointer: fine){
+  .sortbar .btn:hover {
+    background: radial-gradient(circle at top,
+        rgba(180, 220, 255, 0.55),
+        rgba(255, 210, 225, 0.35));
+    border-color: rgba(80, 130, 200, 0.45);
+    color: rgba(20, 35, 60, 0.88);
+  }
 }
 
 /* Active press (not "active state", just click feedback) */

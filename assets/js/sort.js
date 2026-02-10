@@ -23,6 +23,7 @@
     return Number.isFinite(n) ? n : null;
   }
 
+  // Missing values always at the bottom (for both asc/desc)
   function compareNullableNumbers(a, b, dir) {
     const aMissing = (a === null);
     const bMissing = (b === null);
@@ -32,10 +33,12 @@
     if (bMissing) return -1;
 
     if (a === b) return 0;
+    // Normal numeric compare
     return dir === "asc" ? (a - b) : (b - a);
   }
 
   function clearActiveButton() {
+    // Reset all
     btnPrice.classList.remove("is-active");
     btnYear.classList.remove("is-active");
     if (arrowPrice) arrowPrice.textContent = "";
@@ -56,6 +59,7 @@
   }
 
   function sortTiles(field, dir) {
+    // Only sort existing tiles
     const tiles = Array.from(grid.querySelectorAll(".car-card"));
 
     tiles.sort((elA, elB) => {
@@ -63,11 +67,11 @@
       const b = toNumberOrNull(elB.dataset[field]);
       return compareNullableNumbers(a, b, dir);
     });
-
+    // Re-append in new order (moves nodes, doesn’t recreate)
     for (const tile of tiles) grid.appendChild(tile);
   }
 
-  // ✅ Reset to Jekyll’s default order
+  // Reset to Jekyll’s default order
   function resetTiles() {
     for (const tile of originalTiles) grid.appendChild(tile);
   }
@@ -76,7 +80,7 @@
     // Same button clicked
     if (activeField === field) {
       if (direction === "asc") {
-        direction = "desc";               // 2nd click
+        direction = "desc"; // 2nd click
         setActiveButton(activeField, direction);
         sortTiles(activeField, direction);
         return;
@@ -93,7 +97,7 @@
 
     // Different button clicked => start fresh with default direction
     activeField = field;
-    direction = (field === "price") ? "asc" : "desc";
+    direction = "desc";
     setActiveButton(activeField, direction);
     sortTiles(activeField, direction);
   }
