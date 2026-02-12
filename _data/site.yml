@@ -1,40 +1,47 @@
 hero_description: |-
-  **AutoWelt** — продаж автомобілів із США та Європи по найкращих цінах
-  Підбір, покупка, пригон, розмитнення
+  AutoWelt — продаж автомобілів із США та Європи по найкращих цінах \
+  Підбір, покупка, пригон, розмитнення \
   *м. Львів вул. Городоцька, 300*
-
 phone: "+380972552020"
-footer_call_button_text: "Подзвоніть нам"
-footer_map_button_text: "Ми на карті"
-footer_copyright_text: "AutoWelt. Всі права захищено."
+footer_call_button_text: Подзвоніть нам
+footer_map_button_text: Ми на карті
+footer_copyright_text: AutoWelt. Всі права захищено.
 where_to_find_us:
-  directions_title: "Наш автомайданчик у Львові"
-  directions_text: >
-    Вул. Городоцька, 300 - на території ТЦ "МЕТРО".
-    При заїзді у головні ворота на територію ТЦ, їдете прямо поки не побачите нашу вивіску "AutoWelt" по ліву руку.
-    Пн - Пт (9:00 - 18:00)
+  directions_title: Наш автомайданчик у Львові
+  directions_text: >-
+    Вул. Городоцька, 300 - на території ТЦ "МЕТРО". \
+
+    При заїзді у головні ворота на територію ТЦ, їдете прямо поки не побачите нашу вивіску "AutoWelt" по ліву руку. 
+
+
+    Пн - Пт (9:00 - 18:00) \
+
     Сб - Нд (10:00 - 16:00)
+  map_embed_url: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.8419966868933!2d23.913953949978108!3d49.8226501987179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ae16b85d3cb2f%3A0xf73a51a9509cee1e!2zQXV0byBXZWx0INCQ0LLRgtC-INC3INCh0KjQkCDRliDQhNCy0YDQvtC_0Lg!5e1!3m2!1sen!2sua!4v1770846035420!5m2!1sen!2sua
+  value_title: AutoWelt це не тільки продаж авто
+  value_text: >-
+    • Ми надаємо послуги прозорого підбору авто. Перевірка, документи,
+    розмитнення, супровід.\
 
-  # Google Maps embed URL (best: paste the "Embed a map" link here)
-  map_embed_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.8419966868933!2d23.913953949978108!3d49.8226501987179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x473ae16b85d3cb2f%3A0xf73a51a9509cee1e!2zQXV0byBXZWx0INCQ0LLRgtC-INC3INCh0KjQkCDRliDQhNCy0YDQvtC_0Lg!5e1!3m2!1sen!2sua!4v1770846035420!5m2!1sen!2sua"
-  value_title: "AutoWelt це не тільки продаж авто"
-  value_text: >
-    • Ми надаємо послуги прозорого підбору авто. Перевірка, документи, розмитнення, супровід.
-    • Ми володієм доступом до закритих аукціонів у США де закупляєм автомобілі без пошкоджень.
+    • Ми володієм доступом до закритих аукціонів у США де закупляєм автомобілі без пошкоджень.\
+
     • Також, великий вибір автомобілів в наявності із страхових аукціонів США та Європи по найкращих цінах у Львові.
-
-  socials_title: "Слідкуйте ближче за подіями на майданчику"
+  socials_title: Слідкуйте ближче за подіями на майданчику
   socials:
-    instagram: "https://instagram.com/auto_welt_lviv"
-    tiktok: "https://tiktok.com/@autowelt_lviv"
-    telegram: "https://t.me/autowelt_lviv"
-
+    instagram: https://instagram.com/auto_welt_lviv
+    tiktok: https://tiktok.com/@autowelt_lviv
+    telegram: https://t.me/autowelt_lviv
   photos:
-    - "https://res.cloudinary.com/dpllddkot/image/upload/v1770834191/photo_2026-02-11_20.21.25_dg3cyi.jpg"
-    - "https://res.cloudinary.com/dpllddkot/image/upload/v1770834192/photo_2026-02-11_20.21.32_omt6t5.jpg"
-    - "https://res.cloudinary.com/dpllddkot/image/upload/v1770834192/photo_2026-02-11_20.21.28_gdshfk.jpg"
+    - https://res.cloudinary.com/dpllddkot/image/upload/v1770834191/photo_2026-02-11_20.21.25_dg3cyi.jpg
+    - https://res.cloudinary.com/dpllddkot/image/upload/v1770834192/photo_2026-02-11_20.21.32_omt6t5.jpg
+    - https://res.cloudinary.com/dpllddkot/image/upload/v1770834192/photo_2026-02-11_20.21.28_gdshfk.jpg
 seo-optimization:
   index-footer-about-text: >
-    AutoWelt — продаж автомобілів у Львові. У нас представлені перевірені авто з Європи та США в ціновому діапазоні від 10000 до 50000 доларів. Автомобілі є в наявності на майданчику у Львові, інші — в дорозі та доступні до перегляду після прибуття.
-    Ми надаємо можливість огляду авто у Львові, перевірку стану, консультацію перед покупкою та повний супровід угоди. Перед приїздом рекомендуємо зателефонувати.
-    AutoWelt працює для клієнтів зі Львова та західної України. Актуальні автомобілі, фото, відеоогляди та ціни доступні на цьому сайті.
+    AutoWelt — продаж автомобілів у Львові. У нас представлені перевірені авто з
+    Європи та США в ціновому діапазоні від 10000 до 50000 доларів. Автомобілі є
+    в наявності на майданчику у Львові, інші — в дорозі та доступні до перегляду
+    після прибуття. Ми надаємо можливість огляду авто у Львові, перевірку стану,
+    консультацію перед покупкою та повний супровід угоди. Перед приїздом
+    рекомендуємо зателефонувати. AutoWelt працює для клієнтів зі Львова та
+    західної України. Актуальні автомобілі, фото, відеоогляди та ціни доступні
+    на цьому сайті.
