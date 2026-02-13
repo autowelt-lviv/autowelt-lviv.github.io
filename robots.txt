@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block Decap CMS admin
+Disallow: /admin/
+Disallow: /admin
+
+Sitemap: https://olehlazurkevych.github.io/sitemap.xml

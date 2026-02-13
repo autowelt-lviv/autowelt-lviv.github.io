@@ -55,7 +55,7 @@
           "price": {{ page.price_usd | default: "" | jsonify }},
           "availability": "{% if page.on_site == false %}https://schema.org/PreOrder{% else %}https://schema.org/InStock{% endif %}",
           "seller": {
-            "@type": "Organization",
+            "@type": "AutoDealer",
             "name": "AutoWelt",
             "areaServed": "Lviv, Ukraine"
           }
@@ -66,7 +66,7 @@
   <script type="application/ld+json">
     {
       "@context":"https://schema.org",
-      "@type":"Organization",
+      "@type":"AutoDealer",
       "name":"AutoWelt",
       "url": {{ "/" | absolute_url | jsonify }},
       "telephone": {{ site.data.site.phone | default: "" | jsonify }},
