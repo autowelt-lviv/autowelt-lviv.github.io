@@ -114,3 +114,12 @@ collections:
                   widget: "image"
                   media_folder: "/assets/uploads/location"
                   public_folder: "/assets/uploads/location"
+          - label: "SEO трафік"
+            name: "seo-optimization"
+            widget: "object"
+            fields:
+              - { label: "Google Analytics ID", name: "google-id", widget: "string", hint: "G-ABCDE0FJKL" }
+              - { label: "Опис для людей які шукають у Google", name: "description_text", widget: "markdown" }
+              - { label: "Сірий текст на головній сторінці у самому низу", name: "index-footer-about-text", widget: "markdown" }
+              - { label: "Сторінка для AI ботів - початок, людям не видно", name: "auto-lviv-ai-hero", widget: "markdown" }
+              - { label: "Сторінка для AI ботів - кінець, людям не видно", name: "auto-lviv-ai-footer", widget: "markdown" }

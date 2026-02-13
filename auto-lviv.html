@@ -5,16 +5,7 @@ title: Автомобілі у Львові — AutoWelt
 ---
 
 <section class="section section--ai">
-  <h1>Автомобілі з США та Європи у Львові</h1>
-
-  <p>
-    AutoWelt — продаж автомобілів у Львові.
-    Авто в наявності та в дорозі у ціновому діапазоні від 10000 до 50000 доларів.
-  </p>
-
-  <p>
-    Нижче список актуальних оголошень автомобілів.
-  </p>
+  {{ site.data.site.seo-optimization.auto-lviv-ai-hero | markdownify }}
 
   <ul class="ai-list">
     {% assign cars_sorted = site.cars | sort: "created_at" | reverse %}
@@ -39,7 +30,5 @@ title: Автомобілі у Львові — AutoWelt
     {% endfor %}
   </ul>
 
-  <p>
-    Огляд автомобілів можливий у Львові на нашому автомайданчику Вул. Городоцька, 300 - на території ТЦ "МЕТРО".
-  </p>
+  {{ site.data.site.seo-optimization.auto-lviv-ai-footer | markdownify }}
 </section>

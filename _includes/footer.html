@@ -1,3 +1,5 @@
+{% assign show_seo = include.show_seo | default: false %}
+
 <section class="section section--footer">
     <div class="actions">
 
@@ -35,6 +37,14 @@
         </a>
 
     </div>
+
+    {% if show_seo %}
+        <!-- About company -->
+        <div class="footer-about-text">
+            {{ site.data.site.seo-optimization.index-footer-about-text | markdownify }}
+            <a href="{{ '/auto-lviv/' | relative_url }}" class="footer-about-link">Каталог автомобілів у наявності.</a>
+        </div>
+    {% endif %}
 
     <div class="copyright">
         © {{ "now" | date: "%Y" }} {{ site.data.site.footer_copyright_text }}

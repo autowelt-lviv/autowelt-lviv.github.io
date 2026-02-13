@@ -28,16 +28,14 @@
       AutoWelt — продаж авто у Львові
     {%- endif -%}
   </title>
-  <meta name="description" content="{%- if page.seo_description -%}
-  {{ page.seo_description | strip_newlines | escape }}
-  {%- elsif page.layout == "car" -%}
+  <meta name="description" content="{%- if page.layout == "car" -%}
   {{ page.title | strip_newlines | escape }}
   {%- if page.release_year and page.release_year != "" -%} {{ page.release_year | strip_newlines | escape }}{%- endif -%} у Львові.
   {%- if page.engine and page.engine != "" -%} Двигун: {{ page.engine | strip_newlines | escape }}.{%- endif -%}
   {%- if page.drive and page.drive != "" -%} Привід: {{ page.drive | strip_newlines | escape }}.{%- endif -%}
   Перевірене авто. AutoWelt Львів.
   {%- else -%}
-  AutoWelt — продаж авто у Львові. Актуальні пропозиції, фото та контакти.
+  {{ site.data.site.seo-optimization.description_text | strip_newlines | escape }}
   {%- endif -%}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- if page.layout == "car" -%}
