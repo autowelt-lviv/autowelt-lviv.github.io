@@ -19,7 +19,7 @@ photos:
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771153570/IMG_4575_wmwgwx.jpg
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771153570/IMG_4575_wmwgwx.jpg
 ---
-Автомобіль викуплений та в дорозі з США.
+Автомобіль викуплений цілим та в дорозі з США.
 
 **Доступний для попереднього резерву з фіксацією ціни.**
 
