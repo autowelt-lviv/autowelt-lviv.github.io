@@ -1,7 +1,7 @@
 ---
 created_at: 2026-02-16T13:50:00.000+02:00
 title: Audi Q3 2.0T Quattro Prestige
-price_usd: 12503
+price_usd: 12499
 release_year: 2017
 engine: 2.0 Бензин
 drive: Повний привід
