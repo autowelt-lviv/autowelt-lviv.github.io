@@ -9,6 +9,7 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
+  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771354269/IMG_3118_vgh6qt.jpg
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771233667/IMG_3295_pobtgg.jpg
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771233667/IMG_3292_fezz9x.jpg
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771233667/IMG_3293_igniir.jpg
@@ -16,6 +17,9 @@ photos:
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771233666/IMG_3291_r6bgli.jpg
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771233666/IMG_3286_mbzhzf.jpg
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771233666/IMG_3288_tqhilo.jpg
+  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771354270/IMG_3117_bwjszz.jpg
+  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771354270/IMG_3119_j00snl.jpg
+  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771354271/IMG_3116_dlbpby.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 
@@ -24,3 +28,6 @@ photos:
 **Доступний для попереднього резервування з фіксацією ціни.**
 
 Доступне розтермінування та оплата частинами
+
+\
+Приблизна дата прибування: 15.03.2026р.
