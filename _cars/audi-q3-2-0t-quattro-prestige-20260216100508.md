@@ -6,7 +6,7 @@ price_usd: 10000
 release_year: 2015
 engine: 2.0 Бензин
 drive: Повний привід
-under_deposit: false
+under_deposit: true
 on_site: false
 photos:
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771236162/IMG_3334_yvddkl.jpg
