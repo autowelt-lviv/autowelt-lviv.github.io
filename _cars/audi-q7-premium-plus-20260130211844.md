@@ -1,8 +1,8 @@
 ---
 layout: car
-created_at: 2026-02-14T18:16:00.000+02:00
+created_at: 2026-02-17T15:10:00.000+02:00
 title: Audi Q7 Premium Plus
-price_usd: 37500
+price_usd: 35900
 release_year: 2019
 alt_release_year: 2020 США
 engine: 3.0 Бензин
