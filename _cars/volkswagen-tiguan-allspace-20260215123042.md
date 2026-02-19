@@ -2,11 +2,11 @@
 layout: car
 created_at: 2026-02-15T14:27:00.000+02:00
 title: Volkswagen Tiguan Allspace
-price_usd: 9500
+price_usd: 9200
 release_year: 2019
 engine: 2.0 Бензин
 drive: Повний привід
-under_deposit: false
+under_deposit: true
 on_site: false
 photos:
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771158452/0-02-05-faef3691c5fc0d2400e4f3d4b41ff423d0879972de7a460845e8d9c4fc23bbe5_1c6dc7f73069a1_ooqrtq.jpg
