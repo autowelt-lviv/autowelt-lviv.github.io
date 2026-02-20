@@ -7,7 +7,7 @@ release_year: 2017
 engine: 2.0 Бензин
 drive: Повний привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771159164/0-02-05-ecfd72f1fca7448e9a0ee2808423af4a8b7dcd938b61752a7d912416568a78fb_1c6dc7f73e63f8_nl3su2.jpg
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771159165/0-02-05-11d727508cdec61da7be8f4501973e37bd3f13639a795a0504e1483fa938c352_1c6dc7f73fbcca_feda6s.jpg
