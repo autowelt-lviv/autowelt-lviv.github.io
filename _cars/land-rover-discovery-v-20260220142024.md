@@ -19,6 +19,7 @@ photos:
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771596733/IMG_5291_adupnf.jpg
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771596731/IMG_5292_dazbth.jpg
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771596737/IMG_5288_kdleqt.jpg
+video_url: https://www.instagram.com/reel/DU_iPYeDBlT/?igsh=cWo2YTBubjgyaTRi
 ---
 Автомобіль привезений з США
 
