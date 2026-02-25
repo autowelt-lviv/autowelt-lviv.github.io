@@ -1,6 +1,6 @@
 ---
 layout: car
-created_at: 2026-02-15T14:18:00.000+02:00
+created_at: 2026-02-25T16:04:00.000+02:00
 title: Volkswagen Golf 4x4 Alltrack
 price_usd: 10200
 release_year: 2018
