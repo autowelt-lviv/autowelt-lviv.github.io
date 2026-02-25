@@ -7,17 +7,14 @@ release_year: 2018
 engine: 2.0 Бензин
 drive: Повний привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771158026/IMG_0836_xkd6y0.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771158026/IMG_0832_xtp7ly.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771158026/IMG_0833_mvndi3.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771158026/IMG_0834_guifgs.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771158026/IMG_0835_xj7fpa.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771158026/IMG_0827_e9rrs7.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771158026/IMG_0831_d9nxj4.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771158027/IMG_0829_s1r25y.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771158027/IMG_0828_jlxzyj.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028106/IMG_5520_eglvsu.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028106/IMG_5521_t1z2bq.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028108/IMG_5522_roiycg.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028108/IMG_5523_u84kgo.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028109/IMG_5525_lyytci.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028108/IMG_5524_l46fnh.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 
