@@ -1,6 +1,6 @@
 ---
 layout: car
-created_at: 2026-02-15T18:13:00.000+02:00
+created_at: 2026-03-04T20:27:00.000+02:00
 title: Volkswagen Tiguan 4x4 Rline
 price_usd: 10400
 release_year: 2016
@@ -9,6 +9,12 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1772648715/1_blnihc.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1772648714/33_zbbpcf.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1772648714/12_joz1et.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1772648714/11_vmwdda.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1772648715/5_jbvgyg.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1772648714/6_vo340u.jpg
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172117/IMG_3265_uqk6v1.jpg
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172113/IMG_3262_txlhgh.jpg
   - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172115/IMG_3263_teaek7.jpg
