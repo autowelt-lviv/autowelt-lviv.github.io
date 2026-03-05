@@ -5,10 +5,13 @@ Feature:
 + sort to default
 + Google and AI tags [SEO]
 + Google analytics [SEO]
++ hidden button
++ sold tag
++ fix empty fields
 
 Style:
 + Hero and car description markdown - стиль тексту як на адмінці
--  small icon
+- small icon
 + Red underline - пропала червона лінія знизу
 + Shifted first page - перша сторінка зміщенна вліво
 + Shifted Background blue color - синій задній фон розтягнений

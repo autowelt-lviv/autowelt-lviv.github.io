@@ -26,6 +26,7 @@ collections:
     format: "frontmatter"
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "car" }
+      - { label: "Приховати оголошення", name: "post_hidden", widget: "boolean", default: false, required: false }
       - { label: "Дата публікації", name: "created_at", widget: "datetime", default: "{{now}}" }
       - { label: "Заголовок", name: "title", widget: "string", hint: "Наприклад: Land Rover Range Rover HSE" }
       - { label: "Вартість (USD)", name: "price_usd", widget: "number", required: false, hint: "Вартість вказати як ціле число без символів" }
@@ -40,8 +41,9 @@ collections:
           - { label: "Повний привід", value: "Повний привід" }
           - { label: "Передній привід",  value: "Передній привід" }
           - { label: "Задній привід",  value: "Задній привід" }
+      - { label: "Продано", name: "is_sold", widget: "boolean", default: false, required: false }
       - { label: "Під завдатком", name: "under_deposit", widget: "boolean", default: false, required: false }
-      - { label: "На площадці", name: "on_site", widget: "boolean", default: true }
+      - { label: "На площадці", name: "on_site", widget: "boolean", default: true, required: false }
       - label: "Фотографії"
         name: "photos"
         widget: "list"
@@ -59,6 +61,12 @@ collections:
       - label: "авто на площадці"
         field: "on_site"
     view_filters:
+      - label: "Приховані"
+        field: "post_hidden"
+        pattern: true
+      - label: "Продані"
+        field: "is_sold"
+        pattern: true
       - label: "Під завдатком"
         field: "under_deposit"
         pattern: true
@@ -71,7 +79,7 @@ collections:
       - label: "В дорозі"
         field: "on_site"
         pattern: false
-    summary: "{{on_site | ternary('', '🚢')}}{{under_deposit | ternary('💸', '  ')}} • {{created_at | date('YYYY-MM-DD')}} • {{title}} {{release_year}} ${{price_usd | default('_')}}"
+    summary: "{{post_hidden | ternary('🕶', '')}}{{is_sold | ternary('💰', '')}}{{on_site | ternary('', '🚢')}}{{under_deposit | ternary('💸', '  ')}} • {{created_at | date('YYYY-MM-DD')}} • {{title}} {{release_year}} ${{price_usd | default('_')}}"
   - name: "settings"
     label: "Налаштування сайту"
     files:

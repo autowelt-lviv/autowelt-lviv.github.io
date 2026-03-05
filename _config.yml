@@ -18,6 +18,13 @@ defaults:
 plugins:
   - jekyll-sitemap # /sitemap.xml for search engines
 
+exclude:
+  - scripts
+  - .github
+  - .gitignore
+  - .work
+  - README.md
+  - TODO
 
 # Optional: set a baseurl if this is a project site (not username.github.io)
 # baseurl: "/carsales-jekyll-website"

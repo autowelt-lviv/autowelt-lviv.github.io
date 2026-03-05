@@ -8,7 +8,10 @@ title: Автомобілі у Львові — AutoWelt
   {{ site.data.site.seo-optimization.auto-lviv-ai-hero | markdownify }}
 
   <ul class="ai-list">
-    {% assign cars_sorted = site.cars | sort: "created_at" | reverse %}
+    {% assign cars_sorted = site.cars
+      | where_exp: "car", "car.post_hidden != true"
+      | sort: "created_at"
+      | reverse %}
     {% for car in cars_sorted %}
       <li>
         <a href="{{ car.url | relative_url }}">

@@ -16,7 +16,11 @@ title: AutoWelt — продаж авто у Львові
     {% include sort-buttons.html %}
 
     <!-- 4) Cars grid (flexible height) -->
-    {% assign cars_sorted = site.cars | where: "on_site", true | sort: "created_at" | reverse %}
+    {% assign cars_sorted = site.cars
+      | where_exp: "car", "car.post_hidden != true"
+      | where_exp: "car", "car.on_site != false"
+      | sort: "created_at"
+      | reverse %}
     {% include cars-section.html cars=cars_sorted %}
 
     <!-- 5) Footer actions + copyright -->

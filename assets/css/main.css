@@ -372,6 +372,10 @@ a {
   background: #ff8f00;
 }
 
+.car-badge--sold {
+  background: #e53935;
+}
+
 /* orange */
 .is-dimmed {
   filter: grayscale(0.2) brightness(0.7);
@@ -419,6 +423,10 @@ a {
   letter-spacing: .2px;
   color: #2a5bd7;
   /* sky accent */
+}
+
+.car-card__price--sold {
+  color: #888;
 }
 
 .car-card__meta {
@@ -690,6 +698,10 @@ a {
   font-weight: 750;
   font-size: 22px;
   letter-spacing: .2px;
+}
+
+.cardetail__price--sold {
+  color: #888;
 }
 
 .cardetail-meta-ico {
