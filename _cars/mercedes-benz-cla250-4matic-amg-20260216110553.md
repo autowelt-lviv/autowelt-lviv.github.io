@@ -9,13 +9,13 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239883/72419205_Image_1_pnznur.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239885/72419205_Image_4_hbxsaj.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239885/72419205_Image_3_qpo4k8.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239884/72419205_Image_2_tjgacn.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239886/72419205_Image_7_knncge.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239888/72419205_Image_10_ijdn5a.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239888/72419205_Image_11_dezgko.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20CLA250%204matic%20AMG%20rzqj/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20CLA250%204matic%20AMG%20rzqj/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20CLA250%204matic%20AMG%20rzqj/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20CLA250%204matic%20AMG%20rzqj/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20CLA250%204matic%20AMG%20rzqj/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20CLA250%204matic%20AMG%20rzqj/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20CLA250%204matic%20AMG%20rzqj/7.jpg
 ---
 Автомобіль викуплений та в дорозі з США.
 

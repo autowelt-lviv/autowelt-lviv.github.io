@@ -9,16 +9,16 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771156869/IMG_9875_k1zkrx.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771156870/IMG_9881_fzx1sz.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771156870/IMG_9880_mopvrz.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771156870/IMG_9882_xardd8.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771156869/IMG_9883_dy0si7.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771156870/IMG_9884_nnudka.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771156870/IMG_9879_htgiav.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771156870/IMG_9877_dzfsy5.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771156870/IMG_9876_mxbk9v.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771156871/IMG_9878_ojuxbs.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/10.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

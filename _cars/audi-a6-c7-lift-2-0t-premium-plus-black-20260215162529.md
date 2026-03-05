@@ -9,13 +9,13 @@ drive: Передній привід
 under_deposit: true
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172664/IMG_3285_vyufcy.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172660/IMG_3281_loqvt7.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172665/IMG_3282_uye1gu.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172662/IMG_3284_iqmwbk.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172661/IMG_3279_nz8pif.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172658/IMG_3277_ha4wxo.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172657/IMG_3276_vfvxxm.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Plus%20Black%20wohb/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Plus%20Black%20wohb/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Plus%20Black%20wohb/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Plus%20Black%20wohb/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Plus%20Black%20wohb/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Plus%20Black%20wohb/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Plus%20Black%20wohb/7.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

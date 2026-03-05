@@ -9,14 +9,14 @@ drive: Повний привід
 under_deposit: true
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771236162/IMG_3334_yvddkl.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771236158/IMG_3330_o44adk.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771236154/IMG_3325_zwskcw.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771236160/IMG_3333_x64umf.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771236159/IMG_3332_x9x9jb.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771236159/IMG_3331_thgi9g.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771236155/IMG_3326_ykwljj.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771236158/IMG_3328_m1ypr3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20xxlp/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20xxlp/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20xxlp/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20xxlp/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20xxlp/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20xxlp/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20xxlp/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20xxlp/8.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

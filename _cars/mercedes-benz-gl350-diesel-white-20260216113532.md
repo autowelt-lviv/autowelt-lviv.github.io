@@ -9,14 +9,14 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241645/IMG_4342_grjwl7.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241644/IMG_4341_xw3itp.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241642/IMG_4340_qsnwat.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241647/IMG_4339_ljdcco.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241640/IMG_4338_ubg3pl.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241639/IMG_4337_fwzora.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241636/IMG_4335_kzcuhz.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241634/IMG_4334_xtl65m.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20White%20ogyc/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20White%20ogyc/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20White%20ogyc/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20White%20ogyc/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20White%20ogyc/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20White%20ogyc/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20White%20ogyc/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20White%20ogyc/8.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

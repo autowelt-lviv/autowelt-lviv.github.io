@@ -9,15 +9,15 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245391/IMG_4426_jecyrv.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245385/IMG_4423_lzdtl1.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245394/IMG_4424_mlvr7v.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245388/IMG_4425_vilmap.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245382/IMG_4422_okkoya.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245371/IMG_4417_qk6bh2.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245379/IMG_4420_gqxay6.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245374/IMG_4418_hnpfmf.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245377/IMG_4419_bowwxy.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/9.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

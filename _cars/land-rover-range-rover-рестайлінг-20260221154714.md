@@ -10,16 +10,16 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771688480/IMG_5333_yrftih.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771688482/IMG_5331_kahdnk.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771688485/IMG_5332_d3hhox.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771688486/IMG_5330_xoent9.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771688490/IMG_5329_nyxlnw.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771688491/IMG_5328_az9tsw.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771688495/IMG_5327_nfnvhh.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771688497/IMG_5326_o4ryxk.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771688498/IMG_5325_idtcyw.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771688502/IMG_5324_lu48vd.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ybcr/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ybcr/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ybcr/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ybcr/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ybcr/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ybcr/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ybcr/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ybcr/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ybcr/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ybcr/10.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

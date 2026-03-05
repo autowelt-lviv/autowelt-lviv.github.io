@@ -9,15 +9,15 @@ drive: Задній привід
 under_deposit: true
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238627/IMG_3426_zmpdtb.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238625/IMG_3425_owtysz.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238623/IMG_3424_bopxib.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238621/IMG_3423_jq4whb.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238618/IMG_3422_gadfl9.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238617/IMG_3421_obzsfo.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238614/IMG_3420_hjulpj.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238612/IMG_3417_n4iwrn.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238610/IMG_3418_lbst9f.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20Black%20ffec/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20Black%20ffec/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20Black%20ffec/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20Black%20ffec/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20Black%20ffec/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20Black%20ffec/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20Black%20ffec/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20Black%20ffec/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20Black%20ffec/9.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

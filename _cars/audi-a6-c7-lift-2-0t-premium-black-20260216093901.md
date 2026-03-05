@@ -9,15 +9,15 @@ drive: Передній привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771234619/IMG_3323_bjyhr6.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771234620/IMG_3324_erdits.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771234617/IMG_3322_dyut97.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771234616/IMG_3321_x4jhb5.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771234615/IMG_3320_hgms4g.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771234615/IMG_3319_r4eumd.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771234614/IMG_3318_zpdzm7.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771234612/IMG_3316_o7g9ig.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771234612/IMG_3317_nuieyt.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Black%20mvzy/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Black%20mvzy/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Black%20mvzy/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Black%20mvzy/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Black%20mvzy/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Black%20mvzy/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Black%20mvzy/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Black%20mvzy/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Black%20mvzy/9.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

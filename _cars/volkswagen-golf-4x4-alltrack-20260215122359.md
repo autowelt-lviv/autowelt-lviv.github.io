@@ -9,12 +9,12 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028106/IMG_5520_eglvsu.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028106/IMG_5521_t1z2bq.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028108/IMG_5522_roiycg.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028108/IMG_5523_u84kgo.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028109/IMG_5525_lyytci.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028108/IMG_5524_l46fnh.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20acrc/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20acrc/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20acrc/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20acrc/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20acrc/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20acrc/6.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

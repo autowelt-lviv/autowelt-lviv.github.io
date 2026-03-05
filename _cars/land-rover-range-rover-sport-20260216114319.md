@@ -7,16 +7,16 @@ engine: 2.0 Бензин
 drive: Повний привід
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242325/IMG_4368_jgsfhu.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242323/IMG_4367_ogx2hf.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242321/IMG_4366_opfycp.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242319/IMG_4365_pfkpnw.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242311/IMG_4361_xapxna.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242317/IMG_4364_mcltyk.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242314/IMG_4363_efmt7b.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242306/IMG_4359_gdoj1m.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242313/IMG_4362_hj7lmp.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242308/IMG_4360_eg55qb.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20dulg/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20dulg/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20dulg/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20dulg/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20dulg/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20dulg/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20dulg/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20dulg/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20dulg/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20Prestige%20dulg/10.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

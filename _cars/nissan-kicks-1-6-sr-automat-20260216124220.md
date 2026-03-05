@@ -9,15 +9,15 @@ drive: Передній привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245604/IMG_4436_aw7y35.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245601/IMG_4435_lkzh5n.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245598/IMG_4434_grkkqt.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245595/IMG_4433_eo9rzr.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245592/IMG_4432_evaxi6.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245607/IMG_4431_bwyzwg.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245589/IMG_4430_o0w0hk.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245587/IMG_4429_y1ebog.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771245583/IMG_4427_urxts8.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20hdiy/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20hdiy/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20hdiy/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20hdiy/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20hdiy/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20hdiy/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20hdiy/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20hdiy/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20hdiy/9.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

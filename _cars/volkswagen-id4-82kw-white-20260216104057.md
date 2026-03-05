@@ -9,16 +9,16 @@ drive: Задній привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238329/IMG_3407_fffu3s.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238332/IMG_3408_tgdkhp.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238333/IMG_3409_iw5sdn.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238335/IMG_3410_apv3yx.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238337/IMG_3411_zndh4g.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238340/IMG_3412_fh2yr0.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238344/IMG_3414_j2sxqu.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238341/IMG_3413_lrbtud.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238346/IMG_3415_tzcvk2.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771238349/IMG_3416_ulmnan.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20White%20pqdn/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20White%20pqdn/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20White%20pqdn/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20White%20pqdn/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20White%20pqdn/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20White%20pqdn/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20White%20pqdn/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20White%20pqdn/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20White%20pqdn/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20White%20pqdn/10.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

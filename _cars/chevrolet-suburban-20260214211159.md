@@ -10,17 +10,17 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771103103/IMG_4212_oqs2pa.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771103104/IMG_4215_ppwyob.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771103105/IMG_4217_gdgck4.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771103105/IMG_4220_clmgoq.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771103106/IMG_4227_lbahia.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771103113/IMG_4230_kbnfyb.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771103110/IMG_4232_t9glnx.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771103108/IMG_4224_gfjqvj.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771103109/IMG_4225_zadn53.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771103111/IMG_4226_zswzp9.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771103114/IMG_4233_pjj8a8.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Suburban%20gnoj/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Suburban%20gnoj/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Suburban%20gnoj/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Suburban%20gnoj/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Suburban%20gnoj/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Suburban%20gnoj/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Suburban%20gnoj/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Suburban%20gnoj/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Suburban%20gnoj/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Suburban%20gnoj/10.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Suburban%20gnoj/11.jpg
 video_url: https://www.instagram.com/reel/DUgQXluDMLF/?igsh=a3psbWQ5eHltaHQ0
 ---
 Автомобіль пригнаний з США цілий

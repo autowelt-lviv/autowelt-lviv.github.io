@@ -9,11 +9,11 @@ drive: Передній привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028330/IMG_5526_br8kw1.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028331/IMG_5527_azbmk3.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028334/IMG_5528_lm3w4a.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028333/IMG_5529_rglojg.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772028335/IMG_5530_yduzao.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20kvbg/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20kvbg/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20kvbg/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20kvbg/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20kvbg/5.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

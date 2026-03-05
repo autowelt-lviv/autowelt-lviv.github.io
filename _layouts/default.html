@@ -72,7 +72,15 @@
       "name":"AutoWelt",
       "url": {{ "/" | absolute_url | jsonify }},
       "telephone": {{ site.data.site.phone | default: "" | jsonify }},
-      "areaServed":"Lviv, Ukraine"
+      "areaServed": {
+        "@type": "City",
+        "name": "Lviv"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Lviv",
+        "addressCountry": "UA"
+      }
     }
   </script>
   <script type="application/ld+json">

@@ -9,14 +9,14 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241104/IMG_4320_dpryzm.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241103/IMG_4319_oxnkuc.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241105/IMG_4321_wrsvho.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241107/IMG_4322_caq0tp.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241109/IMG_4323_ircieo.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241101/IMG_4318_mxhcpp.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241100/IMG_4316_fypaub.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771241099/IMG_4315_kdig9t.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Outlander%20PHEV%20Hybrid%204x4%20uvlp/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Outlander%20PHEV%20Hybrid%204x4%20uvlp/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Outlander%20PHEV%20Hybrid%204x4%20uvlp/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Outlander%20PHEV%20Hybrid%204x4%20uvlp/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Outlander%20PHEV%20Hybrid%204x4%20uvlp/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Outlander%20PHEV%20Hybrid%204x4%20uvlp/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Outlander%20PHEV%20Hybrid%204x4%20uvlp/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Outlander%20PHEV%20Hybrid%204x4%20uvlp/8.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

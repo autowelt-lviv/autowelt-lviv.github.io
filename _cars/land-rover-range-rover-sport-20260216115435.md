@@ -9,13 +9,13 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242121/IMG_4358_s2krql.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242119/IMG_4357_eaaazo.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242111/IMG_4352_bsf1lo.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242115/IMG_4355_xk3xko.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242123/IMG_4356_m4qouj.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242117/IMG_4354_rlznvd.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771242117/IMG_4354_rlznvd.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20vbek/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20vbek/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20vbek/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20vbek/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20vbek/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20vbek/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20vbek/7.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

@@ -9,13 +9,13 @@ drive: Задній привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239604/72909795_Image_1_hdy47c.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239635/72909795_Image_4_s4fycw.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239605/72909795_Image_3_ocbqv6.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239604/72909795_Image_2_uveqdp.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239635/72909795_Image_7_iumamj.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239636/72909795_Image_10_kvqlas.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239637/72909795_Image_11_qcsrba.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20SLK250%20AMG%20ltpd/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20SLK250%20AMG%20ltpd/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20SLK250%20AMG%20ltpd/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20SLK250%20AMG%20ltpd/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20SLK250%20AMG%20ltpd/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20SLK250%20AMG%20ltpd/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20SLK250%20AMG%20ltpd/7.jpg
 ---
 Автомобіль викуплений та в дорозі з США.
 

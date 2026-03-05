@@ -9,13 +9,13 @@ drive: Передній привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771100594/IMG_4810_udszr7.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771100594/IMG_4811_h1aejv.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771100595/IMG_4812_mwsiba.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771100595/IMG_4813_ozghcu.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771100595/IMG_4814_boyq2e.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771100595/IMG_4815_y5kbdj.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771100596/IMG_4816_cig03k.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20hqzy/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20hqzy/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20hqzy/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20hqzy/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20hqzy/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20hqzy/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20hqzy/7.jpg
 video_url: https://www.instagram.com/reel/DSnW-TuDFtA/?igsh=bHg4czhhNnc5YW15
 ---
 200тис. км 

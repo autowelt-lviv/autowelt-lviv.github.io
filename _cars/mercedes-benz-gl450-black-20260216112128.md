@@ -9,16 +9,16 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771240759/IMG_4314_bppl2e.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771240755/IMG_4311_yzvxwl.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771240756/IMG_4312_yrroic.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771240758/IMG_4313_tjkras.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771240753/IMG_4310_yeq0pd.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771240752/IMG_4309_bqkvo2.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771240751/IMG_4308_cknoev.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771240750/IMG_4307_gguikl.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771240749/IMG_4306_edm1qr.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771240748/IMG_4305_vt98vo.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/10.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

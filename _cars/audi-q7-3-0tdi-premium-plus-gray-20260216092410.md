@@ -9,17 +9,17 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771354269/IMG_3118_vgh6qt.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771233667/IMG_3295_pobtgg.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771233667/IMG_3292_fezz9x.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771233667/IMG_3293_igniir.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771233667/IMG_3294_mioui6.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771233666/IMG_3291_r6bgli.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771233666/IMG_3286_mbzhzf.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771233666/IMG_3288_tqhilo.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771354270/IMG_3117_bwjszz.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771354270/IMG_3119_j00snl.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771354271/IMG_3116_dlbpby.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Premium%20Plus%20Gray%20fuxi/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Premium%20Plus%20Gray%20fuxi/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Premium%20Plus%20Gray%20fuxi/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Premium%20Plus%20Gray%20fuxi/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Premium%20Plus%20Gray%20fuxi/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Premium%20Plus%20Gray%20fuxi/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Premium%20Plus%20Gray%20fuxi/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Premium%20Plus%20Gray%20fuxi/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Premium%20Plus%20Gray%20fuxi/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Premium%20Plus%20Gray%20fuxi/10.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Premium%20Plus%20Gray%20fuxi/11.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

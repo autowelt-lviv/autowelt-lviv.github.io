@@ -9,15 +9,15 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771237315/IMG_3373_zqli1n.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771237314/IMG_3372_khr9rs.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771237312/IMG_3371_yfimkr.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771237311/IMG_3370_nxal8n.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771237309/IMG_3369_r2gobo.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771237308/IMG_3368_xalsqm.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771237305/IMG_3366_j6h2bk.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771237304/IMG_3365_ja9fnh.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771237306/IMG_3367_ks0uby.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20zqhh/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20zqhh/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20zqhh/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20zqhh/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20zqhh/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20zqhh/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20zqhh/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20zqhh/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20zqhh/9.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

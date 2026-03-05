@@ -9,12 +9,12 @@ drive: Передній привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239207/97503315_Image_4_ibjzsr.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239207/97503315_Image_1_c4zpj7.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239207/97503315_Image_2_fw2smq.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239207/97503315_Image_3_zvvcjs.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239207/97503315_Image_7_ds0npp.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771239207/97503315_Image_11_n2enjy.jpg
+  - https://images.autowelt.lviv.ua/cars/GMC%20Terrain%201.6%20Diesel%20White%20krzb/1.jpg
+  - https://images.autowelt.lviv.ua/cars/GMC%20Terrain%201.6%20Diesel%20White%20krzb/2.jpg
+  - https://images.autowelt.lviv.ua/cars/GMC%20Terrain%201.6%20Diesel%20White%20krzb/3.jpg
+  - https://images.autowelt.lviv.ua/cars/GMC%20Terrain%201.6%20Diesel%20White%20krzb/4.jpg
+  - https://images.autowelt.lviv.ua/cars/GMC%20Terrain%201.6%20Diesel%20White%20krzb/5.jpg
+  - https://images.autowelt.lviv.ua/cars/GMC%20Terrain%201.6%20Diesel%20White%20krzb/6.jpg
 ---
 Автомобіль викуплений та в дорозі з США.
 

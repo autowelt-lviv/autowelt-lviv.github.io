@@ -9,14 +9,14 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771244152/IMG_4396_kblopu.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771244149/IMG_4395_tx6h6r.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771244146/IMG_4394_tsxlwp.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771244144/IMG_4393_trbiqd.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771244141/IMG_4392_mzudwy.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771244139/IMG_4391_hupmu7.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771244135/IMG_4389_u3oays.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771244136/IMG_4390_drm7mv.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%202.0T%20White%20Premium%20Plus%20fxua/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%202.0T%20White%20Premium%20Plus%20fxua/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%202.0T%20White%20Premium%20Plus%20fxua/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%202.0T%20White%20Premium%20Plus%20fxua/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%202.0T%20White%20Premium%20Plus%20fxua/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%202.0T%20White%20Premium%20Plus%20fxua/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%202.0T%20White%20Premium%20Plus%20fxua/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%202.0T%20White%20Premium%20Plus%20fxua/8.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

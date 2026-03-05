@@ -9,15 +9,15 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772646149/IMG_5829_uw9tn7.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772646149/IMG_5830_snzhtq.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772646149/IMG_5831_xtm54a.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772646150/IMG_5833_nsiyoi.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772646150/IMG_5835_ieofjf.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772646150/IMG_5834_mrgw30.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772646154/IMG_5836_uxib8o.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772646154/IMG_5837_prydgr.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772646154/IMG_5838_qzwmws.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Quattro%20Sline%20kpoq/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Quattro%20Sline%20kpoq/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Quattro%20Sline%20kpoq/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Quattro%20Sline%20kpoq/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Quattro%20Sline%20kpoq/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Quattro%20Sline%20kpoq/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Quattro%20Sline%20kpoq/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Quattro%20Sline%20kpoq/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Quattro%20Sline%20kpoq/9.jpg
 video_url: https://www.instagram.com/reel/DVeLPDeDB5h/?igsh=MjBlNnRpaWQyZzJz
 ---
 Автомобіль пригнаний з США

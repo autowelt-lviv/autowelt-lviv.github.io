@@ -9,20 +9,20 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772648715/1_blnihc.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772648714/33_zbbpcf.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772648714/12_joz1et.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772648714/11_vmwdda.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772648715/5_jbvgyg.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1772648714/6_vo340u.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172117/IMG_3265_uqk6v1.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172113/IMG_3262_txlhgh.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172115/IMG_3263_teaek7.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172115/IMG_3264_unga5q.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172110/IMG_3257_nyu1oy.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172111/IMG_3258_bhk6h6.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172113/IMG_3261_ntzkab.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172111/IMG_3259_lnqfwe.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/10.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/11.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/12.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/13.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/14.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

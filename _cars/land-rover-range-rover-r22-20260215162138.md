@@ -9,16 +9,16 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172377/IMG_3275_xcfuso.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172372/IMG_3271_mtjqwg.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172373/IMG_3272_wfpxmm.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172374/IMG_3273_fwymdd.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172376/IMG_3274_wlij0e.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172369/IMG_3269_irduiz.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172371/IMG_3270_gj6n03.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172367/IMG_3267_niexg7.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172366/IMG_3266_uj4qhr.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771172369/IMG_3268_qrxj5j.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20R22%20uavw/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20R22%20uavw/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20R22%20uavw/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20R22%20uavw/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20R22%20uavw/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20R22%20uavw/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20R22%20uavw/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20R22%20uavw/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20R22%20uavw/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20R22%20uavw/10.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

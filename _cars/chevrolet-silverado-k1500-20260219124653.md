@@ -10,14 +10,14 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771480633/IMG_5140_lxy1dz.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771480635/IMG_5141_eujnum.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771480636/IMG_5142_enstn7.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771480638/IMG_5143_isirdb.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771480640/IMG_5144_fzb8eg.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771480642/IMG_5145_lxq2x8.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771480646/IMG_5147_hiuhkv.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771480644/IMG_5146_kcz7cz.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Silverado%20K1500%20qstf/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Silverado%20K1500%20qstf/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Silverado%20K1500%20qstf/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Silverado%20K1500%20qstf/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Silverado%20K1500%20qstf/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Silverado%20K1500%20qstf/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Silverado%20K1500%20qstf/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Silverado%20K1500%20qstf/8.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

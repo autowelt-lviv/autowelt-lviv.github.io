@@ -10,14 +10,14 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771435975/IMG_5114_e00nsa.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771435976/IMG_5117_ir37d3.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771435976/IMG_5119_a1neiu.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771435976/IMG_5121_siovzh.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771435976/IMG_5124_havlkm.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771435977/IMG_5122_tolv7q.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771435976/IMG_5123_xkuvva.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771435977/IMG_5125_eouagz.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20ubju/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20ubju/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20ubju/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20ubju/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20ubju/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20ubju/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20ubju/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20ubju/8.jpg
 video_url: https://www.instagram.com/reel/DU6G0vwDIgv/?igsh=MWkzcXFmajlsa3pycA==
 ---
 

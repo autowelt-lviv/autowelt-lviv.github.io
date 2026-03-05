@@ -9,16 +9,16 @@ drive: Повний привід
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771246545/IMG_4475_siwdku.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771246535/IMG_4472_slmswk.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771246542/IMG_4474_qafglr.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771246539/IMG_4473_tnzn5l.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771246531/IMG_4471_gmvntv.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771246549/IMG_4469_irkp4r.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771246528/IMG_4470_oxufru.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771246524/IMG_4468_jluvud.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771246521/IMG_4467_qwssmz.jpg
-  - https://res.cloudinary.com/ducljnrfa/image/upload/v1771246518/IMG_4466_pq06ay.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/10.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 
