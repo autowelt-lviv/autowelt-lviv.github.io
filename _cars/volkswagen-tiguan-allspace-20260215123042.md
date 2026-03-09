@@ -6,8 +6,9 @@ price_usd: 9200
 release_year: 2019
 engine: 2.0 Бензин
 drive: Повний привід
-under_deposit: true
-on_site: false
+is_sold: true
+under_deposit: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Allspace%20qwrp/1.jpg
   - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Allspace%20qwrp/2.jpg
