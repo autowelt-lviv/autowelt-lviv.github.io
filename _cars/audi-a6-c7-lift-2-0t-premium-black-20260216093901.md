@@ -7,7 +7,7 @@ release_year: 2015
 engine: 2.0 Бензин
 drive: Передній привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Black%20mvzy/1.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C7%20Lift%202.0T%20Premium%20Black%20mvzy/2.jpg
