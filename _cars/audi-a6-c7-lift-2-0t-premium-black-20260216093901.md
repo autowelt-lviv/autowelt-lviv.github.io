@@ -2,10 +2,11 @@
 layout: car
 created_at: 2026-03-10T19:23:00.000+02:00
 title: Audi A6 C7 Lift 2.0T Premium Black
-price_usd: 10800
+price_usd: 10000
 release_year: 2015
 engine: 2.0 Бензин
 drive: Передній привід
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
