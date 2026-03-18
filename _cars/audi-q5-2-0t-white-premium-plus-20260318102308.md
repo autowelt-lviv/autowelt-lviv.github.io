@@ -9,7 +9,7 @@ engine: 2.0 Бензин
 drive: Повний привід
 is_sold: false
 under_deposit: false
-on_site: true
+on_site: false
 photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1773829290/IMG_6435_cr7gko.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1773829289/IMG_6434_fhlyns.jpg
