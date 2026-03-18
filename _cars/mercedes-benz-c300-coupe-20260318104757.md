@@ -9,7 +9,7 @@ engine: 2.0 Бензин
 drive: Задній привід
 is_sold: false
 under_deposit: false
-on_site: true
+on_site: false
 photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1773830655/IMG_6473_k0w9nr.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1773830653/IMG_6472_ikzk3w.jpg
