@@ -9,7 +9,7 @@ engine: 3.0 Diesel
 drive: Повний привід
 is_sold: false
 under_deposit: false
-on_site: true
+on_site: false
 photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1773829042/IMG_6425_li2bg6.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1773829036/IMG_6421_yg5ro8.jpg
