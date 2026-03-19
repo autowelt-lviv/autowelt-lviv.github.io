@@ -1,6 +1,6 @@
 ---
 layout: car
-created_at: 2026-02-17T15:10:00.000+02:00
+created_at: 2026-03-19T15:30:00.000+02:00
 title: Audi Q7 Premium Plus
 price_usd: 35900
 release_year: 2019
@@ -10,13 +10,18 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20pubv/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20pubv/2.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20pubv/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20pubv/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20pubv/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20pubv/6.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20pubv/7.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1773926874/IMG_6297_at9x0w.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1773926874/IMG_6298_ba3jyj.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1773926874/IMG_6300_bvybqc.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1773926874/IMG_6302_uqvmvy.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1773926874/IMG_6304_rfjeub.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1773926875/IMG_6306_wmwlbb.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1773926875/IMG_6309_m8xirq.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1773926876/IMG_6311_xcjcgq.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1773926876/IMG_6317_t6qw0r.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1773926876/IMG_6320_jgnmtx.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1773926877/IMG_6313_ddqgat.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1773926875/IMG_6308_nbn7xl.jpg
 video_url: https://www.instagram.com/reel/DTs8TvPjANp/?igsh=M2gyN3dodGZndWt1
 ---
 Автомобіль пригнаний з США
