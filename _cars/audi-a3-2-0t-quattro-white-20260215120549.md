@@ -7,7 +7,7 @@ release_year: 2016
 engine: 2.0 Бензин
 drive: Повний привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/1.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/2.jpg
