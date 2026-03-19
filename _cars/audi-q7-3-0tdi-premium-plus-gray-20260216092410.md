@@ -7,7 +7,7 @@ release_year: 2015
 engine: 3.0 Diesel
 drive: Повний привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Premium%20Plus%20Gray%20fuxi/1.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Premium%20Plus%20Gray%20fuxi/2.jpg
