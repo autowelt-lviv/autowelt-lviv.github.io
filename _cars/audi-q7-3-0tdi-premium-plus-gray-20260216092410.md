@@ -2,10 +2,11 @@
 layout: car
 created_at: 2026-02-16T11:18:00.000+02:00
 title: Audi Q7 3.0TDI Premium Plus Gray
-price_usd: 15800
+price_usd: ""
 release_year: 2015
 engine: 3.0 Diesel
 drive: Повний привід
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
