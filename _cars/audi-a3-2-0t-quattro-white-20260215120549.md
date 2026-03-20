@@ -1,6 +1,6 @@
 ---
 layout: car
-created_at: 2026-02-15T13:59:00.000+02:00
+created_at: 2026-03-20T22:47:00.000+02:00
 title: Audi A3 2.0T Quattro White
 price_usd: 11000
 release_year: 2016
@@ -9,22 +9,16 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/2.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/6.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/7.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/8.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/9.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20A3%202.0T%20Quattro%20White%20povx/10.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1774039399/IMG_6606_cfnpt1.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1774039400/IMG_6607_zg8igo.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1774039401/IMG_6608_dkbmcn.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1774039401/IMG_6609_rme2k5.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1774039402/IMG_6610_te57rs.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1774039403/IMG_6611_ftyqls.jpg
 ---
-Автомобіль викуплений цілим та в дорозі з США.
+Автомобіль викуплений цілим з США.
 
-Заводиться та їде
-
-**Доступний для попереднього резерву з фіксацією ціни.**
+Заводиться та їде**.**
 
 Доступне розтермінування та оплата частинами
 
