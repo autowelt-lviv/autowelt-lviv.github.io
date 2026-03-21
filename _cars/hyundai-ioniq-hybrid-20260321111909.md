@@ -1,7 +1,7 @@
 ---
 layout: car
-post_hidden: true
-created_at: 2026-03-21T13:11:00.000+02:00
+post_hidden: false
+created_at: 2026-03-21T14:11:00.000+02:00
 title: Hyundai Ioniq Hybrid
 price_usd: 12800
 release_year: 2019
@@ -23,6 +23,7 @@ photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1774091561/IMG_6647_guwpxd.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1774091562/IMG_6662_rzngxr.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1774091562/IMG_6653_lzyh5j.jpg
+video_url: https://www.instagram.com/reel/DWJUXxzsMn2/?igsh=d2NseDFld2JtYmM=
 ---
 Автомобіль пригнаний з США
 
