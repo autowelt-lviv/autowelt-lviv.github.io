@@ -6,7 +6,7 @@ price_usd: 10500
 release_year: 2013
 engine: 2.0 Бензин
 drive: Задній привід
-under_deposit: false
+under_deposit: true
 on_site: false
 photos:
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20SLK250%20AMG%20ltpd/1.jpg
