@@ -1,7 +1,7 @@
 ---
 layout: car
-post_hidden: true
-created_at: 2026-03-21T13:27:00.000+02:00
+post_hidden: false
+created_at: 2026-03-22T17:49:00.000+02:00
 title: Mercedes Benz A180 AMGpack
 price_usd: 23900
 release_year: 2019
@@ -21,6 +21,7 @@ photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1774092504/IMG_6567_fqpoff.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1774092509/IMG_6568_wigada.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1774092505/IMG_6569_gq0mn5.jpg
+video_url: https://www.instagram.com/reel/DWMTdtqs_nF/?igsh=OXlrNnRqZDBxMjZ1
 ---
 Автомобіль пригнаний з Бельгії
 
