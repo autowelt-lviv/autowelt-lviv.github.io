@@ -1,5 +1,6 @@
 ---
 layout: car
+post_hidden: true
 created_at: 2026-02-07T17:57:00.000+02:00
 title: Volvo XC60 T5
 price_usd: 12500
