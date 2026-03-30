@@ -18,9 +18,7 @@ photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1774891671/41731166_Image_3_mkddb5.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1774891671/41731166_Image_6_y0utw1.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1774891671/41731166_Image_2_m6hlvn.jpg
-  - "
-    https://res.cloudinary.com/dpllddkot/image/upload/v1774891672/41731166_Imag\
-    e_7_aidg4i.jpg"
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1774891672/41731166_Image_7_aidg4i.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1774891672/41731166_Image_8_gbwnpb.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1774891672/41731166_Image_10_u2ugwx.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1774891672/41731166_Image_11_mrndrp.jpg
