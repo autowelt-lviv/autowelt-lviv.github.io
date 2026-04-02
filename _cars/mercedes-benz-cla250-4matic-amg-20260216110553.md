@@ -2,7 +2,7 @@
 layout: car
 created_at: 2026-04-01T19:26:00.000+03:00
 title: Mercedes Benz CLA250 4matic AMG
-price_usd: 10000
+price_usd: 10500
 release_year: 2014
 engine: 2.0 Бензин
 drive: Повний привід
