@@ -1,16 +1,16 @@
 ---
 layout: car
-created_at: 2026-02-15T14:39:00.000+02:00
+created_at: 2026-03-20T14:39:00.000+02:00
 title: Audi Q5 2.0T Quattro White
-price_usd: 17500
+price_usd: 19400
 release_year: 2017
 engine: 2.0 Бензин
 drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20bffq/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20bffq/2.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775304331/IMG_7146_mv9bf9.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775304332/IMG_7147_snxsmc.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20bffq/3.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20bffq/4.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20bffq/5.jpg
