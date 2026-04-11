@@ -1,29 +1,32 @@
 ---
 layout: car
+post_hidden: true
 created_at: 2026-03-20T14:39:00.000+02:00
 title: Audi Q5 2.0T Quattro White
-price_usd: 19400
+price_usd: 19800
 release_year: 2017
 engine: 2.0 Бензин
 drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1775304331/IMG_7146_mv9bf9.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1775304332/IMG_7147_snxsmc.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20bffq/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20bffq/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20bffq/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20bffq/6.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20bffq/7.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20bffq/8.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20bffq/9.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775910963/IMG_7517_v27iq6.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775910963/IMG_7518_uxm2g8.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775910963/IMG_7520_utk0o5.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775910963/IMG_7523_zwejo5.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775910963/IMG_7524_karnlz.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775910963/IMG_7526_s80sbd.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775910965/IMG_7532_pipte5.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775910965/IMG_7528_gxyofi.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775910965/IMG_7544_boo0gc.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775910965/IMG_7539_bnjrbh.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775910965/IMG_7536_kjel76.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775910965/IMG_7537_eioxrt.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1775910965/IMG_7529_nuho7i.jpg
 ---
-Автомобіль викуплений цілий та в дорозі з США.
+Автомобіль викуплений цілий з США.
 
 Заводиться та їде
-
-**Доступний для попереднього резерву з фіксацією ціни.**
 
 Доступне розтермінування та оплата частинами
 
@@ -32,10 +35,10 @@ photos:
 ***Premium Plus***
 
 * диски R20,
-* підігрів сидінь,
+* підігрів сидінь передніх та задніх і керма,
 * камера заднього виду,
 * клімат контроль 3-х зонний,
 * панорама,
 * Віртуальна приборна панель,
-* темна стеля,
+* безключовий доступ,
 * LED фари,
