@@ -1,7 +1,7 @@
 ---
 layout: car
 post_hidden: false
-created_at: 2026-04-11T20:14:00.000+03:00
+created_at: 2026-04-12T13:46:00.000+03:00
 title: Audi Q5 2.0T Quattro White
 price_usd: 19800
 release_year: 2017
@@ -23,6 +23,7 @@ photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1775910965/IMG_7536_kjel76.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1775910965/IMG_7537_eioxrt.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1775910965/IMG_7529_nuho7i.jpg
+video_url: https://www.instagram.com/reel/DXB1208MRkd/?igsh=cnQ3bXI5aXR6ZDk0
 ---
 Автомобіль викуплений цілий з США.
 
