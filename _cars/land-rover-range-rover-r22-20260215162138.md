@@ -1,14 +1,15 @@
 ---
 layout: car
-created_at: 2026-02-15T18:17:00.000+02:00
+created_at: 2026-04-10T18:17:00.000+03:00
 title: Land Rover Range Rover R22
 price_usd: 21000
 release_year: 2017
 engine: 3.0 Diesel
 drive: Повний привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1776274561/IMG_7620_kirihj.jpg
   - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20R22%20uavw/1.jpg
   - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20R22%20uavw/2.jpg
   - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20R22%20uavw/3.jpg
