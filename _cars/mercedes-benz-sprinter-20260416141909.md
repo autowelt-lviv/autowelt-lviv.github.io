@@ -23,10 +23,11 @@ photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1776348786/IMG_7689_tksfg0.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1776348787/IMG_7692_qmlgh4.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1776348787/IMG_7697_oclvp0.jpg
+video_url: https://www.instagram.com/reel/DXM_eAUsB0b/?igsh=enI0NDB2Z3BidDN5
 ---
 Авто в відмінному стані
 
-Пробіг: 330тис.км
+Пробіг: 335тис.км
 
 Задній привід
 
