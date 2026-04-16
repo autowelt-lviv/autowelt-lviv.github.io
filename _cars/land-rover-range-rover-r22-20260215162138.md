@@ -6,6 +6,7 @@ price_usd: 21000
 release_year: 2017
 engine: 3.0 Diesel
 drive: Повний привід
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
