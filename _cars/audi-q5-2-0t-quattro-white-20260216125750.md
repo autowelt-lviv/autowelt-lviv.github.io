@@ -9,21 +9,13 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/2.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/6.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/7.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/8.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/9.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20ruhl/10.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1776843337/IMG_7951_xamoiz.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1776843337/IMG_7950_en4uvu.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1776843334/IMG_7952_yrcmdy.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1776843333/IMG_7953_gg2bjz.jpg
 ---
-Автомобіль викуплений цілим та в дорозі з США.
+Автомобіль викуплений цілим з США.
 
 Заводиться та їде
-
-**Доступний для попереднього резерву з фіксацією ціни.**
 
 Доступне розтермінування та оплата частинами
