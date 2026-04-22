@@ -7,7 +7,7 @@ release_year: 2016
 engine: 3.0 Diesel
 drive: Повний привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20vbek/1.jpg
   - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20vbek/2.jpg
