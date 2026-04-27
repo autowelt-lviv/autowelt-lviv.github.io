@@ -7,7 +7,7 @@ release_year: 2013
 engine: 3.0 Diesel
 drive: Повний привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20ML350Diesel%20awau/1.jpg
   - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20ML350Diesel%20awau/2.jpg
