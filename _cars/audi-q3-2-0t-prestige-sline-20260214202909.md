@@ -2,7 +2,7 @@
 layout: car
 created_at: 2026-02-14T22:24:00.000+02:00
 title: Audi Q3 2.0T Prestige Sline
-price_usd: 13700
+price_usd: 13300
 release_year: 2016
 engine: 2.0 Бензин
 drive: Передній привід
