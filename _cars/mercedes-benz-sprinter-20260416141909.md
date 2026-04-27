@@ -3,7 +3,7 @@ layout: car
 post_hidden: false
 created_at: 2026-04-16T17:13:00.000+03:00
 title: Mercedes Benz Sprinter
-price_usd: 29900
+price_usd: 28900
 release_year: 2019
 engine: 3.0Diesel
 drive: Задній привід
