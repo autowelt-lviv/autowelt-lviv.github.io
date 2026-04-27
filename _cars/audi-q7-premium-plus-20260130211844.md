@@ -7,6 +7,7 @@ release_year: 2019
 alt_release_year: 2020 США
 engine: 3.0 Бензин
 drive: Повний привід
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
