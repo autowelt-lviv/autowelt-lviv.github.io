@@ -7,7 +7,7 @@ release_year: 2014
 engine: 2.0 Бензин
 drive: Повний привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20gkza/1.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20gkza/2.jpg
