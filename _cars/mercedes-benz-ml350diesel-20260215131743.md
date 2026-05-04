@@ -2,10 +2,11 @@
 layout: car
 created_at: 2026-02-15T15:13:00.000+02:00
 title: Mercedes-Benz ML350Diesel
-price_usd: 13500
+price_usd: 13000
 release_year: 2013
 engine: 3.0 Diesel
 drive: Повний привід
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
