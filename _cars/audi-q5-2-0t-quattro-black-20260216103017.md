@@ -9,21 +9,13 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20gkza/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20gkza/2.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20gkza/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20gkza/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20gkza/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20gkza/6.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20gkza/7.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20gkza/8.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20gkza/9.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20gkza/10.jpg
+  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1777880055/IMG_7909_tufez9.jpg
+  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1777880055/IMG_7910_hokf86.jpg
+  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1777880055/IMG_7911_cym66r.jpg
+  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1777880055/IMG_7912_qybnm1.jpg
 ---
-Автомобіль викуплений цілим та в дорозі з США.
+Автомобіль викуплений цілим з США.
 
 Заводиться та їде
-
-**Доступний для попереднього резерву з фіксацією ціни.**
 
 Доступне розтермінування та оплата частинами
