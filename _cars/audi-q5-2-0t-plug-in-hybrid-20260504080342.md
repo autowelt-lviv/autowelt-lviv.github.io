@@ -23,6 +23,7 @@ photos:
   - https://res.cloudinary.com/diqpa8jkg/image/upload/v1777881654/IMG_8451_imizyp.jpg
   - https://res.cloudinary.com/diqpa8jkg/image/upload/v1777881655/IMG_8449_qcsxvw.jpg
   - https://res.cloudinary.com/diqpa8jkg/image/upload/v1777881654/IMG_8456_pjwq75.jpg
+video_url: https://www.instagram.com/reel/DX-DvUaMzfM/?igsh=c2FlYmVxcWJ3dHl1
 ---
 Автомобіль викуплений з США.
 
