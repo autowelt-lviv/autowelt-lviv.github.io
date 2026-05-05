@@ -7,6 +7,7 @@ price_usd: 18800
 release_year: 2017
 engine: 2.0 Бензин
 drive: Повний привід
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
