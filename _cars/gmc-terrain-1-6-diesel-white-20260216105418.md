@@ -7,7 +7,7 @@ release_year: 2017
 engine: 1.6 Diesel
 drive: Передній привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/GMC%20Terrain%201.6%20Diesel%20White%20krzb/1.jpg
   - https://images.autowelt.lviv.ua/cars/GMC%20Terrain%201.6%20Diesel%20White%20krzb/2.jpg
