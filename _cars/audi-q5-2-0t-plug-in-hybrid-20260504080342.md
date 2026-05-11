@@ -7,7 +7,7 @@ price_usd: 37500
 release_year: 2022
 engine: 2.0 Бензин/Hybrid
 drive: Повний привід
-is_sold: false
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
