@@ -11,22 +11,15 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829042/IMG_6425_li2bg6.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829036/IMG_6421_yg5ro8.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829037/IMG_6422_vneujp.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829038/IMG_6423_y2xdgz.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829040/IMG_6424_qhhm0k.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829032/IMG_6418_ydfefv.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829033/IMG_6419_u73ybf.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829034/IMG_6420_mmr92f.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829030/IMG_6416_ml6mul.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829030/IMG_6417_yf3ovh.jpg
+  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778589632/177831195444975_d0bu33.jpg
+  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778589632/1778311961802628_qptv4e.jpg
+  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778589632/1778311940480829_xpipqw.jpg
+  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778589633/1778311981635015_i1ngte.jpg
+video_url: https://vt.tiktok.com/ZS9KWwxRu/
 ---
-Автомобіль викуплений цілий та в дорозі з США.
+Автомобіль викуплений цілий з США.
 
 Заводиться та їде
-
-**Доступний для попереднього резерву з фіксацією ціни.**
 
 Доступне розтермінування та оплата частинами
 
