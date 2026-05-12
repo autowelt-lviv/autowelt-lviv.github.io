@@ -1,5 +1,6 @@
 ---
 layout: car
+post_hidden: true
 created_at: 2026-02-16T12:36:00.000+02:00
 title: Volkswagen ID4 82kW White
 price_usd: 15000
@@ -7,7 +8,7 @@ release_year: 2021
 engine: 82kW електро
 drive: Задній привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20White%20pqdn/1.jpg
   - https://images.autowelt.lviv.ua/cars/Volkswagen%20ID4%2082kW%20White%20pqdn/2.jpg
