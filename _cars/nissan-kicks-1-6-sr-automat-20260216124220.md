@@ -7,7 +7,7 @@ release_year: 2019
 engine: 1.6 Бензин
 drive: Передній привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20hdiy/1.jpg
   - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20hdiy/2.jpg
