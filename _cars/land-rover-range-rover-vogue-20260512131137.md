@@ -4,7 +4,7 @@ post_hidden: false
 created_at: 2026-05-12T16:07:00.000+03:00
 title: Land Rover Range Rover Vogue
 price_usd: 19300
-release_year: 2009
+release_year: 2011
 engine: 4.4 Diesel
 drive: Повний привід
 is_sold: false
@@ -20,6 +20,7 @@ photos:
   - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778591327/IMG_8673_edptmz.jpg
   - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778591332/IMG_8678_2_ovxkqq.jpg
   - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778591330/IMG_8676_2_fzscds.jpg
+video_url: https://www.instagram.com/reel/DYPcuLwsLhq/?igsh=MWR3MWFvdGwzZTBxZQ==
 ---
 230 тис км
 
