@@ -1,6 +1,6 @@
 ---
 layout: car
-post_hidden: false
+post_hidden: true
 created_at: 2026-03-18T12:42:00.000+02:00
 title: Mercedes Benz C300 Coupe
 price_usd: 16500
