@@ -1,7 +1,7 @@
 ---
 layout: car
 post_hidden: false
-created_at: 2026-05-13T14:18:00.000+03:00
+created_at: 2026-05-13T18:46:00.000+03:00
 title: Mercedes Benz ML350 Bluetec
 price_usd: 17900
 release_year: 2014
@@ -22,6 +22,7 @@ photos:
   - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778671083/IMG_8919_jtgbt5.jpg
   - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778671083/IMG_8906_jkz1uc.jpg
   - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778671083/IMG_8904_zbfytp.jpg
+video_url: https://www.instagram.com/reel/DYSMlhnsPTN/?igsh=YTkyMzVsbnVmZnh4
 ---
 240 тис км
 
