@@ -21,6 +21,7 @@ photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1779733725/IMG_9481_cqbixk.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1779733729/IMG_9485_vuvdjn.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1779733728/IMG_9489_dteqrh.jpg
+video_url: https://www.instagram.com/reel/DYxcHGSMUnp/?igsh=MTNpMDkxMGx1aTR0Yg==
 ---
 101тис км
 
