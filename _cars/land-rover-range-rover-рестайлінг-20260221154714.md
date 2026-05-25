@@ -8,7 +8,7 @@ alt_release_year: ""
 engine: 3.0 Diesel
 drive: Повний привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ybcr/1.jpg
   - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ybcr/2.jpg
