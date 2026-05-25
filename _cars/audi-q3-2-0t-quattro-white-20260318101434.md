@@ -11,7 +11,8 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773828752/IMG_6410_s3higy.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779730672/IMG_9425_cx1gsf.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779730673/IMG_9427_qdtyle.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1773828749/IMG_6406_zflgb7.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1773828753/IMG_6411_kn9its.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1773828749/IMG_6407_uqo68l.jpg
@@ -22,7 +23,7 @@ photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1773828757/IMG_6414_pnhhgu.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1773828758/IMG_6415_werbxx.jpg
 ---
-Автомобіль викуплений цілий та в дорозі з США.
+Автомобіль викуплений цілим з США.
 
 Заводиться та їде
 
