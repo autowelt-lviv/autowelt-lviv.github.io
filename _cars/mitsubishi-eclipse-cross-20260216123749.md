@@ -1,28 +1,38 @@
 ---
 layout: car
-created_at: 2026-02-16T14:34:00.000+02:00
+created_at: 2026-05-25T21:33:00.000+03:00
 title: Mitsubishi Eclipse Cross
-price_usd: 11000
+price_usd: 11800
 release_year: 2018
-engine: 2.0 Бензин
+engine: 1.5 Бензин
 drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/2.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/6.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/7.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/8.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ayes/9.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733711/IMG_9464_kbyp0x.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733719/IMG_9465_jcwwde.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733725/IMG_9467_peuhep.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733724/IMG_9470_snaakw.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733724/IMG_9471_cjnfuy.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733724/IMG_9474_yyldto.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733724/IMG_9476_svnnmr.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733725/IMG_9479_ripuki.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733725/IMG_9477_yyt6lh.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733725/IMG_9481_cqbixk.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733729/IMG_9485_vuvdjn.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733728/IMG_9489_dteqrh.jpg
 ---
-Автомобіль викуплений цілим та в дорозі з США.
+101тис км
 
-Заводиться та їде
+Автомобіль пригнаний з США.
 
-**Доступний для попереднього резерву з фіксацією ціни.**
+Комплектація:
 
-Доступне розтермінування та оплата частинами
+* камера заднього виду,
+* мульти кермо,
+* ксенон фари,
+* клімат контроль,
+* CarPlay,
+* диски R18,
+* повний привід,
+* центральний замок.
