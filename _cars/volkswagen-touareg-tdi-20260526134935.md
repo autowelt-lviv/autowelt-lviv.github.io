@@ -22,6 +22,7 @@ photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1779803271/IMG_9574_2_x0jx4k.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1779803272/IMG_9578_2_erxpo2.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1779803269/IMG_9568_2_iitkzu.jpg
+video_url: https://www.instagram.com/reel/DYzt0nLMI2e/?igsh=MTdteWdxZXZtdTE1OQ==
 ---
 Автомобіль пригнаний з США цілим
 
