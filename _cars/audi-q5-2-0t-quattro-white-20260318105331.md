@@ -3,7 +3,7 @@ layout: car
 post_hidden: false
 created_at: 2026-05-26T16:43:00.000+03:00
 title: Audi Q5 2.0T Quattro White
-price_usd: 9999
+price_usd: 9700
 release_year: 2014
 engine: 2.0 Бензин
 drive: Повний привід
