@@ -2,7 +2,7 @@
 layout: car
 created_at: 2026-05-12T16:02:00.000+03:00
 title: Nissan Kicks 1.6 SR Automat
-price_usd: 11950
+price_usd: 11650
 release_year: 2019
 engine: 1.6 Бензин
 drive: Передній привід
