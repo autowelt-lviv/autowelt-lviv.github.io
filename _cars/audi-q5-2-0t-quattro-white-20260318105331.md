@@ -1,7 +1,7 @@
 ---
 layout: car
 post_hidden: false
-created_at: 2026-03-18T12:49:00.000+02:00
+created_at: 2026-05-26T16:43:00.000+03:00
 title: Audi Q5 2.0T Quattro White
 price_usd: 9999
 release_year: 2014
@@ -11,14 +11,31 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779731050/IMG_3495_xd0sy1.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779731048/IMG_3494_pdg0ik.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779731039/IMG_3497_nc4rjn.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779731052/IMG_3496_vr7flk.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779731054/IMG_3498_nepqnb.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802794/IMG_9536_2_nq1gjd.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802794/IMG_9537_2_atvh3d.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802794/IMG_9539_2_b4oyx0.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802794/IMG_9541_2_vbokwi.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802794/IMG_9542_2_vk98fu.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802794/IMG_9544_2_kwx0um.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802796/IMG_9545_2_rmet8g.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802796/IMG_9547_2_tbcet4.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802796/IMG_9549_2_cx3qcq.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802796/IMG_9552_2_pupjgt.jpg
 ---
-Автомобіль викуплений цілий з США.
+Автомобіль пригнаний з США
 
-Заводиться та їде
+Пробіг: 215тис.км
 
-Доступне розтермінування та оплата частинами
+Рестайлінг
+
+Комплектація:
+
+* диски R18,
+* підігрів сидінь передніх,
+* камера заднього виду,
+* музика,
+* контроль сліпих зон,
+* Адаптивний ксенон,
+* клімат контроль 3-х зонний,
+* без ключовий доступ,
+* панорама.
