@@ -7,6 +7,7 @@ release_year: 2021
 alt_release_year: 2022 Америка
 engine: 3.0 Diesel
 drive: Повний привід
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
