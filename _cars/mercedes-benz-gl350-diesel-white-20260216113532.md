@@ -7,7 +7,7 @@ release_year: 2015
 engine: 3.0 Diesel
 drive: Повний привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20White%20ogyc/1.jpg
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20White%20ogyc/2.jpg
