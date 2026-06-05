@@ -6,6 +6,7 @@ price_usd: 11800
 release_year: 2018
 engine: 1.5 Бензин
 drive: Повний привід
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
