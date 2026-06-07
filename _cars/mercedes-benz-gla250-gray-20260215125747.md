@@ -2,7 +2,7 @@
 layout: car
 created_at: 2026-02-25T16:06:00.000+02:00
 title: Mercedes-Benz GLA250 Gray
-price_usd: 12700
+price_usd: 13900
 release_year: 2015
 engine: 2.0 Бензин
 drive: Передній привід
