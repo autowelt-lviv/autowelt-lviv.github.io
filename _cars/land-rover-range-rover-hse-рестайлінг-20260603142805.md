@@ -12,16 +12,16 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496695/IMG_4516_t2tn3t.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496695/IMG_4518_fozllc.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496695/IMG_4520_rapclm.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496696/IMG_4523_yujm5k.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496696/IMG_4524_gmyuhv.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496696/IMG_4526_nblyv1.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496697/IMG_4540_kati2a.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496697/IMG_4542_m6shci.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496697/IMG_4547_jsge3o.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496696/IMG_4529_glymts.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20HSE%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ujev/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20HSE%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ujev/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20HSE%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ujev/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20HSE%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ujev/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20HSE%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ujev/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20HSE%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ujev/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20HSE%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ujev/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20HSE%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ujev/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20HSE%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ujev/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20HSE%20%D0%A0%D0%B5%D1%81%D1%82%D0%B0%D0%B9%D0%BB%D1%96%D0%BD%D0%B3%20ujev/10.jpg
 video_url: https://www.instagram.com/reel/DZSD1v6sBm1/?igsh=MWphbnA0Z3NsNmI5bw==
 ---
 168 тис км

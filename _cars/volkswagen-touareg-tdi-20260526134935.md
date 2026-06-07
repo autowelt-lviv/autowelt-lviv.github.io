@@ -11,17 +11,17 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779803265/IMG_9555_2_t1ur0t.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779803273/IMG_9556_2_bbx7dt.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779803269/IMG_9558_2_h93fsa.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779803268/IMG_9560_2_o3sx1w.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779803269/IMG_9561_2_nw68xv.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779803270/IMG_9563_2_mfp671.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779803270/IMG_9571_2_pbwjqh.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779803271/IMG_9569_2_olil8g.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779803271/IMG_9574_2_x0jx4k.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779803272/IMG_9578_2_erxpo2.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779803269/IMG_9568_2_iitkzu.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20tgjj/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20tgjj/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20tgjj/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20tgjj/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20tgjj/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20tgjj/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20tgjj/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20tgjj/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20tgjj/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20tgjj/10.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20tgjj/11.jpg
 video_url: https://www.instagram.com/reel/DYzt0nLMI2e/?igsh=MTdteWdxZXZtdTE1OQ==
 ---
 Автомобіль пригнаний з США цілим
