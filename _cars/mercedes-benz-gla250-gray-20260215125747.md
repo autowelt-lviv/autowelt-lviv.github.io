@@ -1,6 +1,6 @@
 ---
 layout: car
-created_at: 2026-02-25T16:06:00.000+02:00
+created_at: 2026-06-07T21:20:00.000+03:00
 title: Mercedes-Benz GLA250 Gray
 price_usd: 13900
 release_year: 2015
@@ -9,16 +9,24 @@ drive: Передній привід
 under_deposit: false
 on_site: true
 photos:
-  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20kvbg/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20kvbg/2.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20kvbg/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20kvbg/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20kvbg/5.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856190/IMG_4658_dloetf.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856200/IMG_4661_bfra0h.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856202/IMG_4663_xe8bhi.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856200/IMG_4666_gqkn6d.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856201/IMG_4674_magiic.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856202/IMG_4672_txhlwx.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856201/IMG_4676_oavy8e.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856201/IMG_4669_fcdkuw.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856201/IMG_4668_qi8xm5.jpg
+video_url: https://www.instagram.com/reel/DZR1S8aMgM4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 ---
-Автомобіль викуплений цілим та в дорозі з США.
+240тис. км 
 
-Заводиться та їде
+Автомобіль пригнаний з США
 
-**Доступний для попереднього резервування з фіксацією ціни.**
+Комплектація:
 
-Доступне розтермінування та оплата частинами
+* підігрів сидінь передніх,
+* диски R18,
+* система старт стоп,
+* клімат контроль 3-х зонний,
