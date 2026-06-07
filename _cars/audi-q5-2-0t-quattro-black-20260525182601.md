@@ -11,12 +11,12 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733484/IMG_3479_ckexqr.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733484/IMG_3480_bxzat6.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733485/IMG_3481_or83ll.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733490/IMG_3482_ujb9bx.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733484/IMG_3484_fqntm5.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733484/IMG_3485_aosu7d.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20nxvr/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20nxvr/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20nxvr/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20nxvr/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20nxvr/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20nxvr/6.jpg
 ---
 Автомобіль викуплений цілим з США.
 

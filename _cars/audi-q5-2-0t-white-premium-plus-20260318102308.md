@@ -11,12 +11,12 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779730451/IMG_3472_j7fzoz.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779730447/IMG_3473_sqgnot.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779730446/IMG_3474_dpnzri.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779730447/IMG_3475_gcbit9.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779730450/IMG_3477_w5vjbd.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779730449/IMG_3476_adju6k.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20White%20Premium%20Plus%20wqgm/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20White%20Premium%20Plus%20wqgm/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20White%20Premium%20Plus%20wqgm/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20White%20Premium%20Plus%20wqgm/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20White%20Premium%20Plus%20wqgm/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20White%20Premium%20Plus%20wqgm/6.jpg
 ---
 Автомобіль викуплений цілий з США.
 

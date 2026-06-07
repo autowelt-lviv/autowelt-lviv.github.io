@@ -11,16 +11,16 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1778778058/IMG_9025_aez9k2.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1778778058/IMG_9026_vrvjbv.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1778778059/IMG_9028_jcjigg.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1778778059/IMG_9031_gok3oh.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1778778060/IMG_9032_rgdn6k.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1778778060/IMG_9034_krbbc0.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1778778060/IMG_9036_a4z57e.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1778778060/IMG_9039_dmr1xo.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1778778061/IMG_9042_ti2ldt.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1778778062/IMG_9050_pvke1q.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20kfzw/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20kfzw/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20kfzw/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20kfzw/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20kfzw/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20kfzw/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20kfzw/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20kfzw/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20kfzw/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20kfzw/10.jpg
 video_url: https://www.instagram.com/reel/DYU4VAWshhW/?igsh=MXhxcmZtb2t3cnZmNw==
 ---
 205 тис км

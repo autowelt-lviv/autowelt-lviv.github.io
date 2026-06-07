@@ -11,14 +11,14 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780141715/IMG_9851_okwipi.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780141715/IMG_9855_znn0mc.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780141715/IMG_9857_edzl35.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780141715/IMG_9860_elxbve.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780141715/IMG_9863_dntt3i.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780141716/IMG_9865_x1j00y.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780141716/IMG_9862_opxdtf.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780141715/IMG_9861_wo6llo.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20hehp/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20hehp/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20hehp/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20hehp/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20hehp/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20hehp/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20hehp/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20hehp/8.jpg
 video_url: https://www.instagram.com/reel/DY9imvbsUlc/?igsh=b3NpazZ1OTlkZ2k5
 ---
 Автомобіль привезений з США

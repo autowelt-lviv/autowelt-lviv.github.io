@@ -11,17 +11,17 @@ is_sold: false
 under_deposit: true
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779730672/IMG_9425_cx1gsf.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779730673/IMG_9427_qdtyle.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773828749/IMG_6406_zflgb7.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773828753/IMG_6411_kn9its.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773828749/IMG_6407_uqo68l.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773828751/IMG_6408_gjwmqt.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773828752/IMG_6409_b2q2fd.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773828755/IMG_6412_pebzmn.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773828756/IMG_6413_eeqvw4.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773828757/IMG_6414_pnhhgu.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773828758/IMG_6415_werbxx.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20White%20ifii/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20White%20ifii/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20White%20ifii/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20White%20ifii/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20White%20ifii/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20White%20ifii/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20White%20ifii/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20White%20ifii/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20White%20ifii/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20White%20ifii/10.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Quattro%20White%20ifii/11.jpg
 ---
 Автомобіль викуплений цілим з США.
 

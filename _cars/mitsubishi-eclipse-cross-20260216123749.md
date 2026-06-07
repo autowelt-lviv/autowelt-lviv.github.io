@@ -10,18 +10,18 @@ is_sold: true
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733711/IMG_9464_kbyp0x.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733719/IMG_9465_jcwwde.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733725/IMG_9467_peuhep.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733724/IMG_9470_snaakw.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733724/IMG_9471_cjnfuy.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733724/IMG_9474_yyldto.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733724/IMG_9476_svnnmr.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733725/IMG_9479_ripuki.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733725/IMG_9477_yyt6lh.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733725/IMG_9481_cqbixk.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733729/IMG_9485_vuvdjn.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779733728/IMG_9489_dteqrh.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20flpr/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20flpr/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20flpr/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20flpr/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20flpr/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20flpr/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20flpr/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20flpr/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20flpr/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20flpr/10.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20flpr/11.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20flpr/12.jpg
 video_url: https://www.instagram.com/reel/DYxcHGSMUnp/?igsh=MTNpMDkxMGx1aTR0Yg==
 ---
 101тис км

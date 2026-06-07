@@ -11,14 +11,14 @@ is_sold: true
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496353/IMG_4571_g1lpgc.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496354/IMG_4575_v8aifq.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496353/IMG_4578_o2buvl.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496353/IMG_4581_nnzqa5.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496353/IMG_4564_jl2anv.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496354/IMG_4566_cgj73q.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496353/IMG_4562_szuqq7.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780496353/IMG_4558_tqh9te.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20dsvb/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20dsvb/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20dsvb/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20dsvb/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20dsvb/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20dsvb/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20dsvb/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20dsvb/8.jpg
 ---
 290 тис. км
 

@@ -12,16 +12,16 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779869022/audi_q5__635316667hd_dqpkuj.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779869022/audi_q5__635316671hd_drikxy.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779869022/audi_q5__635316672hd_wufxyl.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779869023/audi_q5__635316668hd_ncie7l.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779869022/audi_q5__635316676hd_ahhjvc.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779869023/audi_q5__635316684hd_ou3exs.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779869023/audi_q5__635316681hd_zrmksw.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779869026/audi_q5__635316683hd_l13wmv.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779869026/audi_q5__635316680hd_wi1r5y.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779869023/audi_q5__635316688hd_syrodi.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20fovw/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20fovw/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20fovw/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20fovw/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20fovw/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20fovw/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20fovw/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20fovw/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20fovw/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20fovw/10.jpg
 ---
 Автомобіль пригнаний з США
 

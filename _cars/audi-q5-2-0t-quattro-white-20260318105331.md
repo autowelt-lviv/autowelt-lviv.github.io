@@ -11,16 +11,16 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802794/IMG_9536_2_nq1gjd.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802794/IMG_9537_2_atvh3d.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802794/IMG_9539_2_b4oyx0.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802794/IMG_9541_2_vbokwi.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802794/IMG_9542_2_vk98fu.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802794/IMG_9544_2_kwx0um.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802796/IMG_9545_2_rmet8g.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802796/IMG_9547_2_tbcet4.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802796/IMG_9549_2_cx3qcq.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1779802796/IMG_9552_2_pupjgt.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20izmd/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20izmd/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20izmd/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20izmd/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20izmd/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20izmd/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20izmd/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20izmd/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20izmd/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20izmd/10.jpg
 video_url: https://www.instagram.com/reel/DY2b24nsERF/?igsh=dzMyeTJ5MGViNDZp
 ---
 Автомобіль пригнаний з США

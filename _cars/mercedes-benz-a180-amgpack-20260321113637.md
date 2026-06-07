@@ -11,16 +11,16 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774092506/IMG_6560_qp9mtt.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774092503/IMG_6561_sowfsa.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774092505/IMG_6562_nwaqk2.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774092507/IMG_6563_cpmucv.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774092505/IMG_6564_jjpf0g.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774092509/IMG_6565_w9e0ll.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774092508/IMG_6566_iebr3x.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774092504/IMG_6567_fqpoff.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774092509/IMG_6568_wigada.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774092505/IMG_6569_gq0mn5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20A180%20AMGpack%20hcpc/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20A180%20AMGpack%20hcpc/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20A180%20AMGpack%20hcpc/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20A180%20AMGpack%20hcpc/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20A180%20AMGpack%20hcpc/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20A180%20AMGpack%20hcpc/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20A180%20AMGpack%20hcpc/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20A180%20AMGpack%20hcpc/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20A180%20AMGpack%20hcpc/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20A180%20AMGpack%20hcpc/10.jpg
 video_url: https://www.instagram.com/reel/DWMTdtqs_nF/?igsh=OXlrNnRqZDBxMjZ1
 ---
 Автомобіль пригнаний з Бельгії

@@ -11,18 +11,18 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1776348785/IMG_7677_qfywus.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1776348785/IMG_7678_aheojt.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1776348785/IMG_7680_tkgig9.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1776348785/IMG_7682_rzi2qo.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1776348785/IMG_7685_evc2md.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1776348786/IMG_7683_wovu6h.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1776348786/IMG_7686_rt8odi.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1776348786/IMG_7693_eenumj.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1776348786/IMG_7694_jll0gh.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1776348786/IMG_7689_tksfg0.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1776348787/IMG_7692_qmlgh4.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1776348787/IMG_7697_oclvp0.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20Sprinter%20atek/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20Sprinter%20atek/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20Sprinter%20atek/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20Sprinter%20atek/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20Sprinter%20atek/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20Sprinter%20atek/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20Sprinter%20atek/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20Sprinter%20atek/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20Sprinter%20atek/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20Sprinter%20atek/10.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20Sprinter%20atek/11.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20Sprinter%20atek/12.jpg
 video_url: https://www.instagram.com/reel/DXM_eAUsB0b/?igsh=enI0NDB2Z3BidDN5
 ---
 Авто в відмінному стані

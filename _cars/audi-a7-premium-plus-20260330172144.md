@@ -11,14 +11,14 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774891084/79639755_Image_1_k5rpr8.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774891084/79639755_Image_4_jhi5an.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774891084/79639755_Image_3_g2dwj2.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774891084/79639755_Image_2_nmwncw.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774891084/79639755_Image_7_pdrcne.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774891084/79639755_Image_8_l3ch5u.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774891085/79639755_Image_10_kusemn.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1774891085/79639755_Image_11_x4r62m.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Premium%20Plus%20qtcu/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Premium%20Plus%20qtcu/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Premium%20Plus%20qtcu/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Premium%20Plus%20qtcu/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Premium%20Plus%20qtcu/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Premium%20Plus%20qtcu/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Premium%20Plus%20qtcu/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Premium%20Plus%20qtcu/8.jpg
 ---
 Автомобіль викуплений цілий та в дорозі з США.
 

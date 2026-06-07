@@ -11,14 +11,14 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829839/IMG_6454_mpvfx1.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829830/IMG_6449_lxdoyp.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829832/IMG_6450_ajbsf8.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829833/IMG_6451_pzn7ur.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829835/IMG_6452_umnhfo.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829837/IMG_6453_cgvxqv.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829829/IMG_6448_vurt1x.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1773829828/IMG_6446_zdaeom.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Black%20Premium%20Plus%20udwb/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Black%20Premium%20Plus%20udwb/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Black%20Premium%20Plus%20udwb/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Black%20Premium%20Plus%20udwb/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Black%20Premium%20Plus%20udwb/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Black%20Premium%20Plus%20udwb/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Black%20Premium%20Plus%20udwb/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Black%20Premium%20Plus%20udwb/8.jpg
 ---
 Автомобіль викуплений цілий та в дорозі з США.
 

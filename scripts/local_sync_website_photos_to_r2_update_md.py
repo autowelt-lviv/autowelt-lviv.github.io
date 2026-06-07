@@ -243,6 +243,9 @@ def main() -> None:
         if not photos:
             print(f"[SKIP] {md.name}: no photos found")
             continue
+        if photos and photos[0].startswith(args.public_base_url.rstrip("/") + "/"):
+            print(f"[SKIP] {md.name}: already migrated to R2")
+            continue
         
         # Add 4 random letters to title to mitigate colissions
         suffix = ''.join(random.choices(string.ascii_lowercase, k=4))
