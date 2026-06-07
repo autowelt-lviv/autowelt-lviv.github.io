@@ -3,7 +3,7 @@ layout: car
 post_hidden: false
 created_at: 2026-06-03T17:22:00.000+03:00
 title: Land Rover Range Rover HSE Рестайлінг
-price_usd: 37500
+price_usd: 39500
 release_year: 2018
 alt_release_year: 2019 Америка
 engine: 3.0 Diesel
@@ -22,6 +22,7 @@ photos:
   - https://res.cloudinary.com/dpllddkot/image/upload/v1780496697/IMG_4542_m6shci.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1780496697/IMG_4547_jsge3o.jpg
   - https://res.cloudinary.com/dpllddkot/image/upload/v1780496696/IMG_4529_glymts.jpg
+video_url: https://www.instagram.com/reel/DZSD1v6sBm1/?igsh=MWphbnA0Z3NsNmI5bw==
 ---
 168 тис км
 
