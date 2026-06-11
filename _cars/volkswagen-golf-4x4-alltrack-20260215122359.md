@@ -1,6 +1,6 @@
 ---
 layout: car
-created_at: 2026-05-07T12:20:00.000+03:00
+created_at: 2026-05-25T12:20:00.000+03:00
 title: Volkswagen Golf 4x4 Alltrack
 price_usd: 12200
 release_year: 2017
@@ -9,17 +9,14 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778145316/IMG_8640_rswadt.jpg
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778145314/IMG_8641_gt4xd6.jpg
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778145314/IMG_8643_ontqcl.jpg
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778145314/IMG_8646_hpq1jw.jpg
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778145315/IMG_8647_wvnyik.jpg
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778145315/IMG_8649_c6rds7.jpg
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778145314/IMG_8652_ccj7h7.jpg
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778145316/IMG_8657_myobgu.jpg
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778145316/IMG_8659_eblewy.jpg
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778145316/IMG_8656_ndfvrk.jpg
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1778145314/IMG_8653_zjscut.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168880/IMG_8640_mdyhnb.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168879/IMG_8643_ld54a9.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168879/IMG_8646_wlfmwx.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168879/IMG_8649_lwv4xe.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168878/IMG_8652_z7phb8.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168879/IMG_8658_foclaf.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168881/IMG_8654_lijm3w.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168881/IMG_8656_m1zbgk.jpg
 video_url: https://www.instagram.com/reel/DYDCVScsOdM/?igsh=MTN6dGcyMDNoaHc2Nw==
 ---
 Автомобіль викуплений цілим з США.
