@@ -10,7 +10,7 @@ engine: 3.0 Бензин
 drive: Повний привід
 is_sold: false
 under_deposit: false
-on_site: true
+on_site: false
 photos:
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20jqhl/1.jpg
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20jqhl/2.jpg
