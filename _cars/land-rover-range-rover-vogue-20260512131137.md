@@ -1,6 +1,6 @@
 ---
 layout: car
-post_hidden: false
+post_hidden: true
 created_at: 2026-05-12T16:07:00.000+03:00
 title: Land Rover Range Rover Vogue
 price_usd: 19300
