@@ -2,10 +2,11 @@
 layout: car
 created_at: 2026-05-14T22:43:00.000+03:00
 title: Land Rover Discovery V
-price_usd: 23200
+price_usd: 22000
 release_year: 2017
 engine: 3.0 Diesel
 drive: Повний привід
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
