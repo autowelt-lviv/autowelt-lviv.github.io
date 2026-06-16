@@ -3,11 +3,11 @@ layout: car
 post_hidden: false
 created_at: 2026-06-07T21:14:00.000+03:00
 title: Mercedes Benz GL350 Diesel
-price_usd: 20500
+price_usd: 19000
 release_year: 2015
 engine: 3.0 Diesel
 drive: Повний привід
-is_sold: false
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
