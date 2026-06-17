@@ -9,16 +9,16 @@ drive: Передній привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781169644/IMG_8856_iac2xz.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781169644/IMG_8857_vjvace.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781169645/IMG_8859_juuhe5.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781169645/IMG_8861_zfyw9u.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781169645/IMG_8862_pcqjvw.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781169646/IMG_8864_jsmtcp.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781169646/IMG_8870_zyrdaw.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781169646/IMG_8887_e93xfh.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781169646/IMG_8873_imne5i.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781169645/IMG_8867_qpakzm.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20xeep/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20xeep/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20xeep/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20xeep/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20xeep/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20xeep/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20xeep/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20xeep/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20xeep/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Nissan%20Kicks%201.6%20SR%20Automat%20xeep/10.jpg
 video_url: https://www.instagram.com/reel/DYP7t04MSB-/?igsh=MWV6Yjh4aGF3ZmI4dA==
 ---
 Автомобіль викуплений цілим з США.

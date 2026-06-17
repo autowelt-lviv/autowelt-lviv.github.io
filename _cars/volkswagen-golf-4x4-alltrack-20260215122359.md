@@ -9,14 +9,14 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168880/IMG_8640_mdyhnb.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168879/IMG_8643_ld54a9.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168879/IMG_8646_wlfmwx.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168879/IMG_8649_lwv4xe.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168878/IMG_8652_z7phb8.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168879/IMG_8658_foclaf.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168881/IMG_8654_lijm3w.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1781168881/IMG_8656_m1zbgk.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20ztob/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20ztob/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20ztob/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20ztob/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20ztob/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20ztob/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20ztob/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Golf%204x4%20Alltrack%20ztob/8.jpg
 video_url: https://www.instagram.com/reel/DYDCVScsOdM/?igsh=MTN6dGcyMDNoaHc2Nw==
 ---
 Автомобіль викуплений цілим з США.

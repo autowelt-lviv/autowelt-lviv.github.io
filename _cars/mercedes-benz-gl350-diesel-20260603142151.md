@@ -11,16 +11,16 @@ is_sold: true
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780855842/IMG_4781_pivluz.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780855842/IMG_4783_n9masw.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780855842/IMG_4786_bmgvsy.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780855842/IMG_4790_r3gab2.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780855908/IMG_4801_fezdsd.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780855909/IMG_4802_gq2xnc.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780855889/IMG_4797_n3dorl.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780855843/IMG_4794_xhs3ql.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780855842/IMG_4804_gsvjsy.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780855860/IMG_4793_vjjixi.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20ieet/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20ieet/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20ieet/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20ieet/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20ieet/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20ieet/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20ieet/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20ieet/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20ieet/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20ieet/10.jpg
 video_url: https://www.instagram.com/reel/DZSz9cCsnJY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 ---
 238 тис. км

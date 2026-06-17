@@ -9,15 +9,15 @@ drive: Передній привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856190/IMG_4658_dloetf.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856200/IMG_4661_bfra0h.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856202/IMG_4663_xe8bhi.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856200/IMG_4666_gqkn6d.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856201/IMG_4674_magiic.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856202/IMG_4672_txhlwx.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856201/IMG_4676_oavy8e.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856201/IMG_4669_fcdkuw.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1780856201/IMG_4668_qi8xm5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20qhdb/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20qhdb/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20qhdb/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20qhdb/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20qhdb/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20qhdb/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20qhdb/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20qhdb/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLA250%20Gray%20qhdb/9.jpg
 video_url: https://www.instagram.com/reel/DZR1S8aMgM4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 ---
 240тис. км 
