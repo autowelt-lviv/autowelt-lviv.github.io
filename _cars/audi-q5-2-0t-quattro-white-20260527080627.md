@@ -8,7 +8,7 @@ release_year: 2012
 alt_release_year: 2013 Америка
 engine: 2.0 Бензин
 drive: Повний привід
-is_sold: false
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
