@@ -11,14 +11,14 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782153266/IMG_5555_lybnnr.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782153267/IMG_5557_ql1mdx.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782153266/IMG_5558_zebrgv.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782153266/IMG_5559_gb6bj5.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782153267/IMG_5560_khgg6o.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782153268/IMG_5563_cdy4l9.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782153267/IMG_5561_k8tfxm.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782153268/IMG_5564_xr5pga.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20kgay/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20kgay/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20kgay/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20kgay/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20kgay/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20kgay/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20kgay/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Touareg%20TDI%20kgay/8.jpg
 video_url: https://www.instagram.com/reel/DZ5ORxQM3FL/?igsh=cHVlNG5rbDY4Z253
 ---
 Автомобіль пригнаний з США цілим

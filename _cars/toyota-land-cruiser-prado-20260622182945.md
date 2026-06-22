@@ -12,16 +12,16 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782152499/IMG_5518_z9z4rm.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782152499/IMG_5521_webpma.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782152499/IMG_5523_wwkf7b.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782152499/IMG_5526_jmzgbq.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782152499/IMG_5528_x4xrgv.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782152500/IMG_5531_sjatap.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782152500/IMG_5537_ju9tmd.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782152500/IMG_5533_yfwsex.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782152501/IMG_5534_qdeskc.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782152499/IMG_5532_maghet.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20jygr/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20jygr/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20jygr/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20jygr/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20jygr/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20jygr/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20jygr/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20jygr/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20jygr/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Toyota%20Land%20Cruiser%20Prado%20jygr/10.jpg
 video_url: https://www.instagram.com/reel/DZ5fMPysshK/?igsh=dnFldDNibmRjNXQ1
 ---
 147 тис. км
