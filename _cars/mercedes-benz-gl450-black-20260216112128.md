@@ -1,26 +1,21 @@
 ---
 layout: car
-created_at: 2026-02-16T13:16:00.000+02:00
+created_at: 2026-03-16T13:16:00.000+02:00
 title: Mercedes Benz GL450 Black
 price_usd: 14800
 release_year: 2015
 engine: 3.0 Бензин
 drive: Повний привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/2.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/6.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/7.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/8.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/9.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20biwv/10.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1782200422/IMG_4863_qzn1jb.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1782200422/IMG_4862_c9jz5j.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1782200422/IMG_4868_mukrkn.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1782200422/IMG_4864_hdtmmt.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1782200422/IMG_4872_pmkgnr.jpg
 ---
-Автомобіль викуплений цілим та в дорозі з США.
+Автомобіль викуплений цілим з США.
 
 Пробiг: 104тис. миль
 
