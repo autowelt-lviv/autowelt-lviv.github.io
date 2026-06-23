@@ -11,14 +11,14 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782211824/IMG_5755_slaffg.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782211817/IMG_5752_udisru.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782211821/IMG_5754_sdmvhp.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782211818/IMG_5753_cufyic.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782211805/IMG_5747_bmwedz.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782211812/IMG_5750_rov0za.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782211807/IMG_5748_hx0ztg.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782211810/IMG_5749_lwws71.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Premium%20Plus%20120mile%20yaxp/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Premium%20Plus%20120mile%20yaxp/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Premium%20Plus%20120mile%20yaxp/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Premium%20Plus%20120mile%20yaxp/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Premium%20Plus%20120mile%20yaxp/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Premium%20Plus%20120mile%20yaxp/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Premium%20Plus%20120mile%20yaxp/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Premium%20Plus%20120mile%20yaxp/8.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

@@ -11,14 +11,14 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782209239/IMG_5684_dp1xug.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782209233/IMG_5681_wobe0a.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782209235/IMG_5682_hmmpcn.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782209237/IMG_5683_feqrqy.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782209231/IMG_5680_vtxjsv.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782209230/IMG_5678_fht8qk.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782209228/IMG_5677_riyuv4.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782209227/IMG_5676_nwzsbo.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%204x4%20todw/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%204x4%20todw/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%204x4%20todw/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%204x4%20todw/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%204x4%20todw/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%204x4%20todw/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%204x4%20todw/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%204x4%20todw/8.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

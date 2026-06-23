@@ -11,15 +11,15 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782213637/IMG_5775_qdc2ph.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782213634/IMG_5774_qnobuo.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782213631/IMG_5773_gqrlva.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782213640/IMG_5772_mpgulw.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782213628/IMG_5771_yiute2.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782213625/IMG_5770_yauybq.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782213618/IMG_5768_h33s90.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782213621/IMG_5769_dv5kp6.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782213616/IMG_5766_yceuje.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20xrap/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20xrap/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20xrap/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20xrap/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20xrap/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20xrap/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20xrap/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20xrap/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20xrap/9.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

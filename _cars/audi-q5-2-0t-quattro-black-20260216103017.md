@@ -9,10 +9,10 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782216019/IMG_5591_bwnzjf.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782216019/IMG_5592_ctjpei.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782216026/IMG_5594_red0ap.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782216020/IMG_5593_lpknjw.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20exbu/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20exbu/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20exbu/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20exbu/4.jpg
 ---
 Автомобіль викуплений цілим з США.
 

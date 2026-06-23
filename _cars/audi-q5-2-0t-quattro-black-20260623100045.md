@@ -11,15 +11,15 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208733/IMG_5675_s9q3vn.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208728/IMG_5672_muqokg.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208730/IMG_5673_q1zhyq.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208732/IMG_5674_rbiot0.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208727/IMG_5671_wpkeyu.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208725/IMG_5670_dswkcj.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208722/IMG_5668_nnfdnq.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208711/IMG_5666_v794cx.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208720/IMG_5667_xzcycr.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20pupx/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20pupx/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20pupx/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20pupx/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20pupx/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20pupx/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20pupx/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20pupx/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20pupx/9.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

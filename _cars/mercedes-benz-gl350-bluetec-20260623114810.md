@@ -11,16 +11,16 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782215081/IMG_5805_trlimo.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782215066/IMG_5802_zgq7om.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782215074/IMG_5804_y3pxy7.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782215070/IMG_5803_vlziid.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782215077/IMG_5801_vdwar7.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782215084/IMG_5799_wnpvjk.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782215058/IMG_5798_svjfyq.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782215063/IMG_5800_kffgcx.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782215055/IMG_5797_klpjk4.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782215052/IMG_5796_h1w0fa.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Bluetec%20eaoo/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Bluetec%20eaoo/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Bluetec%20eaoo/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Bluetec%20eaoo/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Bluetec%20eaoo/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Bluetec%20eaoo/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Bluetec%20eaoo/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Bluetec%20eaoo/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Bluetec%20eaoo/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Bluetec%20eaoo/10.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

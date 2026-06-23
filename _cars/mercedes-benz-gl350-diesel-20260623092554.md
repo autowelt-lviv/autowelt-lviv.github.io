@@ -11,15 +11,15 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782206455/IMG_5607_tpsqvs.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782206452/IMG_5604_wz13ud.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782206454/IMG_5605_i41ubo.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782206454/IMG_5606_mqfej1.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782206452/IMG_5603_xtiwsf.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782206451/IMG_5599_yigflo.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782206451/IMG_5600_cys9pq.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782206452/IMG_5602_txyerx.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782206451/IMG_5601_sgziwb.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/9.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

@@ -11,15 +11,15 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782214716/IMG_5795_uu6lft.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782214706/IMG_5792_cgenw0.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782214709/IMG_5793_ydvel7.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782214713/IMG_5794_t78qls.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782214703/IMG_5790_mtcbhb.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782214696/IMG_5788_eiro0o.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782214693/IMG_5787_q6ubus.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782214690/IMG_5786_idxcet.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782214700/IMG_5789_ppowzr.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%201.6Diesel%20Black%20xhdm/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%201.6Diesel%20Black%20xhdm/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%201.6Diesel%20Black%20xhdm/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%201.6Diesel%20Black%20xhdm/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%201.6Diesel%20Black%20xhdm/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%201.6Diesel%20Black%20xhdm/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%201.6Diesel%20Black%20xhdm/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%201.6Diesel%20Black%20xhdm/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%201.6Diesel%20Black%20xhdm/9.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

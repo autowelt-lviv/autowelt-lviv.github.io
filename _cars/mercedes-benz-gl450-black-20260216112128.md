@@ -9,11 +9,11 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782200422/IMG_4863_qzn1jb.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782200422/IMG_4862_c9jz5j.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782200422/IMG_4868_mukrkn.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782200422/IMG_4864_hdtmmt.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782200422/IMG_4872_pmkgnr.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20pvrs/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20pvrs/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20pvrs/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20pvrs/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20pvrs/5.jpg
 ---
 Автомобіль викуплений цілим з США.
 

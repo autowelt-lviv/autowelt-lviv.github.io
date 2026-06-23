@@ -11,15 +11,15 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208308/IMG_5654_xtg9oj.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208309/IMG_5657_qspte6.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208316/IMG_5663_znazdp.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208307/IMG_5653_wpsmml.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208312/IMG_5659_iggbvy.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208314/IMG_5661_b75zyq.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208311/IMG_5660_harxcu.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208315/IMG_5662_x31gk7.jpg
-  - https://res.cloudinary.com/dpllddkot/image/upload/v1782208318/IMG_5664_gbj8km.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/9.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 
