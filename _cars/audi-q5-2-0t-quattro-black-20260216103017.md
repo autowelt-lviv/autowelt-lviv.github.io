@@ -9,10 +9,10 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1777880055/IMG_7909_tufez9.jpg
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1777880055/IMG_7910_hokf86.jpg
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1777880055/IMG_7911_cym66r.jpg
-  - https://res.cloudinary.com/diqpa8jkg/image/upload/v1777880055/IMG_7912_qybnm1.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1782216019/IMG_5591_bwnzjf.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1782216019/IMG_5592_ctjpei.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1782216026/IMG_5594_red0ap.jpg
+  - https://res.cloudinary.com/dpllddkot/image/upload/v1782216020/IMG_5593_lpknjw.jpg
 ---
 Автомобіль викуплений цілим з США.
 
