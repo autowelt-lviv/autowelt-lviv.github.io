@@ -8,7 +8,7 @@ release_year: 2016
 alt_release_year: ""
 engine: 2.7 Газ/Бензин
 drive: Повний привід
-is_sold: false
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
