@@ -9,7 +9,7 @@ engine: 3.0 Бензин
 drive: Повний привід
 is_sold: false
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Premium%20Plus%20qtcu/1.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20A7%20Premium%20Plus%20qtcu/2.jpg
