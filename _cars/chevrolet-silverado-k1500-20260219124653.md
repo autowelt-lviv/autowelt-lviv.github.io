@@ -8,7 +8,7 @@ alt_release_year: 2020/11
 engine: 3.0 Diesel
 drive: Повний привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Chevrolet%20Silverado%20K1500%20qstf/1.jpg
   - https://images.autowelt.lviv.ua/cars/Chevrolet%20Silverado%20K1500%20qstf/2.jpg
