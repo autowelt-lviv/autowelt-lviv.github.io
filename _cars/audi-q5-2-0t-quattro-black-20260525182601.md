@@ -26,6 +26,7 @@ photos:
   - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20trqu/12.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20trqu/13.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20trqu/14.jpg
+video_url: https://www.instagram.com/reel/DaBbg9PMwMh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 ---
 Автомобіль викуплений цілим з США.
 
