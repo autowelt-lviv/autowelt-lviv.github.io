@@ -6,6 +6,7 @@ price_usd: 14000
 release_year: 2017
 engine: 1.6 Diesel
 drive: Передній привід
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
