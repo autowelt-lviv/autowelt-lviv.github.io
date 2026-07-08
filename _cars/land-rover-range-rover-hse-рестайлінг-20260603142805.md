@@ -3,7 +3,7 @@ layout: car
 post_hidden: false
 created_at: 2026-07-08T15:28:00.000+03:00
 title: Land Rover Range Rover HSE Рестайлінг
-price_usd: 39500
+price_usd: 41400
 release_year: 2018
 alt_release_year: 2019 Америка
 engine: 3.0 Diesel
