@@ -23,6 +23,7 @@ photos:
   - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/9.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/10.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/11.jpg
+video_url: https://www.instagram.com/reel/DaiNLkpMdNd/?igsh=MW1iazhrMjh5d2Z3dg==
 ---
 Автомобіль викуплений з США.
 
