@@ -12,17 +12,17 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783513788/IMG_6613_c7fi2s.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783513786/IMG_6615_nt0w43.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783513787/IMG_6617_xvm5yh.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783513788/IMG_6618_uwrtc6.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783513788/IMG_6619_qyp4hi.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783513788/IMG_6620_da4ec2.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783513787/IMG_6623_oxruxf.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783513789/IMG_6628_nilnth.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783513791/IMG_6636_w5rxe2.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783513790/IMG_6629_qdn6zl.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783513787/IMG_6622_gv3ave.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/10.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%20Premium%20Plus%20fvdt/11.jpg
 ---
 Автомобіль викуплений з США.
 

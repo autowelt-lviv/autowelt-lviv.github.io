@@ -22,10 +22,12 @@ import sys
 import tempfile
 import random
 import string
+import socket
 from pathlib import Path
 from typing import List, Optional, Tuple
 from urllib.parse import urlparse, quote
 from urllib.request import urlopen, Request
+from urllib.error import URLError
 
 
 FRONT_MATTER_RE = re.compile(r"(?s)^\s*---\s*\n(.*?)\n---\s*\n(.*)$")
@@ -113,26 +115,68 @@ def build_public_url(public_base_url: str, key: str) -> str:
     return f"{base}/{encoded}"
 
 
+#def download_file(url: str, timeout: int):
+#    """
+#    Download file.
+#    Returns (temp_file_path, content_type)
+#    """
+#    req = Request(url, headers={"User-Agent": "autowelt-r2-uploader/1.0"})
+#    
+#    with urlopen(req, timeout=timeout) as r:
+#        content_type = r.headers.get("Content-Type")
+#        if content_type:
+#            content_type = content_type.split(";")[0].strip()
+#
+#        fd, tmp_path = tempfile.mkstemp(prefix="r2img_", suffix=".bin")
+#        os.close(fd)
+#        tmp = Path(tmp_path)
+#
+#        with tmp.open("wb") as f:
+#            f.write(r.read())
+#
+#    return tmp, content_type
+
+
 def download_file(url: str, timeout: int):
     """
     Download file.
+    Retries once only on timeout.
     Returns (temp_file_path, content_type)
     """
-    req = Request(url, headers={"User-Agent": "autowelt-r2-uploader/1.0"})
-    
-    with urlopen(req, timeout=timeout) as r:
-        content_type = r.headers.get("Content-Type")
-        if content_type:
-            content_type = content_type.split(";")[0].strip()
+    last_error = None
 
-        fd, tmp_path = tempfile.mkstemp(prefix="r2img_", suffix=".bin")
-        os.close(fd)
-        tmp = Path(tmp_path)
+    for attempt in range(2):
+        try:
+            req = Request(url, headers={"User-Agent": "autowelt-r2-uploader/1.0"})
 
-        with tmp.open("wb") as f:
-            f.write(r.read())
+            with urlopen(req, timeout=timeout) as r:
+                content_type = r.headers.get("Content-Type")
+                if content_type:
+                    content_type = content_type.split(";")[0].strip()
 
-    return tmp, content_type
+                fd, tmp_path = tempfile.mkstemp(prefix="r2img_", suffix=".bin")
+                os.close(fd)
+                tmp = Path(tmp_path)
+
+                with tmp.open("wb") as f:
+                    f.write(r.read())
+
+                return tmp, content_type
+
+        except TimeoutError as e:
+            last_error = e
+        except socket.timeout as e:
+            last_error = e
+        except URLError as e:
+            if isinstance(e.reason, socket.timeout):
+                last_error = e
+            else:
+                raise
+
+        if attempt == 0:
+            print(f"[WARN] Timeout downloading {url}, retrying once...")
+
+    raise last_error
 
 
 def aws_s3_cp(
