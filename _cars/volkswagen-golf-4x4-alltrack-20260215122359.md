@@ -2,7 +2,7 @@
 layout: car
 created_at: 2026-05-25T12:20:00.000+03:00
 title: Volkswagen Golf 4x4 Alltrack
-price_usd: 12200
+price_usd: 11700
 release_year: 2017
 engine: 2.0 Бензин
 drive: Повний привід
