@@ -9,7 +9,7 @@ engine: 3.0 Diesel
 drive: Повний привід
 is_sold: false
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/1.jpg
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/2.jpg
