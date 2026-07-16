@@ -21,6 +21,7 @@ photos:
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784209038/IMG_7091_t5f0ws.jpg
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784209039/IMG_7092_lsqn8i.jpg
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784209038/IMG_7093_krmlwq.jpg
+video_url: https://www.instagram.com/reel/Da3cgIYs4k9/?igsh=eTRlMjJ0OGE2c3h1
 ---
 80 тис км
 
