@@ -2,7 +2,7 @@
 layout: car
 post_hidden: false
 created_at: 2026-07-16T16:37:00.000+03:00
-title: Audi E-Trone S Sportback
+title: Audi E-Tron S Sportback
 price_usd: 40000
 release_year: 2021
 engine: 95kW
