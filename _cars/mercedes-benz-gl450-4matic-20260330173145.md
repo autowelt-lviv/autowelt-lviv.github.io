@@ -19,6 +19,7 @@ photos:
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784105961/IMG_7049_n59kdt.jpg
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784105963/IMG_7048_xkhcxc.jpg
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784105962/IMG_7050_i0wyag.jpg
+video_url: https://autowelt.lviv.ua/cars/mercedes-benz-gl450-4matic-20260330173145/
 ---
 Автомобіль викуплений з США.
 
