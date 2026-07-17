@@ -2,7 +2,7 @@
 layout: car
 created_at: 2026-07-15T12:08:00.000+03:00
 title: Volkswagen Tiguan SE 4x4
-price_usd: 10700
+price_usd: 10800
 release_year: 2016
 engine: 2.0 Бензин
 drive: Повний привід
@@ -17,6 +17,7 @@ photos:
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784106417/IMG_7021_sunk4t.jpg
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784106415/IMG_7025_svbcpq.jpg
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784106415/IMG_7017_xsviwi.jpg
+video_url: https://www.instagram.com/reel/Da6JB86sSqC/?igsh=c3hqcm1zaG9pMTZy
 ---
 Автомобіль викуплений цілим з США.
 
