@@ -8,7 +8,7 @@ release_year: 2014
 alt_release_year: 2015 Америка
 engine: 3.0 Бензин
 drive: Повний привід
-is_sold: false
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
