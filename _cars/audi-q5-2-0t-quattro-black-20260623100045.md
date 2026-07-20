@@ -3,8 +3,8 @@ layout: car
 post_hidden: false
 created_at: 2026-06-23T12:54:00.000+03:00
 title: Audi Q5 2.0T Quattro Black
-price_usd: 15500
-release_year: 2018
+price_usd: 16000
+release_year: 2017
 engine: 2.0 Бензин
 drive: Повний привід
 is_sold: false
