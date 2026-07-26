@@ -10,17 +10,17 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783678045/IMG_6846_lzgoxi.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783678053/IMG_6848_o79efr.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783678061/IMG_6849_zssx08.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783678060/IMG_6851_vcuqdc.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783678060/IMG_6853_kdxvae.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783678061/IMG_6854_ystew3.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783678060/IMG_6857_ykiwxp.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783678061/IMG_6860_iqwove.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783678061/IMG_6865_j1vcz6.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783678061/IMG_6863_uqiven.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1783678060/IMG_6856_lisdrq.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20jwsz/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20jwsz/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20jwsz/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20jwsz/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20jwsz/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20jwsz/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20jwsz/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20jwsz/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20jwsz/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20jwsz/10.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20jwsz/11.jpg
 video_url: https://www.instagram.com/reel/DaptiJhsIgL/?igsh=bWE0bXBhejR4bWZz
 ---
 Автомобіль викуплений цілим з США.

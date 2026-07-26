@@ -11,17 +11,17 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784886224/IMG_7395_ql0tnu.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784886224/IMG_7398_hamn8z.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784886224/IMG_7399_yxpnuy.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784886224/IMG_7402_xrbh2u.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784886228/IMG_7404_sgiizw.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784886229/IMG_7405_kfjfbe.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784886227/IMG_7408_jidhii.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784886235/IMG_7410_gwkim8.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784886234/IMG_7415_rhkxb8.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784886228/IMG_7420_t2jlwt.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784886236/IMG_7421_hspeek.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/10.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/11.jpg
 video_url: https://vt.tiktok.com/ZS9KWwxRu/
 ---
 Автомобіль викуплений цілий з США.

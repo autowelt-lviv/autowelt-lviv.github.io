@@ -9,17 +9,17 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784814141/IMG_7367_slaxjb.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784814141/IMG_7369_vi1pjz.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784814141/IMG_7370_y294a3.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784814141/IMG_7373_i82dff.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784814141/IMG_7374_fr3fdz.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784814141/IMG_7375_a9aywr.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784814142/IMG_7381_hw4qma.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784814142/IMG_7380_kkv5xs.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784814142/IMG_7379_y3unkr.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784814142/IMG_7388_x0enio.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784814142/IMG_7385_izrsja.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20aiic/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20aiic/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20aiic/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20aiic/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20aiic/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20aiic/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20aiic/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20aiic/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20aiic/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20aiic/10.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20White%20Prestige%20aiic/11.jpg
 ---
 Автомобіль викуплений цілим з США.
 

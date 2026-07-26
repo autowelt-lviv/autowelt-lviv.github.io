@@ -11,16 +11,16 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784209036/IMG_7084_anw05b.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784209036/IMG_7085_pzlqiv.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784209036/IMG_7086_i0dufc.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784209037/IMG_7087_vovdkf.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784209037/IMG_7088_yxlo1t.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784209037/IMG_7089_vgmybi.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784209037/IMG_7090_rjg4yr.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784209038/IMG_7091_t5f0ws.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784209039/IMG_7092_lsqn8i.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784209038/IMG_7093_krmlwq.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20E-Tron%20S%20Sportback%20iqfs/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20E-Tron%20S%20Sportback%20iqfs/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20E-Tron%20S%20Sportback%20iqfs/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20E-Tron%20S%20Sportback%20iqfs/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20E-Tron%20S%20Sportback%20iqfs/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20E-Tron%20S%20Sportback%20iqfs/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20E-Tron%20S%20Sportback%20iqfs/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20E-Tron%20S%20Sportback%20iqfs/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20E-Tron%20S%20Sportback%20iqfs/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20E-Tron%20S%20Sportback%20iqfs/10.jpg
 video_url: https://www.instagram.com/reel/Da3cgIYs4k9/?igsh=eTRlMjJ0OGE2c3h1
 ---
 80 тис км

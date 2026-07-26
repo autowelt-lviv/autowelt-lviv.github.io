@@ -9,14 +9,14 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784106415/IMG_7004_tprwod.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784106414/IMG_7008_l9pjdt.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784106185/IMG_7010_u3mzs7.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784106415/IMG_7013_wgr3fc.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784106416/IMG_7019_au9dbt.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784106417/IMG_7021_sunk4t.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784106415/IMG_7025_svbcpq.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784106415/IMG_7017_xsviwi.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20SE%204x4%20mvjn/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20SE%204x4%20mvjn/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20SE%204x4%20mvjn/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20SE%204x4%20mvjn/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20SE%204x4%20mvjn/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20SE%204x4%20mvjn/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20SE%204x4%20mvjn/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20SE%204x4%20mvjn/8.jpg
 video_url: https://www.instagram.com/reel/Da6JB86sSqC/?igsh=c3hqcm1zaG9pMTZy
 ---
 Автомобіль викуплений цілим з США.

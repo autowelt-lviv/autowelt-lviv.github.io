@@ -11,11 +11,11 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784794398/IMG_7286_vlmcof.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784794397/IMG_7288_zcccwr.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784794397/IMG_7289_kkstuj.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784794397/IMG_7291_yyedqv.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784794398/IMG_7292_vfhfyl.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784794398/IMG_7294_wc6znd.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1784794397/IMG_7295_tsfnk5.jpg
+  - https://images.autowelt.lviv.ua/cars/Tesla%20Model%20Y%20Perfomance%20vxii/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Tesla%20Model%20Y%20Perfomance%20vxii/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Tesla%20Model%20Y%20Perfomance%20vxii/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Tesla%20Model%20Y%20Perfomance%20vxii/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Tesla%20Model%20Y%20Perfomance%20vxii/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Tesla%20Model%20Y%20Perfomance%20vxii/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Tesla%20Model%20Y%20Perfomance%20vxii/7.jpg
 ---
