@@ -7,7 +7,7 @@ price_usd: 9600
 release_year: 2015
 engine: 2.0 Бензин
 drive: Повний привід
-is_sold: false
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
