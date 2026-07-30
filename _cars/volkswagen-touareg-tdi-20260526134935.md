@@ -3,7 +3,7 @@ layout: car
 post_hidden: false
 created_at: 2026-05-26T16:49:00.000+03:00
 title: Volkswagen Touareg TDI
-price_usd: 19800
+price_usd: 18500
 release_year: 2015
 engine: 3.0 Diesel
 drive: Повний привід
