@@ -6,7 +6,7 @@ title: Renault Clio Automat
 price_usd: 8900
 release_year: 2017
 engine: 1.5 Diesel
-drive: Повний привід
+drive: Передній привід
 is_sold: false
 under_deposit: false
 on_site: true
