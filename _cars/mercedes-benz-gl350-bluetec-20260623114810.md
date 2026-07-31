@@ -9,7 +9,7 @@ engine: 3.0 Diesel
 drive: Повний привід
 is_sold: false
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Bluetec%20eaoo/1.jpg
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Bluetec%20eaoo/2.jpg
