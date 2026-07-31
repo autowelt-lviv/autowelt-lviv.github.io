@@ -1,7 +1,7 @@
 ---
 layout: car
 post_hidden: false
-created_at: 2026-07-24T12:46:00.000+03:00
+created_at: 2026-07-31T16:08:00.000+03:00
 title: Audi Q7 3.0TDI Black Allroad pack
 price_usd: 16700
 release_year: 2014
@@ -22,7 +22,7 @@ photos:
   - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/9.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/10.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q7%203.0TDI%20Black%20Allroad%20pack%20rrjn/11.jpg
-video_url: https://vt.tiktok.com/ZS9KWwxRu/
+video_url: https://www.instagram.com/reel/DbLkgMRMa7V/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 ---
 Автомобіль викуплений цілий з США.
 
