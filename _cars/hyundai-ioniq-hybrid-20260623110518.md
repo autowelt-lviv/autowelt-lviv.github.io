@@ -16,7 +16,6 @@ photos:
   - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/3.jpg
   - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/4.jpg
   - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/6.jpg
   - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/7.jpg
   - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/8.jpg
   - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/9.jpg
