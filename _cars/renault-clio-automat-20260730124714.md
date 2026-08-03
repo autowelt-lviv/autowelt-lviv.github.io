@@ -7,7 +7,7 @@ price_usd: 8900
 release_year: 2017
 engine: 1.5 Diesel
 drive: Передній привід
-is_sold: false
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
