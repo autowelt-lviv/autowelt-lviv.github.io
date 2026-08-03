@@ -6,7 +6,8 @@ price_usd: 10800
 release_year: 2016
 engine: 2.0 Бензин
 drive: Повний привід
-under_deposit: true
+is_sold: true
+under_deposit: false
 on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20SE%204x4%20mvjn/1.jpg
