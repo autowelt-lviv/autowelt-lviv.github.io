@@ -1,30 +1,30 @@
 ---
 layout: car
 post_hidden: false
-created_at: 2026-06-23T12:51:00.000+03:00
+created_at: 2026-08-03T15:38:00.000+03:00
 title: Mercedes Benz GL350 Diesel Gray
-price_usd: 18000
-release_year: 2015
+price_usd: 19900
+release_year: 2014
 engine: 3.0 Diesel
 drive: Повний привід
 is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/2.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/6.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/7.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/8.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20Gray%20ytqs/9.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785760553/IMG_7613_wqzad8.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785760553/IMG_7615_twfl0n.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785760553/IMG_7616_r2xprf.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785760553/IMG_7620_xd8ggz.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785760554/IMG_7621_dhjiro.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785760553/IMG_7622_inpeus.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785760554/IMG_7636_jwpora.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785760553/IMG_7625_bhpzfr.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785760567/IMG_7627_ckgngu.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785760554/IMG_7629_ytrk4f.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785760567/IMG_7633_doh8io.jpg
 ---
-Автомобіль викуплений цілим та в дорозі з США.
+Автомобіль викуплений цілим з США.
 
 Заводиться та їде
-
-**Доступний для попереднього резерву з фіксацією ціни.**
 
 Доступне розтермінування та оплата частинами
