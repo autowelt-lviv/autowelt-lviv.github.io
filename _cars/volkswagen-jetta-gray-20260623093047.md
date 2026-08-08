@@ -9,7 +9,7 @@ engine: 1.4 Бензин
 drive: Передній привід
 is_sold: false
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Volkswagen%20Jetta%20Gray%20ojmb/1.jpg
   - https://images.autowelt.lviv.ua/cars/Volkswagen%20Jetta%20Gray%20ojmb/2.jpg
