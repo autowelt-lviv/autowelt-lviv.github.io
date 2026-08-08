@@ -1,27 +1,27 @@
 ---
 layout: car
 post_hidden: false
-created_at: 2026-06-23T12:13:00.000+03:00
+created_at: 2026-08-08T11:09:00.000+03:00
 title: Mercedes Benz GL350 Diesel
-price_usd: 18300
+price_usd: 18800
 release_year: 2014
 engine: 3.0 Diesel
 drive: Повний привід
 is_sold: false
 under_deposit: false
-on_site: false
+on_site: true
 photos:
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/2.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/6.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/7.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/8.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20azoy/9.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176452/IMG_8068_raj1ru.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176453/IMG_8069_zol4qf.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176453/IMG_8071_ysxv55.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176453/IMG_8070_n8cbpg.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176452/IMG_8061_uqqise.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176452/IMG_8062_bygstj.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176452/IMG_8065_hgyrit.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176452/IMG_8064_fpkhvl.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176453/IMG_8066_bhpfmn.jpg
 ---
-Автомобіль викуплений цілим та в дорозі з США.
+Автомобіль викуплений цілим з США.
 
 Заводиться та їде
 
