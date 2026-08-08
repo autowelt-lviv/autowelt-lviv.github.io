@@ -7,7 +7,7 @@ release_year: 2016
 engine: 2.0 Бензин
 drive: Повний привід
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/1.jpg
   - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/2.jpg
