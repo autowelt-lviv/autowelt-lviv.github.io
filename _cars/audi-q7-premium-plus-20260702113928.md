@@ -8,7 +8,7 @@ release_year: 2017
 alt_release_year: 2018 Америка
 engine: 2.0 Бензин
 drive: Повний привід
-is_sold: true
+is_sold: false
 under_deposit: false
 on_site: true
 photos:
