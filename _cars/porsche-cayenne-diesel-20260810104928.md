@@ -11,15 +11,15 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786358852/IMG_8092_f92zzd.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786358850/IMG_8093_d3t3pu.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786358850/IMG_8094_nmgztn.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786358850/IMG_8095_edmwj0.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786358851/IMG_8096_utma8u.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786358851/IMG_8098_vmfw3d.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786358852/IMG_8100_acfhg1.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786358851/IMG_8099_xshosm.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786358850/IMG_8097_jyohqm.jpg
+  - https://images.autowelt.lviv.ua/cars/Porsche%20Cayenne%20Diesel%20tikt/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Porsche%20Cayenne%20Diesel%20tikt/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Porsche%20Cayenne%20Diesel%20tikt/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Porsche%20Cayenne%20Diesel%20tikt/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Porsche%20Cayenne%20Diesel%20tikt/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Porsche%20Cayenne%20Diesel%20tikt/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Porsche%20Cayenne%20Diesel%20tikt/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Porsche%20Cayenne%20Diesel%20tikt/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Porsche%20Cayenne%20Diesel%20tikt/9.jpg
 ---
 Автомобіль викуплений з США.
 

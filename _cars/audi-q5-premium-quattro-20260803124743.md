@@ -12,16 +12,16 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785762418/IMG_7908_esx42z.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785762429/IMG_7910_bqvaa2.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785762430/IMG_7912_ywobws.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785762431/IMG_7914_pummii.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785762431/IMG_7916_ysvuow.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785762431/IMG_7917_mjykn6.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785762432/IMG_7920_fbjmrw.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785762432/IMG_7923_oyhxvh.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785762432/IMG_7928_wj69qv.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785762432/IMG_7927_qepwcy.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%20Premium%20Quattro%20hagq/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%20Premium%20Quattro%20hagq/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%20Premium%20Quattro%20hagq/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%20Premium%20Quattro%20hagq/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%20Premium%20Quattro%20hagq/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%20Premium%20Quattro%20hagq/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%20Premium%20Quattro%20hagq/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%20Premium%20Quattro%20hagq/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%20Premium%20Quattro%20hagq/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%20Premium%20Quattro%20hagq/10.jpg
 video_url: https://www.instagram.com/reel/DbllNtKMH-d/?igsh=dDJweDF2NmhldXBs
 ---
 Автомобіль викуплений цілий з США.

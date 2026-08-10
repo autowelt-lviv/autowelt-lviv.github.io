@@ -12,15 +12,15 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785846570/50817706_Image_1_ppsffp.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785846590/50817706_Image_4_kprmt8.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785846590/50817706_Image_3_lvkb8i.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785846589/50817706_Image_2_mstlgc.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785846590/50817706_Image_8_hw9wmo.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785846590/50817706_Image_7_a5rqjr.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785846590/50817706_Image_11_ax6p6r.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785846590/50817706_Image_9_cn0v5x.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1785846591/50817706_Image_12_ke7edi.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Velar%20S%20hgii/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Velar%20S%20hgii/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Velar%20S%20hgii/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Velar%20S%20hgii/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Velar%20S%20hgii/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Velar%20S%20hgii/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Velar%20S%20hgii/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Velar%20S%20hgii/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Velar%20S%20hgii/9.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

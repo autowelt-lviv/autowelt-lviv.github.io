@@ -11,15 +11,15 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176452/IMG_8068_raj1ru.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176453/IMG_8069_zol4qf.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176453/IMG_8071_ysxv55.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176453/IMG_8070_n8cbpg.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176452/IMG_8061_uqqise.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176452/IMG_8062_bygstj.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176452/IMG_8065_hgyrit.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176452/IMG_8064_fpkhvl.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786176453/IMG_8066_bhpfmn.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20wubf/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20wubf/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20wubf/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20wubf/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20wubf/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20wubf/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20wubf/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20wubf/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20wubf/9.jpg
 ---
 Автомобіль викуплений цілим з США.
 
