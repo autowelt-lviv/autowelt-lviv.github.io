@@ -20,6 +20,7 @@ photos:
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20wubf/7.jpg
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20wubf/8.jpg
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL350%20Diesel%20wubf/9.jpg
+video_url: https://www.instagram.com/reel/Db1FiEFsgKV/?igsh=MTEwc29zaHhhOHFseQ==
 ---
 Автомобіль викуплений цілим з США.
 
