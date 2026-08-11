@@ -20,6 +20,7 @@ photos:
   - https://images.autowelt.lviv.ua/cars/Porsche%20Cayenne%20Diesel%20tikt/7.jpg
   - https://images.autowelt.lviv.ua/cars/Porsche%20Cayenne%20Diesel%20tikt/8.jpg
   - https://images.autowelt.lviv.ua/cars/Porsche%20Cayenne%20Diesel%20tikt/9.jpg
+video_url: https://www.instagram.com/reel/Db3UmbbsQAJ/?igsh=MWdia2xwMW1oMWs1cQ==
 ---
 Автомобіль викуплений з США.
 
