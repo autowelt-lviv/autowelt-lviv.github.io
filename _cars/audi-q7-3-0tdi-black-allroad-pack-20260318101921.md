@@ -28,6 +28,8 @@ video_url: https://www.instagram.com/reel/DbLkgMRMa7V/?utm_source=ig_web_copy_li
 
 Заводиться та їде
 
+Пробіг: 235тис.км
+
 Доступне розтермінування та оплата частинами
 
 **Комплектація:**
