@@ -3,11 +3,11 @@ layout: car
 post_hidden: false
 created_at: 2026-07-23T10:26:00.000+03:00
 title: " Tesla Model Y Perfomance"
-price_usd: 23900
+price_usd: 21000
 release_year: 2022
 engine: 82kW Електро
 drive: Повний привід
-is_sold: false
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
