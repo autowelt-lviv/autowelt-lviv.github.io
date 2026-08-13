@@ -2,7 +2,7 @@
 layout: car
 created_at: 2026-03-04T20:27:00.000+02:00
 title: Volkswagen Tiguan 4x4 Rline
-price_usd: 10000
+price_usd: 11000
 release_year: 2016
 engine: 2.0 Бензин
 drive: Повний привід
