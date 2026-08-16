@@ -17,6 +17,7 @@ photos:
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786796124/IMG_8431_mwwjww.jpg
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786796126/IMG_8434_ehyb6c.jpg
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786796126/IMG_8432_szbrff.jpg
+video_url: https://www.instagram.com/reel/DcHKLg7MiFJ/?igsh=MTlvcTdkZnZ1cW9qeg==&igsi=MTlvcTdkZnZ1cW9qeg==
 ---
 Автомобіль викуплений цілим та з США.
 
