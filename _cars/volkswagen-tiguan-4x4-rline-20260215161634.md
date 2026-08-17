@@ -2,29 +2,23 @@
 layout: car
 created_at: 2026-03-04T20:27:00.000+02:00
 title: Volkswagen Tiguan 4x4 Rline
-price_usd: 11000
+price_usd: 11400
 release_year: 2016
 engine: 2.0 Бензин
 drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/2.jpg
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/6.jpg
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/7.jpg
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/8.jpg
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/9.jpg
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/10.jpg
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/11.jpg
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/12.jpg
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/13.jpg
-  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%204x4%20Rline%20hecl/14.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786968472/IMG_8490_qvbpen.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786968472/IMG_8492_dxjv1m.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786968472/IMG_8494_mijfog.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786968472/IMG_8496_epedhm.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786968472/IMG_8498_l1mpeu.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786968474/IMG_8501_ruz3qi.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786968474/IMG_8508_vimyhd.jpg
+  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786968474/IMG_8504_ufe6us.jpg
 ---
-Автомобіль викуплений цілим та в дорозі з США.
+Автомобіль викуплений цілим з США.
 
 Заводиться та їде
 
