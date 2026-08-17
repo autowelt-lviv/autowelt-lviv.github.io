@@ -11,15 +11,15 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786783587/IMG_8387_uxuqoi.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786783590/IMG_8388_poezjb.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786783594/IMG_8389_urxqi9.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786783590/IMG_8390_xc1xsv.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786783589/IMG_8391_ifmrha.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786783596/IMG_8392_eh8asu.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786783595/IMG_8393_oyg0zk.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786783590/IMG_8395_kk8yni.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786783590/IMG_8394_ijzwll.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%20adyd/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%20adyd/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%20adyd/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%20adyd/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%20adyd/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%20adyd/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%20adyd/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%20adyd/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Volkswagen%20Tiguan%20Rline%20adyd/9.jpg
 video_url: https://www.instagram.com/reel/DcEJZgHMqzp/?igsh=ODVsNjRvMGUxZGQy&igsi=ODVsNjRvMGUxZGQy
 ---
 139 тис км

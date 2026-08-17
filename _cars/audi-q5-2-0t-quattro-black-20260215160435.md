@@ -9,14 +9,14 @@ drive: Повний привід
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786796089/IMG_8423_n0z58m.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786796123/IMG_8425_niqhhu.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786796124/IMG_8426_qto9a7.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786796125/IMG_8428_ulzuhs.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786796125/IMG_8429_ioboav.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786796124/IMG_8431_mwwjww.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786796126/IMG_8434_ehyb6c.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786796126/IMG_8432_szbrff.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20mtyw/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20mtyw/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20mtyw/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20mtyw/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20mtyw/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20mtyw/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20mtyw/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Quattro%20Black%20mtyw/8.jpg
 video_url: https://www.instagram.com/reel/DcHKLg7MiFJ/?igsh=MTlvcTdkZnZ1cW9qeg==&igsi=MTlvcTdkZnZ1cW9qeg==
 ---
 Автомобіль викуплений цілим з США.
