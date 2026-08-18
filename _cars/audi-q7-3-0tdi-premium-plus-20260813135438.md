@@ -3,7 +3,7 @@ layout: car
 post_hidden: false
 created_at: 2026-08-13T16:50:00.000+03:00
 title: Audi Q7 3.0TDI Premium Plus
-price_usd: 16500
+price_usd: 15900
 release_year: 2014
 engine: 3.0 Diesel
 drive: Повний привід
