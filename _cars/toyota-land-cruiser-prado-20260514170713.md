@@ -7,7 +7,7 @@ price_usd: 24500
 release_year: 2013
 engine: 3.0 Diesel
 drive: Повний привід
-is_sold: false
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
