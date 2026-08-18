@@ -9,7 +9,7 @@ engine: 1.6 Diesel
 drive: Повний привід
 is_sold: false
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%201.6Diesel%20Black%20xhdm/1.jpg
   - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%201.6Diesel%20Black%20xhdm/2.jpg
