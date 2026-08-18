@@ -6,7 +6,7 @@ price_usd: 11400
 release_year: 2016
 engine: 2.0 Бензин
 drive: Повний привід
-under_deposit: false
+under_deposit: true
 on_site: true
 photos:
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1786968472/IMG_8490_qvbpen.jpg
