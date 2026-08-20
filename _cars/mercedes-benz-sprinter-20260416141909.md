@@ -7,8 +7,8 @@ price_usd: 25000
 release_year: 2019
 engine: 3.0Diesel
 drive: Задній привід
-is_sold: false
-under_deposit: true
+is_sold: true
+under_deposit: false
 on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20Sprinter%20atek/1.jpg
