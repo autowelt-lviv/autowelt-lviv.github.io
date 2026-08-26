@@ -9,7 +9,7 @@ engine: 2.0 Бензин
 drive: Повний привід
 is_sold: false
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Premium%20Plus%20120mile%20yaxp/1.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q5%202.0T%20Premium%20Plus%20120mile%20yaxp/2.jpg
