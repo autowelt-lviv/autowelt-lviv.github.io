@@ -2,7 +2,7 @@
 layout: car
 created_at: 2026-08-15T15:17:00.000+03:00
 title: Audi Q5 2.0T Quattro Black
-price_usd: 9500
+price_usd: 8300
 release_year: 2013
 engine: 2.0 Бензин
 drive: Повний привід
