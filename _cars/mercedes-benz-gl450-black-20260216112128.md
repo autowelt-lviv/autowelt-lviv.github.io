@@ -1,6 +1,6 @@
 ---
 layout: car
-created_at: 2026-03-16T13:16:00.000+02:00
+created_at: 2026-08-31T12:59:00.000+03:00
 title: Mercedes Benz GL450 Black
 price_usd: 16500
 release_year: 2015
