@@ -20,6 +20,7 @@ photos:
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20bzdj/9.jpg
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20bzdj/10.jpg
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20Black%20bzdj/11.jpg
+video_url: https://www.instagram.com/reel/Dctm5MDMBXW/?igsi=bXczMDRqbmM0ZGh6
 ---
 Автомобіль викуплений цілим з США.
 
