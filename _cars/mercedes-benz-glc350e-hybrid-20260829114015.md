@@ -11,14 +11,14 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788003381/IMG_8910_wtka8c.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788003438/IMG_8913_ft96me.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788003381/IMG_8914_ez5foy.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788003452/IMG_8916_ot0ad6.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788003381/IMG_8917_zqrbfu.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788003450/IMG_8919_fnwd8h.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788003451/IMG_8922_jjgqrt.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788003451/IMG_8920_jurxeo.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLC350e%20Hybrid%20nelq/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLC350e%20Hybrid%20nelq/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLC350e%20Hybrid%20nelq/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLC350e%20Hybrid%20nelq/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLC350e%20Hybrid%20nelq/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLC350e%20Hybrid%20nelq/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLC350e%20Hybrid%20nelq/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes-Benz%20GLC350e%20Hybrid%20nelq/8.jpg
 video_url: https://www.instagram.com/reel/DctS4_rMFpz/?igsi=MTU0ZWdmOGFiZGt5
 ---
 160тис км
