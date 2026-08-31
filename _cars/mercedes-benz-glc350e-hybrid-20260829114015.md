@@ -19,6 +19,7 @@ photos:
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788003450/IMG_8919_fnwd8h.jpg
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788003451/IMG_8922_jjgqrt.jpg
   - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788003451/IMG_8920_jurxeo.jpg
+video_url: https://www.instagram.com/reel/DctS4_rMFpz/?igsi=MTU0ZWdmOGFiZGt5
 ---
 160тис км
 
