@@ -11,14 +11,14 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519534/IMG_9223_luokwj.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519532/IMG_9220_bctlrl.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519533/IMG_9221_jq6bsb.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519533/IMG_9222_a5ilb9.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519531/IMG_9217_x9qn5v.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519525/IMG_9215_diijxk.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519525/IMG_9216_yxzpcj.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519532/IMG_9218_hdvw5d.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q8%203.0T%20Quattro%20White%20godo/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q8%203.0T%20Quattro%20White%20godo/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q8%203.0T%20Quattro%20White%20godo/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q8%203.0T%20Quattro%20White%20godo/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q8%203.0T%20Quattro%20White%20godo/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q8%203.0T%20Quattro%20White%20godo/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q8%203.0T%20Quattro%20White%20godo/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q8%203.0T%20Quattro%20White%20godo/8.jpg
 ---
 Автомобіль викуплений цілий та в дорозі з США.
 

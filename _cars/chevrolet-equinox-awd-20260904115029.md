@@ -11,16 +11,16 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522426/IMG_9093_k5ugaw.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522426/IMG_9094_toi8cy.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522424/IMG_9095_jgltie.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522428/IMG_9097_fzsgwt.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522467/IMG_9098_v19q9l.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522468/IMG_9099_ebfbwp.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522471/IMG_9101_duk4xv.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522473/IMG_9103_ykkjti.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522476/IMG_9106_drjkxq.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522474/IMG_9104_qdfaxw.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20AWD%20dhvq/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20AWD%20dhvq/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20AWD%20dhvq/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20AWD%20dhvq/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20AWD%20dhvq/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20AWD%20dhvq/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20AWD%20dhvq/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20AWD%20dhvq/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20AWD%20dhvq/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Chevrolet%20Equinox%20AWD%20dhvq/10.jpg
 video_url: https://www.instagram.com/reel/Dc2ybH-MKAp/?igsi=MTdmdGxiMTY3Y2lidQ==
 ---
 Автомобіль викуплений цілим з США.

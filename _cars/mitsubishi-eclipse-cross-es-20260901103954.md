@@ -11,14 +11,14 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788259094/58988206_Image_1_dhjkuy.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788259095/58988206_Image_5_nvmcq8.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788259095/58988206_Image_4_ydzwc0.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788259095/58988206_Image_3_zxamym.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788259097/58988206_Image_2_n6gm87.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788259097/58988206_Image_8_rbfzxd.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788259095/58988206_Image_11_dtjnsl.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788259096/58988206_Image_13_x62cwh.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/8.jpg
 ---
 Автомобіль викуплений та в дорозі з США.
 

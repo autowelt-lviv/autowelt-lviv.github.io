@@ -11,13 +11,13 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788258585/62876566_Image_1_xsaqee.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788258585/62876566_Image_4_tinh2u.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788258585/62876566_Image_3_iuuopr.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788258585/62876566_Image_2_ghf7d1.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788258585/62876566_Image_8_tqolgn.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788258585/62876566_Image_10_vf4a6e.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788258585/62876566_Image_9_nfb7wt.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20bfjh/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20bfjh/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20bfjh/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20bfjh/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20bfjh/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20bfjh/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20bfjh/7.jpg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 

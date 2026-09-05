@@ -11,17 +11,17 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522048/65876646_Image_1_b1hzct.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522097/65876646_Image_5_n37ihg.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522096/65876646_Image_4_mijaib.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522050/65876646_Image_3_fnbd23.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522099/65876646_Image_6_bvsxcs.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522049/65876646_Image_2_gpwamb.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522101/65876646_Image_7_kwnzum.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522102/65876646_Image_8_wvrn2q.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522104/65876646_Image_10_tvm4nc.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522107/65876646_Image_12_fxqhd3.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788522106/65876646_Image_11_rzkoox.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%203.0T%20Prestige%20Sline%20glzf/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%203.0T%20Prestige%20Sline%20glzf/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%203.0T%20Prestige%20Sline%20glzf/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%203.0T%20Prestige%20Sline%20glzf/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%203.0T%20Prestige%20Sline%20glzf/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%203.0T%20Prestige%20Sline%20glzf/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%203.0T%20Prestige%20Sline%20glzf/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%203.0T%20Prestige%20Sline%20glzf/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%203.0T%20Prestige%20Sline%20glzf/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%203.0T%20Prestige%20Sline%20glzf/10.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A7%203.0T%20Prestige%20Sline%20glzf/11.jpg
 ---
 Автомобіль викуплений та в дорозі з США.
 

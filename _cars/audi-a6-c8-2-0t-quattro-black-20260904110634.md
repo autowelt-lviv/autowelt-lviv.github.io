@@ -11,18 +11,18 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519815/IMG_9233_m4ygde.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519812/IMG_9227_tmx9im.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519813/IMG_9228_wcrrzq.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519814/IMG_9229_mustt0.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519813/IMG_9230_isyshg.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519815/IMG_9231_kkka0c.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519818/IMG_9232_h3bqk0.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519811/IMG_9226_hslngk.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519817/IMG_9237_ndoxd7.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519817/IMG_9238_czexho.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519811/IMG_9225_xvilys.jpg
-  - https://res.cloudinary.com/nv0pl1ck/image/upload/v1788519816/IMG_9234_yjz2kc.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/1.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/2.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/3.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/4.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/5.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/6.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/7.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/10.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/11.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/12.jpg
 ---
 Автомобіль викуплений цілий та в дорозі з США.
 
