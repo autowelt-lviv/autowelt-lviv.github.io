@@ -3,7 +3,7 @@ layout: car
 post_hidden: false
 created_at: 2026-08-03T15:38:00.000+03:00
 title: Mercedes Benz GL350 Diesel Gray
-price_usd: 19900
+price_usd: 19300
 release_year: 2014
 engine: 3.0 Diesel
 drive: Повний привід
