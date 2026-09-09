@@ -1,9 +1,9 @@
 ---
 layout: car
 post_hidden: false
-created_at: 2026-07-31T16:08:00.000+03:00
+created_at: 2026-09-03T16:08:00.000+03:00
 title: Audi Q7 3.0TDI Black Allroad pack
-price_usd: 16700
+price_usd: 16300
 release_year: 2014
 engine: 3.0 Diesel
 drive: Повний привід
