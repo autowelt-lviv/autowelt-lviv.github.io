@@ -1,5 +1,6 @@
 ---
 layout: car
+post_hidden: true
 created_at: 2026-05-25T12:20:00.000+03:00
 title: Volkswagen Golf 4x4 Alltrack
 price_usd: 11300
