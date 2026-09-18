@@ -2,10 +2,11 @@
 layout: car
 created_at: 2026-08-31T12:59:00.000+03:00
 title: Mercedes Benz GL450 Black
-price_usd: 16500
+price_usd: 15900
 release_year: 2015
 engine: 3.0 Бензин
 drive: Повний привід
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
