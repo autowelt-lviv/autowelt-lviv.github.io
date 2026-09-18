@@ -6,6 +6,7 @@ price_usd: 12900
 release_year: 2015
 engine: 2.0 Бензин
 drive: Передній привід
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
