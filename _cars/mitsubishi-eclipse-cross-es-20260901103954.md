@@ -11,14 +11,14 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/2.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/6.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/7.jpg
-  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%20ES%20hcqa/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%202019p/58988206_Image_1.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%202019p/58988206_Image_2.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%202019p/58988206_Image_3.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%202019p/58988206_Image_4.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%202019p/58988206_Image_5.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%202019p/58988206_Image_8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%202019p/58988206_Image_11.jpg
+  - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%202019p/58988206_Image_13.jpg
 ---
 Автомобіль викуплений та в дорозі з США.
 
