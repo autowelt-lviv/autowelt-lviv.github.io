@@ -11,14 +11,14 @@ is_sold: false
 under_deposit: false
 on_site: false
 photos:
-  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/2.jpg
-  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/7.jpg
-  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/8.jpg
-  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq%20Hybrid%20tbil/9.jpg
+  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq/IMG_5765%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq/IMG_5764%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq/IMG_5763%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq/IMG_5762%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq/IMG_5761%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq/IMG_5760%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq/IMG_5759%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq/IMG_5758%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
 ---
 Автомобіль викуплений цілим та в дорозі з США.
 
