@@ -3,11 +3,11 @@ layout: car
 post_hidden: false
 created_at: 2026-09-21T22:03:00.000+03:00
 title: Volkswagen Passat B7
-price_usd: 8900
+price_usd: 8300
 release_year: 2014
 engine: 2.0 Diesel
 drive: Передній привід
-is_sold: false
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
