@@ -1,6 +1,6 @@
 ---
 layout: car
-created_at: 2026-08-15T15:07:00.000+03:00
+created_at: 2026-10-02T12:56:00.000+03:00
 title: Audi Q3 2.0T Prestige Sline
 price_usd: 11900
 release_year: 2016
@@ -13,10 +13,10 @@ photos:
   - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20dfsw/2.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20dfsw/3.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20dfsw/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20dfsw/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20dfsw/6.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20dfsw/7.jpg
-  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20dfsw/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20dfsw/IMG_0664%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20dfsw/IMG_0666%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20dfsw/IMG_0668%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Audi%20Q3%202.0T%20Prestige%20Sline%20dfsw/IMG_0672%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
 video_url: https://www.instagram.com/reel/DSnW-TuDFtA/?igsh=bHg4czhhNnc5YW15
 ---
 200тис. км 
