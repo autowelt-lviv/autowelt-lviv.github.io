@@ -1,7 +1,7 @@
 ---
 layout: car
 post_hidden: false
-created_at: 2026-09-04T14:31:00.000+03:00
+created_at: 2026-10-03T18:59:00.000+03:00
 title: Mercedes Benz GL450 4matic
 price_usd: 16500
 release_year: 2015
@@ -11,19 +11,35 @@ is_sold: false
 under_deposit: false
 on_site: true
 photos:
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20ltrt/1.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20ltrt/2.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20ltrt/3.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20ltrt/4.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20ltrt/5.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20ltrt/6.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20ltrt/7.jpg
-  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%204matic%20ltrt/8.jpg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0705%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0707%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0708%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0711%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0713%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0714%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0717%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0718%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0721%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0723%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0725%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0729%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0731%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+  - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0735%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
 ---
-Автомобіль викуплений цілий та в дорозі з США.
+177тис. км 
 
-Заводиться та їде
+Автомобіль пригнаний з США
 
-**Доступний для попереднього резерву з фіксацією ціни.**
+В рідному окрасі
 
-Доступне розтермінування та оплата частинами
+Комплектація:
+
+* підігрів сидінь передніх та керма,
+* диски R19,
+* камери кругового огляду,
+* парк троники передні та задні,
+* система старт стоп,
+* клімат контроль 3-х зонний,
+* сліпі зони,
+* панорама,
+* без ключовий доступ
