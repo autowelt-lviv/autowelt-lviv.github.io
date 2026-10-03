@@ -2,7 +2,7 @@
 layout: car
 created_at: 2026-02-16T13:51:00.000+02:00
 title: Land Rover Range Rover Sport
-price_usd: 18800
+price_usd: 21300
 release_year: 2016
 engine: 3.0 Diesel
 drive: Повний привід
@@ -16,8 +16,9 @@ photos:
   - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20vbek/5.jpg
   - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20vbek/7.jpg
   - https://images.autowelt.lviv.ua/cars/Land%20Rover%20Range%20Rover%20Sport%20vbek/7.jpg
+video_url: https://www.tiktok.com/@autowelt_lviv/video/7691984150080900373
 ---
-Автомобіль викуплений цілим та в дорозі з США.
+Автомобіль викуплений цілим з США.
 
 Заводиться та їде
 
