@@ -25,6 +25,7 @@ photos:
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0729%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0731%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
   - https://images.autowelt.lviv.ua/cars/Mercedes%20Benz%20GL450%20White/IMG_0735%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+video_url: https://www.instagram.com/reel/DeEQFkFMm-J/?stkn=MXRyZDVtOW4yajM0bQ==
 ---
 177тис. км 
 
