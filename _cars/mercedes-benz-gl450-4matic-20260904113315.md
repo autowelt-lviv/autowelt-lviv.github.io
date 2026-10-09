@@ -3,11 +3,11 @@ layout: car
 post_hidden: false
 created_at: 2026-10-03T18:59:00.000+03:00
 title: Mercedes Benz GL450 4matic
-price_usd: 16500
+price_usd: 15000
 release_year: 2015
 engine: 3.0 Бензин
 drive: Повний привід
-is_sold: false
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
