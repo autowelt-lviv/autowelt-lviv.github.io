@@ -3,6 +3,7 @@ layout: car
 created_at: 2026-02-16T13:51:00.000+02:00
 title: Land Rover Range Rover Sport
 price_usd: 21300
+old_price_usd: 21500
 release_year: 2016
 engine: 3.0 Diesel
 drive: Повний привід
