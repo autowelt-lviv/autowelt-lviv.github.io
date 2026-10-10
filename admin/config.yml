@@ -10,7 +10,7 @@ site_url: https://autowelt.lviv.ua
 display_url: autowelt.lviv.ua
 
 logo:
-  src: /assets/img/logo.png
+  src: /assets/img/ico.png
   show_in_header: true
 
 media_folder: "assets/uploads/cars"   # where images are stored in repo
