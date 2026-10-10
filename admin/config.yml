@@ -30,6 +30,7 @@ collections:
       - { label: "Дата публікації", name: "created_at", widget: "datetime", default: "{{now}}" }
       - { label: "Заголовок", name: "title", widget: "string", hint: "Наприклад: Land Rover Range Rover HSE" }
       - { label: "Вартість (USD)", name: "price_usd", widget: "number", required: false, hint: "Вартість вказати як ціле число без символів" }
+      - { label: "Стара Вартість (USD)", name: "old_price_usd", widget: "number", required: false, hint: "Стару вартість вказувати цілим числом без символів" }
       - { label: "Рік", name: "release_year", widget: "number", required: false, hint: "Показується на головних сторінках" }
       - { label: "Рік/Місяць", name: "alt_release_year", widget: "string", required: false, hint: "Альтернатива до поля Рік - показується тільки на сторінці повний опис авто. Якщо, ввести це поле, то Рік також бажано вказати." }
       - { label: "Двигун", name: "engine", widget: "string", required: false }

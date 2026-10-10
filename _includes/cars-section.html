@@ -76,6 +76,11 @@
                     <div class="car-card__bottom">
                         {% if car.price_usd and car.price_usd != blank %}
                             <div class="car-card__price{% if car.is_sold %} car-card__price--sold{% endif %}">${% include human-price.html value=car.price_usd %}</div>
+                            {% unless car.is_sold %}
+                                {% if car.old_price_usd and car.old_price_usd != blank %}
+                                    <s class="car-card__old-price">${% include human-price.html value=car.old_price_usd %}</s>
+                                {% endif %}
+                            {% endunless %}
                         {% endif %}
                     </div>
                 </div>

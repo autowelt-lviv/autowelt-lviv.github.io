@@ -21,5 +21,12 @@
             <span class="menu__u" aria-hidden="true"></span>
         </a>
 
+        <a class="menu__link {% if page.url == '/loan-info-page/' %}is-active{% endif %}"
+            href="{{ '/loan-info-page/' | relative_url }}"
+            onclick="gtag('event','loan_info_page_click',{location:'menu'});">
+            Оплата частинами
+            <span class="menu__u" aria-hidden="true"></span>
+        </a>
+
     </nav>
 </section>

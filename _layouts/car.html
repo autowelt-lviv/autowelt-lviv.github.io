@@ -86,11 +86,26 @@ layout: default
         </div>
 
         <!-- Price -->
-        {% if page.price_usd and page.price_usd != blank %}
-          <div class="cardetail__price{% if page.is_sold %} cardetail__price--sold{% endif %}">
-            <span>${% include human-price.html value=page.price_usd %}</span>
-          </div>
-        {% endif %}
+        <div class="cardetail__price-row">
+          {% if page.price_usd and page.price_usd != blank %}
+            <div class="cardetail__price{% if page.is_sold %} cardetail__price--sold{% endif %}">
+              <span>${% include human-price.html value=page.price_usd %}</span>
+              {% unless page.is_sold %}
+                {% if page.old_price_usd and page.old_price_usd != blank %}
+                  <s class="cardetail__old-price">${% include human-price.html value=page.old_price_usd %}</s>
+                {% endif %}
+              {% endunless %}
+            </div>
+          {% endif %}
+          <a class="cardetail__loan-link" href="{{ '/loan-info-page/' | relative_url }}">
+            Оплата частинами
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true" focusable="false">
+              <circle cx="12" cy="12" r="9" />
+              <path d="M12 11v6" />
+              <circle cx="12" cy="7" r="1" fill="currentColor" stroke="none" />
+            </svg>
+          </a>
+        </div>
 
         <!-- Description -->
         {% if content and content != blank %}
@@ -143,4 +158,3 @@ layout: default
     under_deposit: "{{ page.under_deposit }}"
   });
 </script>
-  

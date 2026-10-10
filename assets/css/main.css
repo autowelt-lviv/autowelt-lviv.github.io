@@ -122,6 +122,10 @@ a {
   font-size: 14px;
 }
 
+.hero__desc p {
+  margin: 0;
+}
+
 .hero__phone {
   display: inline-block;
   color: rgba(15, 25, 45, 0.92);
@@ -429,6 +433,14 @@ a {
   color: #888;
 }
 
+.car-card__old-price {
+  align-self: center;
+  margin-right: auto;
+  color: #888;
+  font-size: 13px;
+  text-decoration: line-through;
+}
+
 .car-card__meta {
   display: flex;
   flex-wrap: wrap;
@@ -692,8 +704,18 @@ a {
   font-size: 16px;
 }
 
-.cardetail__price {
+.cardetail__price-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 16px;
   margin-top: 12px;
+}
+
+.cardetail__price {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   color: #2a5bd7;
   font-weight: 750;
   font-size: 22px;
@@ -702,6 +724,36 @@ a {
 
 .cardetail__price--sold {
   color: #888;
+}
+
+.cardetail__old-price {
+  color: #888;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: line-through;
+}
+
+.cardetail__loan-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  color: #187443;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  white-space: nowrap;
+}
+
+.cardetail__loan-link:hover,
+.cardetail__loan-link:focus-visible {
+  color: #10532f;
+}
+
+.cardetail__loan-link svg {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
 }
 
 .cardetail-meta-ico {
