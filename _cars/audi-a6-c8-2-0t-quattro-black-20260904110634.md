@@ -9,7 +9,7 @@ engine: 2.0 Бензин
 drive: Повний привід
 is_sold: false
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/1.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20A6%20C8%202.0T%20Quattro%20Black%20mucr/2.jpg
