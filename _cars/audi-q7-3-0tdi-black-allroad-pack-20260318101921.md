@@ -2,7 +2,7 @@
 layout: car
 post_hidden: false
 created_at: 2026-10-13T17:49:00.000+03:00
-title: Audi Q7 3.0TDI Black Allroad pack
+title: Audi Q7 3.0TDI Allroad pack
 price_usd: 16300
 release_year: 2014
 alt_release_year: 2015 Америка
