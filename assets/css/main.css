@@ -919,7 +919,7 @@ a {
     padding: 1.5px;
     border-radius: inherit;
     background: conic-gradient(
-      from var(--video-metal-angle, 0deg) at -5% -10%,
+      from var(--video-metal-angle, 0deg) at -1% -10%,
       #a5abb3 0% 10%,
       #dfe2e6 12% 16%,
       #141414 17% 20%,
@@ -928,9 +928,9 @@ a {
       #9eafc2 41% 46%,
       #0a0a0a 47% 51%,
       #d9dde2 52% 63%,
-      #e2e5e9 65% 68%,
-      #bba98b 69% 74%,
-      #1a1a1a 75% 79%,
+      #e2e5e9 65% 69%,
+      #bba98b 70% 72%,
+      #1a1a1a 73% 79%,
       #dde1e6 80% 92%,
       #a5abb3 94% 100%
     );
