@@ -20,16 +20,27 @@ layout: default
     <section class="section section--cardetail">
       {% assign cover = page.photos[0] | default: site.default_car_image | default: "/assets/img/car-placeholder.jpg" %}
 
-      <div class="carphoto">
-        <img class="carphoto__img {% if page.is_sold or page.under_deposit %}is-dimmed{% endif %}"
-             src="{{ cover | relative_url }}"
-             alt="{{ page.title | escape }}"
-             loading="lazy">
+      <div class="carphoto-wrap{% if page.photos and page.photos.size > 1 %} carphoto-wrap--has-more{% endif %}">
+        <div class="carphoto">
+          <img class="carphoto__img {% if page.is_sold or page.under_deposit %}is-dimmed{% endif %}"
+               src="{{ cover | relative_url }}"
+               alt="{{ page.title | escape }}"
+               loading="lazy">
 
-        {% if page.is_sold %}
-          <div class="car-badge car-badge--sold">ПРОДАНО</div>
-        {% elsif page.under_deposit %}
-          <div class="car-badge car-badge--deposit">ПІД ЗАВДАТКОМ</div>
+          {% if page.is_sold %}
+            <div class="car-badge car-badge--sold">ПРОДАНО</div>
+          {% elsif page.under_deposit %}
+            <div class="car-badge car-badge--deposit">ПІД ЗАВДАТКОМ</div>
+          {% endif %}
+        </div>
+
+        {% if page.photos and page.photos.size > 1 %}
+          <a class="carphoto__more" href="#morephotos">
+            Більше фото
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+              <path d="M12 5v14m-6-6 6 6 6-6" />
+            </svg>
+          </a>
         {% endif %}
       </div>
 
@@ -123,7 +134,7 @@ layout: default
 
       <!-- More photos -->
       {% if page.photos and page.photos.size > 1 %}
-        <div class="morephotos">
+        <div class="morephotos" id="morephotos" tabindex="-1">
           {% for img in page.photos %}
             {% if forloop.first == false %}
               <img class="morephotos__img" src="{{ img | relative_url }}" alt="{{ page.title | escape }} photo {{ forloop.index }}" loading="lazy">

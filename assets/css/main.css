@@ -683,6 +683,14 @@ a {
 }
 
 /* Photo */
+.carphoto-wrap {
+  position: relative;
+}
+
+.carphoto-wrap--has-more {
+  margin-bottom: 24px;
+}
+
 .carphoto {
   position: relative;
   overflow: hidden;
@@ -695,6 +703,31 @@ a {
   height: auto;
   display: block;
   object-fit: cover;
+}
+
+.carphoto__more {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translate(-50%, 50%);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border: none;
+  border-radius: 999px;
+  background: #e9ebee;
+  color: #6b7280;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.4;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.carphoto__more:focus-visible {
+  outline: 2px solid #2a5bd7;
+  outline-offset: 3px;
 }
 
 /* Car details */
@@ -825,6 +858,7 @@ a {
 /* More photos */
 .morephotos {
   margin-top: 14px;
+  scroll-margin-top: 16px;
   display: flex;
   flex-direction: column;
   gap: 10px;
