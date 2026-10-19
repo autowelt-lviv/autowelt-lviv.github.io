@@ -885,19 +885,19 @@ a {
     padding: 1.5px;
     border-radius: inherit;
     background: conic-gradient(
-      from var(--video-metal-angle, 0deg),
+      from var(--video-metal-angle, 0deg) at -35% -65%,
       #a5abb3 0%,
-      #f9fafb 12%,
+      #dfe2e6 12%,
       #555d69 18%,
       #d5d9df 25%,
-      #fff 36%,
+      #e2e5e9 36%,
       #9eafc2 42%,
       #454b55 49%,
-      #e4e7eb 58%,
-      #fff 66%,
+      #d9dde2 58%,
+      #e2e5e9 66%,
       #bba98b 70%,
       #626a76 77%,
-      #f6f7f9 88%,
+      #dde1e6 88%,
       #a5abb3 100%
     );
     -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
@@ -905,7 +905,7 @@ a {
     mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
     mask-composite: exclude;
     pointer-events: none;
-    animation: video-metal-shimmer 8s linear infinite;
+    animation: video-metal-shimmer 24s linear infinite;
   }
 }
 
