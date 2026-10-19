@@ -716,8 +716,8 @@ a {
   padding: 8px 14px;
   border: none;
   border-radius: 999px;
-  background: #ffffff;
-  color: #6b7280;
+  background: #fffcfc;
+  color: #72747a;
   font-size: 14px;
   font-weight: 500;
   line-height: 1.4;
@@ -733,6 +733,7 @@ a {
 /* Car details */
 .cardetail {
   margin-top: 14px;
+  padding-inline: 12px;
 }
 
 .cardetail__title {
