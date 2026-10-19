@@ -737,7 +737,7 @@ a {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  padding: 10px 16px;
+  padding: 6px 12px;
   border: 1px solid currentColor;
   border-radius: 999px;
   background: none;
@@ -753,6 +753,12 @@ a {
   width: 16px;
   height: 16px;
   flex-shrink: 0;
+}
+
+.loan-info__text {
+  margin: 0 0 16px;
+  color: rgba(20, 35, 60, 0.90);
+  line-height: 1.5;
 }
 
 .cardetail-meta-ico {
