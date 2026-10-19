@@ -50,16 +50,16 @@ layout: default
 
         <!-- Meta line (same icons style, but regular text) -->
         <div class="cardetail__meta">
-          {% if page.release_year and page.release_year != blank %}
+          {% if page.release_year and page.release_year != empty %}
             <div class="meta-item">
               <span class="cardetail-meta-ico" aria-hidden="true">
                 <svg viewBox="0 0 24 24" fill="none"><path d="M7 3v2M17 3v2M4 9h16M6 5h12a2 2 0 0 1 2 2v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
               </span>
-              <span>{{ page.release_year }} {% if page.alt_release_year and page.alt_release_year != blank %}({{ page.alt_release_year }}){% endif %}</span>
+              <span>{{ page.release_year }} {% if page.alt_release_year and page.alt_release_year != empty %}({{ page.alt_release_year }}){% endif %}</span>
             </div>
           {% endif %}
 
-          {% if page.engine and page.engine != blank %}
+          {% if page.engine and page.engine != empty %}
             <div class="meta-item">
               <span class="cardetail-meta-ico" aria-hidden="true">
                 <svg viewBox="0 0 24 24" fill="none"><path d="M6 10V7a2 2 0 0 1 2-2h6l2 2h2a2 2 0 0 1 2 2v3M6 10H4v4h2m0-4v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-2h2v-6h-2" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
@@ -68,7 +68,7 @@ layout: default
             </div>
           {% endif %}
 
-          {% if page.drive and page.drive != blank %}
+          {% if page.drive and page.drive != empty %}
             <div class="meta-item">
               <span class="cardetail-meta-ico" aria-hidden="true">
                 <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
@@ -87,7 +87,7 @@ layout: default
 
         <!-- Price -->
         <div class="cardetail__price-row">
-          {% if page.price_usd and page.price_usd != blank %}
+          {% if page.price_usd and page.price_usd != empty %}
             <div class="cardetail__price{% if page.is_sold %} cardetail__price--sold{% endif %}">
               <span>${% include human-price.html value=page.price_usd %}</span>
               {% unless page.is_sold %}
@@ -108,14 +108,14 @@ layout: default
         </div>
 
         <!-- Description -->
-        {% if content and content != blank %}
+        {% if content and content != empty %}
           <div class="cardetail__desc">
             {{ content | markdownify }}
           </div>
         {% endif %}
 
         <!-- Video button -->
-        {% if page.video_url and page.video_url != blank %}
+        {% if page.video_url and page.video_url != empty %}
           {% include video-pill.html %}
         {% endif %}
       </div>

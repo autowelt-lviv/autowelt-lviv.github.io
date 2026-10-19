@@ -28,7 +28,7 @@
                     {% endif %}
 
                     <div class="car-card__meta">
-                        {% if car.release_year and car.release_year != blank %}
+                        {% if car.release_year and car.release_year != empty %}
                             <div class="meta-item">
                                 <span class="meta-ico" aria-hidden="true">
                                     <!-- calendar -->
@@ -42,7 +42,7 @@
                             </div>
                         {% endif %}
 
-                        {% if car.engine and car.engine != blank %}
+                        {% if car.engine and car.engine != empty %}
                             <div class="meta-item">
                                 <span class="meta-ico" aria-hidden="true">
                                     <!-- engine -->
@@ -57,7 +57,7 @@
                             </div>
                         {% endif %}
 
-                        {% if car.drive and car.drive != blank %}
+                        {% if car.drive and car.drive != empty %}
                             <div class="meta-item">
                                 <span class="meta-ico" aria-hidden="true">
                                     <!-- drivetrain -->
@@ -74,7 +74,7 @@
                     </div>
 
                     <div class="car-card__bottom">
-                        {% if car.price_usd and car.price_usd != blank %}
+                        {% if car.price_usd and car.price_usd != empty %}
                             <div class="car-card__price{% if car.is_sold %} car-card__price--sold{% endif %}">${% include human-price.html value=car.price_usd %}</div>
                             {% unless car.is_sold %}
                                 {% if car.old_price_usd and car.old_price_usd != empty %}
