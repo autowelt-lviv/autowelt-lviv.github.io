@@ -91,7 +91,7 @@ layout: default
             <div class="cardetail__price{% if page.is_sold %} cardetail__price--sold{% endif %}">
               <span>${% include human-price.html value=page.price_usd %}</span>
               {% unless page.is_sold %}
-                {% if page.old_price_usd and page.old_price_usd != blank %}
+                {% if page.old_price_usd and page.old_price_usd != empty %}
                   <s class="cardetail__old-price">${% include human-price.html value=page.old_price_usd %}</s>
                 {% endif %}
               {% endunless %}
