@@ -840,9 +840,20 @@ a {
 }
 
 /* Video button */
+@property --video-metal-angle {
+  syntax: "<angle>";
+  inherits: false;
+  initial-value: 0deg;
+}
+
 .video-pill {
-  display: inline-flex;
+  position: relative;
+  display: flex;
+  width: fit-content;
+  max-width: 100%;
+  margin: 16px auto 0;
   align-items: center;
+  justify-content: center;
   gap: 8px;
 
   padding: 10px 16px;
@@ -851,19 +862,76 @@ a {
   background: none;
   color: rgba(20, 35, 60, 0.90);
   text-decoration: none;
+  text-align: center;
 
   font-weight: 500;
   font-size: 14px;
 
-  border: 1px solid rgba(20, 35, 60, 0.90);
+  border: 1px solid #9ca3af;
+  box-shadow: 0 1px 3px rgba(20, 35, 60, 0.12);
 
-  transition: all .18s ease;
+  transition: transform .18s ease;
+}
+
+@supports (mask-composite: exclude) or (-webkit-mask-composite: xor) {
+  .video-pill {
+    border-color: transparent;
+  }
+
+  .video-pill::before {
+    content: "";
+    position: absolute;
+    inset: -1px;
+    padding: 1.5px;
+    border-radius: inherit;
+    background: conic-gradient(
+      from var(--video-metal-angle, 0deg),
+      #a5abb3 0%,
+      #f9fafb 12%,
+      #555d69 18%,
+      #d5d9df 25%,
+      #fff 36%,
+      #9eafc2 42%,
+      #454b55 49%,
+      #e4e7eb 58%,
+      #fff 66%,
+      #bba98b 70%,
+      #626a76 77%,
+      #f6f7f9 88%,
+      #a5abb3 100%
+    );
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask-composite: exclude;
+    pointer-events: none;
+    animation: video-metal-shimmer 8s linear infinite;
+  }
+}
+
+@keyframes video-metal-shimmer {
+  to {
+    --video-metal-angle: 360deg;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .video-pill::before {
+    animation: none;
+  }
+
+  .video-pill {
+    transition: none;
+  }
+}
+
+.video-pill:focus-visible {
+  outline: 2px solid #2a5bd7;
+  outline-offset: 4px;
 }
 
 @media (hover: hover) and (pointer: fine) {
   .video-pill:hover {
-    background: linear-gradient(180deg, rgba(20, 35, 60, 0), rgba(20, 35, 60, 0.06));
-    border-color: rgba(20, 35, 60, 0.90);
     transform: translateY(-1px);
   }
 }
@@ -872,6 +940,7 @@ a {
   width: 18px;
   height: 18px;
   display: flex;
+  flex-shrink: 0;
 }
 
 .video-pill__ico svg {
