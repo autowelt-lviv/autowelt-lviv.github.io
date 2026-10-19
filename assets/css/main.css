@@ -885,7 +885,7 @@ a {
     padding: 1.5px;
     border-radius: inherit;
     background: conic-gradient(
-      from var(--video-metal-angle, 0deg) at -35% -65%,
+      from var(--video-metal-angle, 0deg) at -5% -30%,
       #a5abb3 0%,
       #dfe2e6 12%,
       #555d69 18%,
