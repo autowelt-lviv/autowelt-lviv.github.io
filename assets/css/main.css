@@ -88,6 +88,38 @@ a {
   margin-top: 50px;
 }
 
+/* Not found page */
+.error-page {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 16px;
+  text-align: center;
+}
+
+.error-page__code {
+  margin: 0 0 16px;
+  color: #2a5bd7;
+  font-size: clamp(80px, 14vw, 128px);
+  font-weight: 800;
+  line-height: 1;
+}
+
+.error-page__title {
+  margin: 0 0 12px;
+  color: rgba(15, 25, 45, 0.92);
+  font-size: clamp(22px, 4vw, 28px);
+}
+
+.error-page__description {
+  max-width: 420px;
+  margin: 0 0 24px;
+  color: rgba(20, 35, 60, 0.72);
+  line-height: 1.6;
+}
+
 /* 1) hero */
 .hero {
   height: 100%;
@@ -753,6 +785,10 @@ a {
   width: 16px;
   height: 16px;
   flex-shrink: 0;
+}
+
+.error-page__home {
+  padding: 10px 16px;
 }
 
 .loan-info__text {

@@ -1,0 +1,27 @@
+---
+layout: default
+title: Сторінку не знайдено | AutoWelt
+permalink: /404.html
+noindex: true
+sitemap: false
+---
+
+<div class="page">
+  <div class="container">
+    {% include hero.html %}
+
+    <main class="error-page">
+      <p class="error-page__code">404</p>
+      <h1 class="error-page__title">Сторінку не знайдено</h1>
+      <p class="error-page__description">
+        Можливо, ви помилилися в адресі або цю сторінку було видалено.
+        Поверніться на головну, щоб переглянути актуальні автомобілі.
+      </p>
+      <a class="cardetail__loan-link error-page__home" href="{{ '/' | relative_url }}">
+        Повернутися на головну
+      </a>
+    </main>
+
+    {% include compact-footer.html %}
+  </div>
+</div>
