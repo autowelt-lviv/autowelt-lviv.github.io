@@ -761,6 +761,13 @@ a {
   line-height: 1.5;
 }
 
+.loan-info__button {
+  display: flex;
+  width: fit-content;
+  margin-inline: auto;
+  padding: 10px 16px;
+}
+
 .cardetail-meta-ico {
   width: 18px;
   height: 18px;
