@@ -736,18 +736,17 @@ a {
 .cardetail__loan-link {
   display: inline-flex;
   align-items: center;
-  gap: 5px;
-  color: #187443;
-  font-size: 16px;
-  font-weight: 600;
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  gap: 8px;
+  padding: 10px 16px;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  background: none;
+  color: #2a5bd7;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+  letter-spacing: .2px;
   white-space: nowrap;
-}
-
-.cardetail__loan-link:hover,
-.cardetail__loan-link:focus-visible {
-  color: #10532f;
 }
 
 .cardetail__loan-link svg {
