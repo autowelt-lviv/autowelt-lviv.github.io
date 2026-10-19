@@ -825,6 +825,10 @@ a {
   padding: 10px 16px;
 }
 
+.section--loan {
+  padding-inline: 12px;
+}
+
 .loan-info__text {
   margin: 0 0 16px;
   color: rgba(20, 35, 60, 0.90);
@@ -990,6 +994,12 @@ a {
 /* Where to find us */
 .section--w2f {
   padding: 8px 0;
+}
+
+.section--w2f-directions,
+.section--w2f-value,
+.section--w2f-socials {
+  padding-inline: 12px;
 }
 
 .w2f-title {
