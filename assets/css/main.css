@@ -716,7 +716,7 @@ a {
   padding: 8px 14px;
   border: none;
   border-radius: 999px;
-  background: #e9ebee;
+  background: #ffffff;
   color: #6b7280;
   font-size: 14px;
   font-weight: 500;
@@ -920,19 +920,19 @@ a {
     border-radius: inherit;
     background: conic-gradient(
       from var(--video-metal-angle, 0deg) at -5% -10%,
-      #a5abb3 0%,
-      #dfe2e6 12%,
-      #555d69 18%,
-      #d5d9df 25%,
-      #e2e5e9 36%,
-      #9eafc2 42%,
-      #454b55 49%,
-      #d9dde2 58%,
-      #e2e5e9 66%,
-      #bba98b 70%,
-      #626a76 77%,
-      #dde1e6 88%,
-      #a5abb3 100%
+      #a5abb3 0% 10%,
+      #dfe2e6 12% 16%,
+      #141414 17% 20%,
+      #d5d9df 21% 33%,
+      #eff1f5 36% 40%,
+      #9eafc2 41% 46%,
+      #0a0a0a 47% 51%,
+      #d9dde2 52% 63%,
+      #e2e5e9 65% 68%,
+      #bba98b 69% 74%,
+      #1a1a1a 75% 79%,
+      #dde1e6 80% 92%,
+      #a5abb3 94% 100%
     );
     -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
     -webkit-mask-composite: xor;
