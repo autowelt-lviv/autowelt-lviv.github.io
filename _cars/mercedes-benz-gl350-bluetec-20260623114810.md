@@ -3,7 +3,7 @@ layout: car
 post_hidden: false
 created_at: 2026-06-23T14:43:00.000+03:00
 title: Mercedes Benz GL350 Bluetec
-price_usd: 18000
+price_usd: 19800
 release_year: 2014
 engine: 3.0 Diesel
 drive: Повний привід
