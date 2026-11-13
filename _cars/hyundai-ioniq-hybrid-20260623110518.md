@@ -7,9 +7,9 @@ price_usd: 11200
 release_year: 2020
 engine: 1.6 Бензин/Hybrid
 drive: Передній привід
-is_sold: false
+is_sold: true
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq/IMG_5765%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
   - https://images.autowelt.lviv.ua/cars/Hyundai%20Ioniq/IMG_5764%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
