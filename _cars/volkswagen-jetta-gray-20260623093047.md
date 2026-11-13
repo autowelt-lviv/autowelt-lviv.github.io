@@ -7,7 +7,7 @@ price_usd: 11200
 release_year: 2020
 engine: 1.4 Бензин
 drive: Передній привід
-is_sold: false
+is_sold: true
 under_deposit: false
 on_site: true
 photos:
