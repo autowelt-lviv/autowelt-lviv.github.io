@@ -7,9 +7,9 @@ price_usd: 24500
 release_year: 2019
 engine: 3.0 Бензин
 drive: Повний привід
-is_sold: false
+is_sold: true
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Audi%20Q8%203.0T%20Quattro%20White%20godo/1.jpg
   - https://images.autowelt.lviv.ua/cars/Audi%20Q8%203.0T%20Quattro%20White%20godo/2.jpg
