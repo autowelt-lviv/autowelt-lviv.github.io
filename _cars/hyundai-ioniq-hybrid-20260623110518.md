@@ -7,7 +7,7 @@ price_usd: 11200
 release_year: 2020
 engine: 1.6 Бензин/Hybrid
 drive: Передній привід
-is_sold: true
+is_sold: false
 under_deposit: false
 on_site: true
 photos:
