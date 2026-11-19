@@ -9,7 +9,7 @@ engine: 1.5 Бензин
 drive: Повний привід
 is_sold: false
 under_deposit: false
-on_site: false
+on_site: true
 photos:
   - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%202019p/58988206_Image_1.jpg
   - https://images.autowelt.lviv.ua/cars/Mitsubishi%20Eclipse%20Cross%202019p/58988206_Image_2.jpg
