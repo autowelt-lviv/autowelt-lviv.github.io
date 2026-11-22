@@ -1,8 +1,8 @@
 ---
 layout: car
 post_hidden: false
-created_at: 2026-11-22T10:11:00.000+02:00
-title: Audi Q7 Premium Plus
+created_at: 2026-11-22T10:15:00.000+02:00
+title: Mercedes Benz S580 AMG W223
 price_usd: 69900
 release_year: 2020
 alt_release_year: 2021 Америка
