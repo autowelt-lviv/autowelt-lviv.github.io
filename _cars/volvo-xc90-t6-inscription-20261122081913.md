@@ -17,6 +17,7 @@ photos:
   - https://images.autowelt.lviv.ua/cars/Volvo%20XC90%20Black%20Inscription%202015p/IMG_3134%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
   - https://images.autowelt.lviv.ua/cars/Volvo%20XC90%20Black%20Inscription%202015p/IMG_3135%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
   - https://images.autowelt.lviv.ua/cars/Volvo%20XC90%20Black%20Inscription%202015p/IMG_3136%C2%A0%E2%80%94%20%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg
+video_url: https://www.instagram.com/reel/DgAGeOVRGwj/?utm_source=ig_web_copy_link&lqvp=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==
 ---
 170тис км
 
