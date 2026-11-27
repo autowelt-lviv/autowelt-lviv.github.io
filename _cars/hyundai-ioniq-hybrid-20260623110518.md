@@ -3,7 +3,7 @@ layout: car
 post_hidden: false
 created_at: 2026-06-23T13:58:00.000+03:00
 title: Hyundai Ioniq Hybrid
-price_usd: 12900
+price_usd: 13300
 release_year: 2020
 engine: 1.6 Бензин/Hybrid
 drive: Передній привід
