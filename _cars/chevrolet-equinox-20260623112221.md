@@ -3,7 +3,8 @@ layout: car
 post_hidden: false
 created_at: 2026-09-29T15:02:00.000+03:00
 title: Chevrolet Equinox
-price_usd: 14500
+price_usd: 13900
+old_price_usd: 14500
 release_year: 2018
 engine: 1.6 Diesel
 drive: Повний привід
