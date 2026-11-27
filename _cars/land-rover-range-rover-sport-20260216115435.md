@@ -2,8 +2,8 @@
 layout: car
 created_at: 2026-10-10T13:32:00.000+03:00
 title: Land Rover Range Rover Sport HSE
-price_usd: 21500
-old_price_usd: ""
+price_usd: 20800
+old_price_usd: 21500
 release_year: 2016
 engine: 3.0 Diesel
 drive: Повний привід
