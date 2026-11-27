@@ -3,7 +3,8 @@ layout: car
 post_hidden: false
 created_at: 2026-11-13T11:23:00.000+02:00
 title: Chevrolet Equinox 1.6Diesel Black
-price_usd: 14500
+price_usd: 13900
+old_price_usd: 14500
 release_year: 2017
 engine: 1.6 Diesel
 drive: Повний привід
